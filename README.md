@@ -11,6 +11,7 @@
 - Update everyday progress and submit a pull request.
 - (Optional) Follow [100DaysOfCode Twitter Bot](https://twitter.com/_100DaysOfCode) that retweets the tweets that contain the #100DaysOfCode hashtag and timely tweet your progress with #100DaysOfCode hashtag.
 
+- Try to add detailed description of what you did, add corresponding links, if you solve questions, you can add your codes in the same folder and provid a link in the README (not for active contests).
 - We start the marathon on January 1, 2020. feel free to add your goals beforehand (they can also be added later).
 
 ## Benefits
