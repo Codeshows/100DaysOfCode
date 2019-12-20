@@ -1,25 +1,26 @@
-100DaysOfCode
+# 100DaysOfCode
 
-Ritika Mor
+**Ritika Mor**
 
-Pre Final year ECE, MNIT Jaipur
+*Pre-final year ECE, MNIT Jaipur*
 
-Goals
+---
 
-Copetitive Programming:
+## Goals
 
-   Solve dynamic programming questions
- 
-   Increase codeforces rating to 1800
+**Competitive Programming**
+- [ ] Increase [codeforces](https://www.codeforces.com/profile/majinboo) rating to 2000
+- [ ] Solve dynamic programming questions
 
-Web Development:
 
-   Basics of React and React native
-  
-   Web scraping using pyhton
-  
-   Computer Networks
-  
-   DBMS
 
- 
+**Learning Goals**
+- [ ] Learn basic React and React Native
+- [ ] Computer Networks
+- [ ] Web scraping using python
+- [ ] Learn DBMS
+
+---
+
+## Timeline
+
