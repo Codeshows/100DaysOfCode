@@ -6,20 +6,20 @@ Pre Final year ECE, MNIT Jaipur
 
 Goals
 
-Copetitive Programming
+Copetitive Programming:
 
- Solve dynamic programming questions
+   Solve dynamic programming questions
  
- Increase codeforces rating to 1800
+   Increase codeforces rating to 1800
 
-Web Development
+Web Development:
 
-  Basics of React and React native
+   Basics of React and React native
   
-  Web scraping using pyhton
+   Web scraping using pyhton
   
-  Computer Networks
+   Computer Networks
   
-  DBMS
+   DBMS
 
  
