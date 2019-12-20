@@ -9,7 +9,7 @@
 ## Goals
 
 **Competitive Programming**
-- [ ] Increase [codeforces](https://www.codeforces.com/profile/majinboo) rating to 2000
+- [ ] Increase [codeforces](https://www.codeforces.com/profile/majinboo) rating to 1800
 - [ ] Solve dynamic programming questions
 
 
