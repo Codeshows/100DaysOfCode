@@ -12,5 +12,6 @@ Web Development
   Basics of React and React native
   Web scraping using pyhton
   Computer Networks
+  DBMS
 
  
