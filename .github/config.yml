@@ -1,26 +1,21 @@
-# Configuration for the-welcome-bot - https://github.com/bash-bot/the-welcome-bot
+# Configuration for welcome - https://github.com/behaviorbot/welcome
 
-# Message for a new user who open an issue
-issueOpen: >
-  Hey! Welcome to the project.
-  Thanks for opening an issue.
-  Looking forward to see more contributions from you.
-  
-# Message for a new user who comments on an issue
-issueComment: >
-  Hey! Welcome. Thanks for contributing to 100DaysOfCode.
-  Looking forward to see more contributions from you.
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
 
-# Message for a new user who opens a PR
-prOpen: >
-  Hey! Congrats on opening you first PR.
-  With this you start the 100DaysOfCode challenge.
-  Hope you continue with the same zeal and enthusiasm.
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here!
 
-# Default message for a new user
-welcomeMessage: >
-  Hello World! Welcome to the project! Feel free to explore it.
-  Checkout the ReadMe for more details on it.
-  Want to contribute? Make an issue or submit a PR.
-  Join the telegram channel for discussions.
-  Hope you have a great time here :)
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  Thanks for opening this pull request! With this you are a part of Codeshows 100DaysOfCode. Keep coding!
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  Congrats on merging your first pull request! We here at Codeshows are proud of you! 
+
+# It is recommend to include as many gifs and emojis as possible
