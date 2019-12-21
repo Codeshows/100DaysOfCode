@@ -1,0 +1,26 @@
+# Configuration for the-welcome-bot - https://github.com/bash-bot/the-welcome-bot
+
+# Message for a new user who open an issue
+issueOpen: >
+  Hey! Welcome to the project.
+  Thanks for opening an issue.
+  Looking forward to see more contributions from you.
+  
+# Message for a new user who comments on an issue
+issueComment: >
+  Hey! Welcome. Thanks for contributing to 100DaysOfCode.
+  Looking forward to see more contributions from you.
+
+# Message for a new user who opens a PR
+prOpen: >
+  Hey! Congrats on opening you first PR.
+  With this you start the 100DaysOfCode challenge.
+  Hope you continue with the same zeal and enthusiasm.
+
+# Default message for a new user
+welcomeMessage: >
+  Hello World! Welcome to the project! Feel free to explore it.
+  Checkout the ReadMe for more details on it.
+  Want to contribute? Make an issue or submit a PR.
+  Join the telegram channel for discussions.
+  Hope you have a great time here :)
