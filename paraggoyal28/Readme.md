@@ -1,3 +1,4 @@
+
 # 100 days of coding
 
 **Parag Kumar Goyal**
@@ -26,5 +27,3 @@
 - [ ] Computer vision basics coursera
 - [ ] Intel Edge Ai by udacity
 - [ ] Deep Learning coursera Andrew Ng
-
-
