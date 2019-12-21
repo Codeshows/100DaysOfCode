@@ -1,12 +1,12 @@
-#100 days of coding
+# 100 days of coding
 
 **Parag Kumar Goyal**
 
-*Pass out Mnit Electronics and Communication Engineering
+* Pass out Mnit Electronics and Communication Engineering
 
 ---
 
-##Goals
+## Goals
 
 **Competitive Programming**
 - [] Solve first 100 questions of [Project Euler](https://projecteuler.net)
