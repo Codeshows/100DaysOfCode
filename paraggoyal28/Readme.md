@@ -27,3 +27,6 @@
 - [ ] Computer vision basics coursera
 - [ ] Intel Edge Ai by udacity
 - [ ] Deep Learning coursera Andrew Ng
+
+**TimeLine**
+22 Dec 2019 - Done 2 SPOJ questions and 4 AtCoder Questions
