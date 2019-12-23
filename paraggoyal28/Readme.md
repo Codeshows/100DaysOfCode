@@ -29,4 +29,16 @@
 - [ ] Deep Learning coursera Andrew Ng
 
 **TimeLine**
-- 22 Dec 2019 - Done 2 SPOJ questions and 4 AtCoder Questions
+# 22 Dec 2019 (Day 1)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [ONP](https://www.spoj.com/problems/ONP/) (SPOJ) | [solution](https://github.com/paraggoyal28/100DaysOfCode-1/blob/master/paraggoyal28/SPOJ/ONP.cpp)|
+| [PRIME1](https://www.spoj.com/problems/PRIME1/) (SPOJ) | [solution](https://github.com/paraggoyal28/100DaysOfCode-1/blob/master/paraggoyal28/SPOJ/PRIME1.cpp)|
+| [BalancedPath](https://atcoder.jp/contests/abc147/tasks/abc147_e) (AtCoder)| [solution](https://github.com/paraggoyal28/100DaysOfCode-1/blob/master/paraggoyal28/AtCoder/BalancedPath.cpp)|
+| [HonestOrUnkind](https://atcoder.jp/contests/abc147/tasks/abc147_c) (AtCoder)| [solution](https://github.com/paraggoyal28/100DaysOfCode-1/blob/master/paraggoyal28/AtCoder/HonestOrUnkind.cpp)|
+| [Sum Difference](https://atcoder.jp/contests/abc147/tasks/abc147_f) (AtCoder)| [solution](https://github.com/paraggoyal28/100DaysOfCode-1/blob/master/paraggoyal28/AtCoder/SumDifference.py)|
+| [XORSum4](https://atcoder.jp/contests/abc147/tasks/abc147_d) (AtCoder)| [solution](https://github.com/paraggoyal28/100DaysOfCode-1/blob/master/paraggoyal28/AtCoder/XORSum4.cpp)|
+
