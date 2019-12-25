@@ -1,36 +1,3 @@
-// Wasn't able to solve myself. Taking code from editorial.
-
-// Difficulty : Medium
-
-// Prerequisites: Dynamic Programming
-
-// Problem:
-// You are given an array A of length N and an integer K. We call a subset of 
-// elements of A good, if their product is divisible by K. We define the cost 
-// of such subset to be the sum of all it's elements. You are given Q queries
-// of form (Li,Ri) for each of which you should output the minimum cost of a 
-// good subset of the array A, if we deleted all the indices in the interval
-// [Li, Ri]. In case there's no good subset for a given query, output -1.
-
-// Quick Explanation
-// Let K = product from i = 1 to i = m pi ^ ai be the factorization of 
-// K where pi are distinct prime number and 0 < ai.Then a number T is a multiple
-// of K, if and only if for each pi it has at least ai of them. So we're only
-// interested in these prime numbers and their relative count in the interval
-// [0, ai].
-// Define a state to represent how many of each pi we have. One can see that 
-// each important state corresponds to a divisor of K since we should only
-// keep track of the primes that K has (pi) and at most the amount that K has of 
-// each in its factorization (ai).
-// If our current subset's state corresponds to d,a divisior of K, then after
-// adding an element a to it, it would corresponds to gcd(d * a, K).
-// We can define dp(i,d) to be the minimum cost of a subset of the first i 
-// elements that corresponds to d. Then dp(i,d) = min(dp(i-1,d), dp(i-1,j) + Ai) 
-// for all such j that gcd(j * Ai, K ) = d. Similarly define pd(i,d) to be the 
-// minimum cost of a subset of the elements in the interval [i, N] that correspond
-// to d. Then we can retrieve the answer for a query(Li, Ri) using the data we 
-// calculated in dp(L(i)-1) and pd(R(i)+1).
-
 #include<bits/stdc++.h>
 #pragma GCC optimzie("O3");
 using namespace std;
