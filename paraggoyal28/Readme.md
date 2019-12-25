@@ -35,7 +35,6 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-
 | [ONP](https://www.spoj.com/problems/ONP/) (SPOJ) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/SPOJ/ONP.cpp)|
 | [PRIME1](https://www.spoj.com/problems/PRIME1/) (SPOJ) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/SPOJ/PRIME1.cpp)|
 | [BalancedPath](https://atcoder.jp/contests/abc147/tasks/abc147_e) (AtCoder)| [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/AtCoder/BalancedPath.cpp)|
@@ -43,7 +42,9 @@
 | [Sum Difference](https://atcoder.jp/contests/abc147/tasks/abc147_f) (AtCoder)| [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/AtCoder/SumDifference.py)|
 | [XORSum4](https://atcoder.jp/contests/abc147/tasks/abc147_d) (AtCoder)| [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/AtCoder/XORSum4.cpp)|
 
+# 25 Dec 2019 (Day 2) 
 
+- Problem solved
 
 |**Problem**|**My solution**|
 |-----------|----------------|
