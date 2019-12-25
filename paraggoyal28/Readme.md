@@ -49,7 +49,7 @@
 
 |**Problem**|**My solution**|
 |-----------|----------------|
-| [CRSHIFT] (https://www.codechef.com/COOK113B/problems/CRSHIT) (Codechef) | [solution] (https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/CRSHIT.cpp)|
-| [MKIT] (https://www.codechef.com/COOK113B/problems/MKIT) (Codechef) | [solution] (https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/MKIT.cpp)|
-| [PRFYIT] (https://www.codechef.com/COOK113B/problems/PRFYIT) (Codechef) | [solution] (https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/PRFYIT.cpp)|
-| [XORIT] (https://www.codechef.com/COOK113B/problems/XORIT) (Codechef) | [solution] (https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/XORIT.cpp)|
+| [CRSHIFT](https://www.codechef.com/COOK113B/problems/CRSHIT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/CRSHIT.cpp)|
+| [MKIT](https://www.codechef.com/COOK113B/problems/MKIT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/MKIT.cpp)|
+| [PRFYIT](https://www.codechef.com/COOK113B/problems/PRFYIT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/PRFYIT.cpp)|
+| [XORIT](https://www.codechef.com/COOK113B/problems/XORIT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/XORIT.cpp)|
