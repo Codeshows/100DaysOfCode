@@ -42,6 +42,7 @@
 | [Sum Difference](https://atcoder.jp/contests/abc147/tasks/abc147_f) (AtCoder)| [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/AtCoder/SumDifference.py)|
 | [XORSum4](https://atcoder.jp/contests/abc147/tasks/abc147_d) (AtCoder)| [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/AtCoder/XORSum4.cpp)|
 
+
 # 25 Dec 2019 (Day 2) 
 
 - Problem solved
@@ -52,3 +53,15 @@
 | [MKIT](https://www.codechef.com/COOK113B/problems/MKIT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/MKIT.cpp)|
 | [PRFYIT](https://www.codechef.com/COOK113B/problems/PRFYIT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/PRFYIT.cpp)|
 | [XORIT](https://www.codechef.com/COOK113B/problems/XORIT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/XORIT.cpp)|
+
+# 26 Dec 2019 (Day 3)
+
+- Task Done
+
+**Coursera / DeepLearning.ai / Improving Deep Neural Network: Hyperparameter Tuning / Week 1**
+
+1. [Initialization.ipynb](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/Coursera/DeepLearning.ai/Course2(Improving...)/Week1/Initialization.ipynb)
+2. [Regularization.ipnyb](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/Coursera/DeepLearning.ai/Course2(Improving...)/Week1/Regularization_v2a.ipynb)
+3. [GradientChecking.ipnyb](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/Coursera/DeepLearning.ai/Course2(Improving...)/Week1/Gradient%2BChecking%2Bv1.ipynb)
+
+
