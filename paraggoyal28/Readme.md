@@ -64,6 +64,7 @@
 2. [Regularization.ipnyb](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/Coursera/DeepLearning.ai/Course2(Improving...)/Week1/Regularization_v2a.ipynb)
 3. [GradientChecking.ipnyb](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/Coursera/DeepLearning.ai/Course2(Improving...)/Week1/Gradient%2BChecking%2Bv1.ipynb)
 
+
 # 28 Dec 2019 (Day 4)
 
 - Problems solved
@@ -75,3 +76,5 @@
 |[CHEALG](https://www.codechef.com/LTIME79B/problems/CHEALG) (Codechef)|[solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/CHEALG.cpp)|
 |[STUPMACH](https://www.codechef.com/LTIME79B/problems/STUPMACH) (Codechef)|[solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/STUPMACH.cpp)|
 |[GUESSNUM](https://www.codechef.com/LTIME79B/problems/GUESSNUM) (Codechef)|[solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/GUESSNUM.cpp)|
+
+
