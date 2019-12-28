@@ -76,7 +76,9 @@
 |[CHEALG](https://www.codechef.com/LTIME79B/problems/CHEALG) (Codechef)|[solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/CHEALG.cpp)|
 |[STUPMACH](https://www.codechef.com/LTIME79B/problems/STUPMACH) (Codechef)|[solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/STUPMACH.cpp)|
 |[GUESSNUM](https://www.codechef.com/LTIME79B/problems/GUESSNUM) (Codechef)|[solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/GUESSNUM.cpp)|
+
  
 - Course Task done
 
 1. [Optimization.ipnyb](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/Coursera/DeepLearning.ai/Course2(Improving...)/Week2/Optimization_methods_v1b.ipynb)
+
