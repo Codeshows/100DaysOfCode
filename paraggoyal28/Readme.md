@@ -77,4 +77,12 @@
 |[STUPMACH](https://www.codechef.com/LTIME79B/problems/STUPMACH) (Codechef)|[solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/STUPMACH.cpp)|
 |[GUESSNUM](https://www.codechef.com/LTIME79B/problems/GUESSNUM) (Codechef)|[solution](https://github.com/Codeshows/100DaysOfCode/blob/master/paraggoyal28/codechef/GUESSNUM.cpp)|
 
+# 29 Dec 2019 (Day 5)
 
+- Task Done
+
+**Coursera / DeepLearning.ai / Improving Deep Neural Network: Hyperparameter Tuning / Week 2**
+**Coursera / DeepLearning.ai / Improving Deep Neural Network: Hyperparameter Tuning / Week 3**
+
+1. [Optimization](https://github.com/Codeshows/100DaysOfCode/blob/day5/paraggoyal28/Coursera/DeepLearning.ai/Course2(Improving...)/Week2/Optimization_methods_v1b.ipynb)
+2. [Tensorflow_Tutorial](https://github.com/Codeshows/100DaysOfCode/blob/day5/paraggoyal28/Coursera/DeepLearning.ai/Course2(Improving...)/Week3/TensorFlow_Tutorial_v3b.ipynb)
