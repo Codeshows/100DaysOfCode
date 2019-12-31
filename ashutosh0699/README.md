@@ -1,34 +1,35 @@
 # 100DaysOfCode
 
 ASHUTOSH SONI
-2 year Student MNIT Jaipur
 
-** Subtask #1: Improving DSA**
+2nd year Student MNIT Jaipur
 
--   C++ Theory
--   C++ STL
--   Java Theory
--   DSA Concepts
--   Practising on G4G
-- -Types of Algorithm ...Greedy and  DP 
+**Subtask #1: Improving DSA**
+
+- C++ Theory
+- C++ STL
+- Java Theory
+- DSA Concepts
+- Practising on G4G
+- Types of Algorithm ...Greedy and  DP 
 
 **Subtask #2: Competitive Coding**
 
 Codechef: (Long Challenge, Cook-off, Lunchtime)
 
--   3 star coder
+- 3 star coder
 
 Codeforces:
 
--   specialist
+- specialist
 
 **Subtask #3: Web-Development** 
 
--   Frontend  
-    -   Advanced CSS
-    -   Javascript
-    -   Bootstrap
+- Frontend  
+  -   Advanced CSS
+  -   Javascript
+  -   Bootstrap
 
--   Project
-	- Making  static website.
+- Project
+  - Making  static website.
 
