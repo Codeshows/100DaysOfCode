@@ -17,7 +17,7 @@
  + Remaining backend part-mongodb,authentication,etc.
  + Learn Linear Regression,Logistic Regression and K-NN algorithm
  + Learn Basic React
- + If possible learn Web Scrapping with Python using Scala
+ + If possible learn Web Scrapping with Python using Scrapy
 
 ### Projects
  + One Web-Development Project
