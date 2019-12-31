@@ -25,7 +25,6 @@
 
 - Increase your efficiency by checking your daily progress and analysing it.
 - Compare your progress with others and surpass your limits in learning each day.
-- You will have website that will give you a account of all you learned since the start of the year. It can be accessed at https://codeshows.github.io/100DaysOfCode/(username)
 
 
 ## Recognition
