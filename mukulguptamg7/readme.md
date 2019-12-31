@@ -15,8 +15,6 @@
 **Learning Goals**
 - [ ] C++
 - [ ] Data Structures
-- [ ] Learn Dynamic Programming Concepts
-- [ ] Learn Greedy Algorithms
 
 ---
 
