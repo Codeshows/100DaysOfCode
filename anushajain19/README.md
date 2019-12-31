@@ -1,4 +1,4 @@
- #100DaysOfCode
+ # 100DaysOfCode
 
 **Anusha Jain**
 
@@ -10,18 +10,17 @@
 
 **Competitive Programming**
 
-- () solve most of competitive programming problems.
+- [ ] solve as much as competitive programming problems.
 
 **Learning Goals**
 
-- () Learn C++ STL
-- () complete Data Structures to switch into dynamic programming concept
-- () To finish with java and android tutorials.
+- [ ] Learn C++ STL
+- [ ] complete my to do list articles on gfg (regarding DS and  DP)
+- [ ] To finish with Fork JAVA 
+- [ ] Project specific android studio tutorial on youtube
 
 **Developement**
 
-- () One Basic project of Android app developement
+- [ ] One Basic project of Android app developement
 
 ---
-
-## Timeline
