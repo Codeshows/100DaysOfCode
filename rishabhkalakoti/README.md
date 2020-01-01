@@ -25,4 +25,4 @@
 **Day 1 : (Jan 1, 2020)**
 
 - Solved a few questions on SPOJ, [ETF](https://www.spoj.com/problems/ETF/), [CRDS](https://www.spoj.com/problems/CRDS/), [FARIDA](https://www.spoj.com/problems/FARIDA/)
-- Read Chapter 8: *Influence and Homophily* from Social Media Mining.
+- Read Chapter 8: *Influence and Homophily* from Social Media Mining
