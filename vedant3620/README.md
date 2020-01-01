@@ -21,3 +21,11 @@
 ---
 
 ## The Timeline
+
+# Day 0: January 1,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Hit the Lottery](http://codeforces.com/problemset/problem/996/A) (Codeforces) | [solution](./day0/996a.cpp)|
