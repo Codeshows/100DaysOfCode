@@ -16,3 +16,13 @@
 ..* *PROJECT:*
 1. MACHINE LEARNING PROJECT.
 2. IOT PROJECT (IF POSSIBLE).
+
+
+## Timeline
+---
+# *Day 0: January 1 2020*
+..* *Learning:*
+1. Studied linear regression and cost function.
+2. Studied about woring on Git.
+
+
