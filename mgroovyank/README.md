@@ -1,7 +1,7 @@
 # H1 100 DaysOfCode
-Rajat Agrawal
+MAYANK CHHIPA
 
-Second Year EE, MNIT Jaipur
+*Junior, Mechanical Engineering, MNIT Jaipur*
 
 Goals
 Copetitive Programming
