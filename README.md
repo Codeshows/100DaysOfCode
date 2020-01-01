@@ -1,4 +1,4 @@
-# 100 Days of Code
+# 100DaysofCode
 
 
 ## Chetan Goyal
