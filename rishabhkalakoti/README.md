@@ -21,3 +21,8 @@
 - [ ] Book: [Social Media Mining: An Introduction](https://www.amazon.in/Social-Media-Mining-Reza-Zafarani-ebook/dp/B00IO0E5L8)
 
 ## The Timeline
+
+**Day 1 : (Jan 1, 2020)**
+
+- Solved a few questions on SPOJ, [ETF](https://www.spoj.com/problems/ETF/), [CRDS](https://www.spoj.com/problems/CRDS/), [FARIDA](https://www.spoj.com/problems/FARIDA/)
+- Read Chapter 8: *Influence and Homophily* from Social Media Mining.
