@@ -1,4 +1,4 @@
-#H1 100 DaysOfCode
+# H1 100 DaysOfCode
 Rajat Agrawal
 
 Second Year EE, MNIT Jaipur
