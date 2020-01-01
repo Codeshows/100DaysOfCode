@@ -8,15 +8,15 @@
 
 ## Goals
 
-**Copetitive Programming**
-- [ ] Increase [codeforces](https://www.codeforces.com/profile/yourusername) rating to target
-- [ ] Increase [codechef](https://www.codechef.com/users/yourusername) rating to target
-- [ ] Other Competitive goals like Euler Project etc.
+**Eg. Copetitive Programming**
+- [ ] Eg. Increase [codeforces](https://www.codeforces.com/profile/yourusername) rating to target
+- [ ] Eg. Increase [codechef](https://www.codechef.com/users/yourusername) rating to target
+- [ ] Eg. Other Competitive goals like Euler Project etc.
 
-**Open Source**
+**Eg. Open Source**
 - [ ] open source or any other goals here.
 
-**Learning Goals**
+**Eg. Learning Goals**
 - [ ] Any learning goals,course anything you would like to add.
 
 ---
