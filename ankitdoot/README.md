@@ -36,4 +36,13 @@
 	 - [ ] PostgreSQL
 	 - [ ] MongoDB
 
+---
+
+## Timeline
+### Day 0: January 1, 2020 (Example 1)
+**Today's Progress**: Added footer to my Personal Portfolio Project using HTML and CSS and uploaded it on GitHub.
+Learnt a bit of Git and GitHub.
+
+**Thoughts**:I have to make my Portfolio project Responsive and practice some Git commands.
+
 
