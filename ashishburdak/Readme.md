@@ -34,3 +34,4 @@
 - Completed 5 modules/35 modules of web-d course. (HTML and CSS completed)
 - Created a basic [site](https://ashishburdak.github.io/My-personal-site/) using html and css and deployed the same
  on github.
+ - repo [link](https://github.com/ashishburdak/My-personal-site)
