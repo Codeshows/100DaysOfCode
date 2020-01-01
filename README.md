@@ -25,7 +25,6 @@
 
 - Increase your efficiency by checking your daily progress and analysing it.
 - Compare your progress with others and surpass your limits in learning each day.
-- You will have website that will give you a account of all you learned since the start of the year. It can be accessed at https://codeshows.github.io/100DaysOfCode/(username)
 
 
 ## Recognition
@@ -51,6 +50,7 @@ Basic knowledge of git and its workflow is a must. If you are not comfortable, f
 - Fork the repository.
 - In your fork, make a folder by the name of your github account.
 - In your folder, make a file with the name README.md
+- We have also provided a [template](/readme-template.md) which you can follow to set up README.md
 - Update the progress in your README and submit a pull request.
 
 *If you need more clarification, feel free to reach us at [telegram](https://t.me/codeshows).*
