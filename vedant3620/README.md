@@ -22,10 +22,13 @@
 
 ## The Timeline
 
-# Day 0: January 1,2020
+# Day 1: January 1,2020
 
 - Problem Solved:
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Hit the Lottery](http://codeforces.com/problemset/problem/996/A) (Codeforces) | [solution](./day0/996a.cpp)|
+| [Hit the Lottery](http://codeforces.com/problemset/problem/996/A) (Codeforces) | [solution](./day1/996a.cpp)|
+| [Tower of Hanoi](http://codeforces.com/problemset/problem/392/B) (Codeforces) | [solution](./day1/392b.cpp)|
+| [Filling Shapes](http://codeforces.com/problemset/problem/1182/A) (Codeforces) | [solution](./day1/1182a.cpp)|
+| [Ilya and Queries](https://codeforces.com/problemset/problem/313/B) (Codeforces) | [solution](./day1/313b.cpp)|
