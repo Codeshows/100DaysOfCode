@@ -40,5 +40,19 @@
 
 ## Timeline
 
+### Day 1
+
+- Solved 7 problems in HackerRank [Search](https://www.hackerrank.com/interview/interview-preparation-kit/search/challenges) in Java
+
+|Problem|Solution|
+|-------|--------|
+|Hash Tables|[Hash Tables](/HackerRank/HashTables.java)|
+|Swap Nodes|[Swap Nodes](/HackerRank/SwapNodes.java)|
+|Pairs|[Pairs](/HackerRank/Pairs.java)|
+|Triple Sum|[Triple Sum](/HackerRank/TripleSum.java)|
+|Minimum Time Required|[Minimum Time Required](/HackerRank/MinTimeRequired.java)|
+|Maximum Subarray Sum|[Maximum Subarray Sum](/HackerRank/MaxSubarraySum.java)|
+|Making Candies|[Making Candies](/HackerRank/MakingCandies.java)|
+
 
 
