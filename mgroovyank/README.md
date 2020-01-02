@@ -28,6 +28,6 @@
 
 **Day 2: (Jan 2, 2020)**
 
--- Solved problem from InterviewBit - [Atoi](https://www.interviewbit.com/problems/atoi/)
--- Solved problem from InterviewBit - [Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)
--- Completed Daily Score Goal of 200 points on InterviewBit
+- Solved problem from InterviewBit - [Atoi](https://www.interviewbit.com/problems/atoi/)
+- Solved problem from InterviewBit - [Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)
+- Completed Daily Score Goal of 200 points on InterviewBit
