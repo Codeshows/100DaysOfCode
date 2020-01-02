@@ -40,7 +40,7 @@
 
 ## Timeline
 
-### Day 1
+### Day 1 ( January 1 , 2020 )
 
 - Solved 7 problems in HackerRank [Search](https://www.hackerrank.com/interview/interview-preparation-kit/search/challenges) in Java
 
