@@ -26,3 +26,8 @@
 - Read about Binary Search from [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
 - Watched a video demonstrating the solution of the problem(https://www.youtube.com/watch?v=TC6snf6KPdE)
 
+**Day 2: (Jan 2, 2020)**
+
+-- Solved problem from InterviewBit - [Atoi](https://www.interviewbit.com/problems/atoi/)
+-- Solved problem from InterviewBit - [Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)
+-- Completed Daily Score Goal of 200 points on InterviewBit
