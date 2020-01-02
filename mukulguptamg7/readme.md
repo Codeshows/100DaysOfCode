@@ -20,7 +20,7 @@
 
 ## The Timeline
 
-### DAY 1
+### DAY 1 : (Jan 1,2020)
 
 #### Problems Solved
 - [codechef problem](https://www.codechef.com/problems/GDOG)
@@ -31,3 +31,14 @@
 :: [my solution](https://www.codechef.com/viewsolution/28596891)
 - [codechef problem](https://www.codechef.com/problems/FLOW011)
 :: [my solution](https://www.codechef.com/viewsolution/28596956)
+
+### DAY 2 : (Jan 2,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/CANDY123)
+:: [my solution](https://www.codechef.com/viewsolution/28606549)
+- [codechef problem](https://www.codechef.com/problems/TWONMS)
+:: [my solution](https://www.codechef.com/viewsolution/28606560)
+
+#### Learning
+- Read Chapter 1: from Object Oriented Programming With C++
