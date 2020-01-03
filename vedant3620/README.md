@@ -28,17 +28,17 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Hit the Lottery](http://codeforces.com/problemset/problem/996/A) (Codeforces) | [solution](./day1/996a.cpp)|
-| [Tower of Hanoi](http://codeforces.com/problemset/problem/392/B) (Codeforces) | [solution](./day1/392b.cpp)|
-| [Filling Shapes](http://codeforces.com/problemset/problem/1182/A) (Codeforces) | [solution](./day1/1182a.cpp)|
-| [Ilya and Queries](https://codeforces.com/problemset/problem/313/B) (Codeforces) | [solution](./day1/313b.cpp)|
+| [Hit the Lottery](http://codeforces.com/problemset/problem/996/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day1/996a.cpp)|
+| [Tower of Hanoi](http://codeforces.com/problemset/problem/392/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day1/392b.cpp)|
+| [Filling Shapes](http://codeforces.com/problemset/problem/1182/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day1/1182a.cpp)|
+| [Ilya and Queries](https://codeforces.com/problemset/problem/313/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day1/313b.cpp)|
 
-# Day 2: January 2,2020
+#Â DayÂ 2:Â JanuaryÂ 2,2020
 
-- Problem Solved:
+-Â ProblemÂ Solved:
 
-|**Problem**| **My Solution**|
+|**Problem**|Â **MyÂ Solution**|
 |-----------|----------------|
-| [Creating the Contest](https://codeforces.com/problemset/problem/1029/B) (Codeforces) | [solution](./day2/1029b.cpp)|
-| [Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B) (Codeforces) | [solution](./day2/368b.cpp)|
+|Â [CreatingÂ theÂ Contest](https://codeforces.com/problemset/problem/1029/B)Â (Codeforces)Â |Â [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day2/1029b.cpp)|
+|Â [SerejaÂ andÂ Suffixes](https://codeforces.com/problemset/problem/368/B)Â (Codeforces)Â |Â [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day2/368b.cpp)|
 
