@@ -11,4 +11,4 @@ Making a "2048" game (with unity)
     Absolute Permutation : https://www.hackerrank.com/challenges/absolute-permutation?h_r=profile <br>
     
 # Day 2  
-  Implemented the animation, control, main logic
+  Implemented the animation, control, main logic in the 2048 game
