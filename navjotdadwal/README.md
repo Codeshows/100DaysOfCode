@@ -3,8 +3,67 @@ Navjot Singh Dadwal
 ECE MNIT JAIPUR FIRST YEAR
 
 Competitive Programming:
- 1. Practice more and more questions on platforms such as codechef,codeforces,geeksforgeeks,hackerearth,SPOJ etc.
- 2. atleast give all the contests on codechef,codeforces,hackerearth and also on leetcode,Atcoder etc.
- Learning and Reading:
-  1. try to understand all the concepts of DSA.
-  2. understand c++ stl.
+
+Practice more and more questions on platforms such as codechef,codeforces,geeksforgeeks,hackerearth,SPOJ etc.
+atleast give all the contests on codechef,codeforces,hackerearth and also on leetcode,Atcoder etc. Learning and Reading:
+try to understand all the concepts of DSA.
+understand c++ stl. DAY 1 QUESTIONS:
+CODECHEF-> LISDIGIT
+CODECHEF-> MATCHES
+CODECHEF-> CV
+CODECHEF-> SNCKYEAR
+CODECHEF-> ADASCOOL
+CODECHEF-> TABLET
+CODECHEF-> STRLBP
+CODECHEF-> FRK
+CODECHEF-> ICL1902
+CODECHEF-> BIT2A
+CODECHEF-> POTATOES
+CODECHEF-> DIFFSUM
+CODECHEF-> DECINC
+CODECHEF-> CHOPRT
+CODECHEF-> FSQRT
+CODECHEF-> FLOW004
+CODECHEF-> START01
+CODECHEF-> HS08TEST
+CODECHEF-> FLOW001
+CODECHEF-> INTEST
+CODECHEF-> FLOW006
+CODECHEF-> FLOW002
+CODECHEF-> TSORT
+CODECHEF-> TLG
+CODECHEF-> FLOW007
+CODECHEF-> FLOW017 READING:
+STUDIED ABOUT VECTORS AND LIST CONTAINERS IN C++ STL
+DAY 2(2ND JAN)
+
+CODECHEF-> LUCKFOUR
+CODECHEF-> MUFFINS3
+CODECHEF-> CEILRCPT
+CODECHEF-> FLOW018
+CODECHEF-> REMISS
+CODECHEF-> FLOW008
+CODECHEF-> FLOW005
+CODECHEF-> FLOW013
+CODECHEF-> PERMUT2
+CODECHEF-> AMR15A
+CODECHEF-> PALL01
+CODECHEF-> PRB01
+CODECHEF-> RECIPE
+CODECHEF-> FLOW010
+CODECHEF-> LAPIN
+CODECHEF-> SMPAIR
+CODECHEF-> FLOW009
+CODECHEF-> FLOW016
+CODECHEF-> HIT
+CODECHEF-> PPSUM
+CODECHEF-> FLOW011
+CODECHEF-> HEADBOB
+CODECHEF-> FLOW014
+CODECHEF-> TWTCLOSE
+CODECHEF-> FRUITS
+CODECHEF-> TWOVSTEN
+CODECHEF-> VOWELTB
+READINGS:
+
+STUDIED ABOUT BUILT IN FUNCTIONS IN C++ STL.
