@@ -1,3 +1,4 @@
+
 ## **#100DaysOfCode**
 Satyajit Roy
 II Year CSE, MNIT Jaipur
@@ -44,3 +45,26 @@ Codeforces:
 
  - Project
 	- [ ] SmartBrains
+
+
+## TIMELINE:
+
+**Day 1 (Jan 1, 20):**
+Solved Problems on Codeforces
+
+| Candies Division | https://codeforces.com/contest/1270/submission/68018562 |
+|--|--|
+| Make Good | https://codeforces.com/contest/1270/submission/68018437|
+|Friends & Gifts|[https://codeforces.com/contest/1283/submission/68020015](https://codeforces.com/contest/1283/submission/68020015)|
+
+**Day 2 (Jan 2, 20):**
+Web-D Day:
+
+ - Learnt CDN
+ - Started learning Bootstrap:
+	(Used Navbar, Jumbotron,  Modal, Grid)
+
+Practice Website - [thatssatya.github.io/Practice-Website](https://thatssatya.github.io/Practice-Website)
+
+Repo - [thatssatya/Practice-Website](https://github.com/thatssatya/Practice-Website)
+=======
