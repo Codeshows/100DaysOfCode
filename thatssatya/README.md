@@ -66,5 +66,6 @@ Web-D Day:
  - Started learning Bootstrap:
 	(Used Navbar, Jumbotron,  Modal, Grid)
 
-Practice Website - thatssatya.github.io/Practice-Website
-(Repo - [https://github.com/thatssatya/Practice-Website](https://github.com/thatssatya/Practice-Website))
+Practice Website - [thatssatya.github.io/Practice-Website](https://thatssatya.github.io/Practice-Website)
+
+Repo - [thatssatya/Practice-Website](https://github.com/thatssatya/Practice-Website)
