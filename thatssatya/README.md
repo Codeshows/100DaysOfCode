@@ -97,7 +97,7 @@ Codeforces:
 
 ## TIMELINE:
 
-**Day 1 (Jan 1, 19):**
+**Day 1 (Jan 1, 20):**
 Solved Problems on Codeforces
 
 | Candies Division | https://codeforces.com/contest/1270/submission/68018562 |
@@ -105,7 +105,7 @@ Solved Problems on Codeforces
 | Make Good | https://codeforces.com/contest/1270/submission/68018437|
 |Friends & Gifts|[https://codeforces.com/contest/1283/submission/68020015](https://codeforces.com/contest/1283/submission/68020015)|
 
-**Day 2 (Jan 2, 19):**
+**Day 2 (Jan 2, 20):**
 Web-D Day:
 
  - Learnt CDN
