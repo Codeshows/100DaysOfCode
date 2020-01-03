@@ -7,7 +7,10 @@ Competitive Programming:
 Practice more and more questions on platforms such as codechef,codeforces,geeksforgeeks,hackerearth,SPOJ etc.
 atleast give all the contests on codechef,codeforces,hackerearth and also on leetcode,Atcoder etc. Learning and Reading:
 try to understand all the concepts of DSA.
-understand c++ stl. DAY 1 QUESTIONS:
+understand c++ stl. 
+
+DAY 1 QUESTIONS:
+
 CODECHEF-> LISDIGIT
 CODECHEF-> MATCHES
 CODECHEF-> CV
@@ -35,6 +38,7 @@ CODECHEF-> TLG
 CODECHEF-> FLOW007
 CODECHEF-> FLOW017 READING:
 STUDIED ABOUT VECTORS AND LIST CONTAINERS IN C++ STL
+
 DAY 2(2ND JAN)
 
 CODECHEF-> LUCKFOUR
