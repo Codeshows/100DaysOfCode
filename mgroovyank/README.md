@@ -35,5 +35,5 @@
 **Day 3: (Jan 3, 2020)**
 
 - Solved problem from InterviewBit - [Valid Number](https://www.interviewbit.com/problems/valid-number/)
-- Solved problem from InterviewBit - [Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)
-- Completed Daily Score Goal of 200 points on InterviewBit
+- Solved Problem from InterviewBit - [Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)
+- Completed Daily Practice Goal of 200 points on InterviewBit

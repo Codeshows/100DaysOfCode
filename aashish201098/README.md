@@ -23,3 +23,7 @@
 - [ ] Image Processing
 
 ## The Timeline
+
+### Day 0: January 1, 2020
+
+**Today's Progress**: Solved questions on Codeforces
