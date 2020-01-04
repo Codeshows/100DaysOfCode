@@ -44,3 +44,12 @@
     - Also tried - [problem1](https://www.hackerearth.com/problem/algorithm/mike-and-fraud-f1e18b0c/), [problem2](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/transaction-f9f70f83/), [problem3](https://www.hackerearth.com/problem/algorithm/dexter-plays-with-gp-3767dda6/) (got partial points)
     
  - Read about [Discrete Logarithm](https://cp-algorithms.com/algebra/discrete-log.html)
+ 
+ **Day 3 : (Jan 3, 2020)**
+ 
+ - Solved Codechef Long Challenge Problems 
+    - [BRKBKS](https://www.codechef.com/JAN20B/problems/BRKBKS)
+    - [DYNAMO](https://www.codechef.com/JAN20B/problems/DYNAMO)
+ - Other problems solved-
+    - [Problem](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day3/linked-list-middle-element.cpp)
+    - [Problem](https://www.codechef.com/problems/TWONMS) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day3/Two%20Numbers.cpp)

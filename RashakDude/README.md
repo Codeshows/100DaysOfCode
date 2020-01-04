@@ -54,5 +54,17 @@
 |Maximum Subarray Sum|[Maximum Subarray Sum](/HackerRank/MaxSubarraySum.java)|
 |Making Candies|[Making Candies](/HackerRank/MakingCandies.java)|
 
+### Day 2 ( January 2 , 2020 )
+
+- Solved 6 problems on Project Euler
+
+|Problem|Answer|Solution|
+|-------|------|--------|
+|Problem 1|233168|[Solution 1](/Project%20Euler/problem1.py)|
+|Problem 2|4613732|[Solution 2](/Project%20Euler/problem2.py)|
+|Problem 3|6857|[Solution 3](/Project%20Euler/problem3.py)|
+|Problem 4|906609|[Solution 4](/Project%20Euler/problem4.py)|
+|Problem 5|232792560|[Solution 5](/Project%20Euler/problem5.py)|
+|Problem 6|25164150|[Solution 6](/Project%20Euler/problem6.py)|
 
 
