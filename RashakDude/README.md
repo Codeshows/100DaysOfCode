@@ -40,5 +40,31 @@
 
 ## Timeline
 
+### Day 1 ( January 1 , 2020 )
+
+- Solved 7 problems in HackerRank [Search](https://www.hackerrank.com/interview/interview-preparation-kit/search/challenges) in Java
+
+|Problem|Solution|
+|-------|--------|
+|Hash Tables|[Hash Tables](/HackerRank/HashTables.java)|
+|Swap Nodes|[Swap Nodes](/HackerRank/SwapNodes.java)|
+|Pairs|[Pairs](/HackerRank/Pairs.java)|
+|Triple Sum|[Triple Sum](/HackerRank/TripleSum.java)|
+|Minimum Time Required|[Minimum Time Required](/HackerRank/MinTimeRequired.java)|
+|Maximum Subarray Sum|[Maximum Subarray Sum](/HackerRank/MaxSubarraySum.java)|
+|Making Candies|[Making Candies](/HackerRank/MakingCandies.java)|
+
+### Day 2 ( January 2 , 2020 )
+
+- Solved 6 problems on Project Euler
+
+|Problem|Answer|Solution|
+|-------|------|--------|
+|Problem 1|233168|[Solution 1](/Project%20Euler/problem1.py)|
+|Problem 2|4613732|[Solution 2](/Project%20Euler/problem2.py)|
+|Problem 3|6857|[Solution 3](/Project%20Euler/problem3.py)|
+|Problem 4|906609|[Solution 4](/Project%20Euler/problem4.py)|
+|Problem 5|232792560|[Solution 5](/Project%20Euler/problem5.py)|
+|Problem 6|25164150|[Solution 6](/Project%20Euler/problem6.py)|
 
 

@@ -26,3 +26,12 @@
 
 - Solved a few questions on SPOJ, [ETF](https://www.spoj.com/problems/ETF/), [CRDS](https://www.spoj.com/problems/CRDS/), [FARIDA](https://www.spoj.com/problems/FARIDA/)
 - Read Chapter 8: *Influence and Homophily* from Social Media Mining
+
+**Day 2 : (Jan 2, 2020)**
+
+
+**Day 3 : (Jan 3, 2020)**
+
+- Solved [DYNAMO](https://www.codechef.com/JAN20A/problems/DYNAMO) on CodeChef
+- Watched a video on effective unit testing: https://www.youtube.com/watch?v=fr1E9aVnBxw
+
