@@ -42,3 +42,13 @@
 | [Creating the Contest](https://codeforces.com/problemset/problem/1029/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day2/1029b.cpp)|
 | [Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day2/368b.cpp)|
 
+# Day 3: January 3,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Two Substrings](https://codeforces.com/problemset/problem/550/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day3/550a.cpp)|
+| [Breaking Bricks](https://www.codechef.com/JAN20B/problems/BRKBKS) (Codechef) | Ongoing Competition |
+| [Chef and Dynamo](https://www.codechef.com/JAN20B/problems/DYNAMO) (Codechef) | Ongoing Competition |
+
