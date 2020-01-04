@@ -67,6 +67,9 @@
 |-----------|----------------|
 | [Doraemon](https://www.codechef.com/JAN20B/problems/CHFDORA) (Codechef Long Challenge) | Ongoing Contest |
 | [QAQ](https://codeforces.com/contest/894/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day4/QAQ.cpp)|
+| [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day4/Rhombus.cpp)|
+
+
 
 
 
