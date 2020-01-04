@@ -7,6 +7,7 @@ CSE 1st Year MNIT Jaipur <br>
 
 # Day 1 
   Created basic sprites and basic setup in unity for the 2048 game <br><br>
+
   Problems solved on hackerrank =>  <br>
     Pangrams : https://www.hackerrank.com/challenges/pangrams?h_r=profile <br>
     HackerRank in a String! : https://www.hackerrank.com/challenges/hackerrank-in-a-string?h_r=profile <br>
