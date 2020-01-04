@@ -2,7 +2,7 @@ Shashwat Gandhi <br>
 CSE 1st Year MNIT Jaipur <br>
 
 ### Goals - <br>
-1. Reach a rating of 2000 on hackerrank  <br>
+1. Reach a score of 2200 on hackerrank in problem solving  <br>
 2. Making a "2048" game (with unity)
 
 # Day 1 
