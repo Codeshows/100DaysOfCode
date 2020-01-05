@@ -16,7 +16,7 @@
 ### Learning Goals
  + Remaining backend part-mongodb,authentication,etc.
  + Learn Linear Regression,Logistic Regression and K-NN algorithm
- + Learn Basic React
+ + Learn Basic React(last priority)
  + If possible learn Web Scrapping with Python using Scrapy
 
 ### Projects
@@ -25,5 +25,9 @@
 ------------------------------------------------------------------------------------------
 ## Timeline
 
-
-
+## Day 1(January 5,2020)
+  +Solved 1 problem on codeforces
+  +learned express and working with API's
+	|Problems solved    |
+	|----------------   |
+	|[I'm an inline-style link with title](https://codeforces.com/contest/1287/problem/A "Angry Students(Codeforces)")|
