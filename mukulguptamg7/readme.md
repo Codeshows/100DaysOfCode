@@ -64,3 +64,13 @@
 
 #### Learning
 - Read Chapter 3: from Object Oriented Programming With C++
+
+### DAY 5 : (Jan 5,2020)
+
+#### Problems Solved
+- [ongoing contest codechef problem](https://www.codechef.com/JAN20B/problems/BRKBKS)
+- [codechef problem](https://www.codechef.com/problems/SMPAIR)
+:: [my solution](https://www.codechef.com/viewsolution/28718149)
+
+#### Learning
+- Read Chapter 4: from Object Oriented Programming With C++
