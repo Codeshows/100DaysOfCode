@@ -31,3 +31,9 @@
 - Solved problem from InterviewBit - [Atoi](https://www.interviewbit.com/problems/atoi/)
 - Solved problem from InterviewBit - [Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)
 - Completed Daily Score Goal of 200 points on InterviewBit
+
+**Day 3: (Jan 3, 2020)**
+
+- Solved problem from InterviewBit - [Valid Number](https://www.interviewbit.com/problems/valid-number/)
+- Solved Problem from InterviewBit - [Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)
+- Completed Daily Practice Goal of 200 points on InterviewBit
