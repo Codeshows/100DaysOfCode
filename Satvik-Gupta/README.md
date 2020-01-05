@@ -28,11 +28,11 @@
 
 ---
 ### Day 1: January 1, 2020
-#### learned about
-#### Why do we need (efficient) algorithms?(https://www.commonlounge.com/discussion/3df2dfd8ea7e407b93f70724a0e4602e)
-#### Binary Exponentiation (https://cp-algorithms.com/algebra/binary-exp.html)
-#### Euclidean algorithm for computing the greatest common divisor (https://cp-algorithms.com/algebra/euclid-algorithm.html)
-#### Extended Euclidean Algorithm (https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
+#### learning:
+- Why do we need (efficient) algorithms?(https://www.commonlounge.com/discussion/3df2dfd8ea7e407b93f70724a0e4602e)
+- Binary Exponentiation (https://cp-algorithms.com/algebra/binary-exp.html)
+- Euclidean algorithm for computing the greatest common divisor (https://cp-algorithms.com/algebra/euclid-algorithm.html)
+- Extended Euclidean Algorithm (https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
 
 ### Day 2: January 2, 2020
 
