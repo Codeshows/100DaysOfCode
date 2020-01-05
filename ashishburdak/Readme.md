@@ -53,3 +53,12 @@
  - Other problems solved-
     - [Problem](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day3/linked-list-middle-element.cpp)
     - [Problem](https://www.codechef.com/problems/TWONMS) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day3/Two%20Numbers.cpp)
+
+  **Day 4 : (Jan 4, 2020)**
+  
+  - Hackerearth easy contest problems-
+      - [Valid partitions](https://www.hackerearth.com/problem/algorithm/groups-of-k-30bb3411/) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/Valid%20partitions.cpp)
+      - [Maximum bit shifts](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lexicographic-maximum-bit-shift-bbb95118/) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/Maximum%20bit%20shifts.cpp)
+      - Partially Solved [Palindromic game](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/palindrome-game-dcf03e89/), [Special circles](https://www.hackerearth.com/problem/algorithm/lovely-circles-db8c1d49/)
+   - Codeforces Hello 2020
+      - [New Year and Naming](https://codeforces.com/contest/1284/problem/A) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/New%20Year%20and%20Naming.cpp)
