@@ -28,7 +28,11 @@
 
 ---
 ### Day 1: January 1, 2020
-
+#### learned about
+#### Why do we need (efficient) algorithms?(https://www.commonlounge.com/discussion/3df2dfd8ea7e407b93f70724a0e4602e)
+#### Binary Exponentiation (https://cp-algorithms.com/algebra/binary-exp.html)
+#### Euclidean algorithm for computing the greatest common divisor (https://cp-algorithms.com/algebra/euclid-algorithm.html)
+#### Extended Euclidean Algorithm (https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
 
 ### Day 2: January 2, 2020
 
@@ -44,6 +48,12 @@
 | [Chef and Dynamo](https://www.codechef.com/JAN20B/problems/DYNAMO) (Codechef) | [Solution](https://www.codechef.com/viewsolution/28646308)|
 
 ### Day 4: January 4, 2020
+
+#### January Easy 2020 
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Maximum bit shifts](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lexicographic-maximum-bit-shift-bbb95118/)(HackerEarth) |[Solution]()|
+| [Valid partitions](https://www.hackerearth.com/problem/algorithm/groups-of-k-30bb3411/)|[Solution]()|
 
 ### Day 5: January 5, 2020
 
