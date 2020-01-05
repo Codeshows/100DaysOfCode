@@ -52,11 +52,25 @@
  
 - Problem Solved:
 
-|**Problem**|
-|-----------|
+|**Problem**| **My Solution**|
+|-----------|----------------|
 | [Breaking Bricks](https://www.codechef.com/JAN20B/problems/BRKBKS) (Codechef Long Challenge) | Ongoing Competition |
 | [Chef and Dynamo](https://www.codechef.com/JAN20B/problems/DYNAMO) (Codechef Long Challenge) | Ongoing Competition |
 | [Equality](https://www.codechef.com/JAN20B/problems/ISBIAS) (Codechef Long Challenge) | Ongoing Competition |
+
+
+# 4 Jan 2020 (Day 4)
+ 
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Doraemon](https://www.codechef.com/JAN20B/problems/CHFDORA) (Codechef Long Challenge) | Ongoing Contest |
+| [QAQ](https://codeforces.com/contest/894/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day4/QAQ.cpp)|
+| [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day4/Rhombus.cpp)|
+
+
+
 
 
 

@@ -15,3 +15,8 @@
 ## MY WORK:-
 All the work I do and progress I make can be found in the respective folders in this directory. For example, my Responsive Web Design projects can be found in the following directory : Web Design/Responsive Web Design Projects/
 You can keep track of my work this way. All necessary links can be found in there. 
+
+## PROGRESS:-
+**4th Jan -**<br>
+  2 of 5 Responsive Web Design Projects completed on freeCodeCamp.org<br>
+  3rd under construction ;)
