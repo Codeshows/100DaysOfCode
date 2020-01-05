@@ -35,3 +35,8 @@
 - Solved [DYNAMO](https://www.codechef.com/JAN20A/problems/DYNAMO) on CodeChef
 - Watched a video on effective unit testing: https://www.youtube.com/watch?v=fr1E9aVnBxw
 
+
+**Day 4 : (Jan 4, 2020)**
+
+- Solved [CHEFDORA](https://www.codechef.com/JAN20A/problems/CHEFDORA) on CodeChef
+
