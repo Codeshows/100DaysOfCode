@@ -26,5 +26,5 @@
 ## Timeline
 
 ## Day 1(January 5,2020)
-  +Solved 1 problem on codeforces [I'm an inline-style link](https://codeforces.com/contest/1287/problem/A)
+  +Solved 1 problem on codeforces [Angry Students](https://codeforces.com/contest/1287/problem/A)
   +learned express and working with API's
