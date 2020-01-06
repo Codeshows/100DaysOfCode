@@ -37,3 +37,14 @@
 - Solved problem from InterviewBit - [Valid Number](https://www.interviewbit.com/problems/valid-number/)
 - Solved Problem from InterviewBit - [Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)
 - Completed Daily Practice Goal of 200 points on InterviewBit
+
+**Day 4: (Jan 4, 2020)**
+
+- Solved problem from InterviewBit - [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)
+- Solved problem from InterviewBit - [Implement StrStr](https://www.interviewbit.com/problems/implement-strstr/)
+- Completed Daily Practice Goal of 200 points on InterviewBit
+
+**Day 5: (Jan 5, 2020)**
+
+- Solved problem from InterviewBit - [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)
+- Completed Daily Practice Goal of 200 points on InterviewBit
