@@ -16,7 +16,7 @@
 
 **Open Source**
 - [ ] Contribute to as many repositories
-- [ ] Contribute in various repositories for [KWOC](https://kwoc.kossiitkgp.org/profile/rashakdude)
+- [x] Contribute in various repositories for [KWOC](https://kwoc.kossiitkgp.org/profile/rashakdude)
 - [ ] Preparation of GSoC 2020
 
 **Learning Goals**
@@ -74,3 +74,13 @@
 <img src = "/RashakDude/Screenshots/day3.png" width = "70%">
 </center>
 
+### Day 4 ( January 4 , 2020 )
+
+- Solved 4 problems on Project Euler
+
+|Problem|Answer|Solution|
+|-------|------|--------|
+|Problem 7|104743|[Solution 7](/RashakDude/Project%20Euler/problem7.py)|
+|Problem 8|23514624000|[Solution 8](/RashakDude/Project%20Euler/problem8.py)|
+|Problem 9|31875000|[Solution 9](/RashakDude/Project%20Euler/problem9.py)|
+|Problem 10|142913828922|[Solution 10](/RashakDude/Project%20Euler/problem10.py)|
