@@ -52,3 +52,14 @@
 | [Breaking Bricks](https://www.codechef.com/JAN20B/problems/BRKBKS) (Codechef) | Ongoing Competition |
 | [Chef and Dynamo](https://www.codechef.com/JAN20B/problems/DYNAMO) (Codechef) | Ongoing Competition |
 
+# Day 4: January 4,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [New Year and Naming](https://codeforces.com/contest/1284/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day4/1284a.cpp)|
+| [BerSU Ball](https://codeforces.com/problemset/problem/489/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day4/489b.cpp)|
+| [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day4/489c.cpp)|
+| [Doraemon](https://www.codechef.com/JAN20B/problems/CHFDORA) (Codechef) | Ongoing Competition |
+| [Equality](https://www.codechef.com/JAN20B/problems/ISBIAS) (Codechef) | Ongoing Competition |
