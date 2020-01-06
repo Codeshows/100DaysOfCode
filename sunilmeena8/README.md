@@ -27,3 +27,7 @@
 ### DAY 1
 ---
 1. Completed week2 of machine learning course on courseera.
+---
+### DAY 2
+1. Studied AngularJS for website development.
+---
