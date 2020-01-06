@@ -53,3 +53,24 @@
 
 #### Learning
 - Read Chapter 2: from Object Oriented Programming With C++
+
+### DAY 4 : (Jan 4,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/LONGSEQ)
+:: [my solution](https://www.codechef.com/viewsolution/28677107)
+- [codechef problem](https://www.codechef.com/problems/PPSUM)
+:: [my solution](https://www.codechef.com/viewsolution/28677314)
+
+#### Learning
+- Read Chapter 3: from Object Oriented Programming With C++
+
+### DAY 5 : (Jan 5,2020)
+
+#### Problems Solved
+- [ongoing contest codechef problem](https://www.codechef.com/JAN20B/problems/BRKBKS)
+- [codechef problem](https://www.codechef.com/problems/SMPAIR)
+:: [my solution](https://www.codechef.com/viewsolution/28718149)
+
+#### Learning
+- Read Chapter 4: from Object Oriented Programming With C++
