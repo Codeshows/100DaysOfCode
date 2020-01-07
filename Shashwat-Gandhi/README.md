@@ -26,3 +26,10 @@ CSE 1st Year MNIT Jaipur <br>
   Adapted the game for different screen sizes, <br>
   added an undo button upto 5 steps, <br>
   added UI for score <br>
+
+# Day 4
+  In the game: <br>
+  Added Game Won, Game Over Panel
+  Added Restart Button
+  Removed A Bug
+  Improved the sprites
