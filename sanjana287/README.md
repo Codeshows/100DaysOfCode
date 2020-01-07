@@ -65,11 +65,11 @@ watched videos on dynamic programming by geeksforgeeks
 * Solved 3 questions in IUPC-Plinth 20 Round 1.
 
 ### Links:
-[Q1] (https://www.codechef.com/PLIN2020/status/SPCEXM)
-[A1] (https://www.codechef.com/viewsolution/28753227)
-[Q2] (https://www.codechef.com/PLIN2020/problems/OTSERC)
-[A2] (https://www.codechef.com/viewsolution/28759312)
-[Q3] (https://www.codechef.com/PLIN2020/problems/PJCYP)
-[A3] (https://www.codechef.com/viewsolution/28755682)
+[Q1] (https://www.codechef.com/PLIN2020/status/SPCEXM)  
+ [A1] (https://www.codechef.com/viewsolution/28753227)  
+ [Q2] (https://www.codechef.com/PLIN2020/problems/OTSERC)  
+ [A2] (https://www.codechef.com/viewsolution/28759312)  
+ [Q3] (https://www.codechef.com/PLIN2020/problems/PJCYP)  
+ [A3] (https://www.codechef.com/viewsolution/28755682)  
 
 
