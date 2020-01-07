@@ -91,6 +91,17 @@
 | [Trip](https://codeforces.com/problemset/problem/1113/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day6/trip.cpp)|
 
 
+# 7 Jan 2020 (Day 7)
+ 
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimum Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/mincoins.cpp)|
+| [LIS](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lis.cpp)|
+| [LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lcs.cpp)|
+
+
 
 
 
