@@ -63,3 +63,20 @@
 | [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day4/489c.cpp)|
 | [Doraemon](https://www.codechef.com/JAN20B/problems/CHFDORA) (Codechef) | Ongoing Competition |
 | [Equality](https://www.codechef.com/JAN20B/problems/ISBIAS) (Codechef) | Ongoing Competition |
+
+# Day 5: January 5,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Angry Students](https://codeforces.com/contest/1287/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day5/1287a.cpp)|
+
+# Day 6: January 6,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day6/MinOp.cpp)|
+| [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day6/maxLengthChain.cpp)|

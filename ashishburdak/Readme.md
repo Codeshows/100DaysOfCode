@@ -64,7 +64,7 @@
       - [New Year and Naming](https://codeforces.com/contest/1284/problem/A) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/New%20Year%20and%20Naming.cpp)
       
    **Day 5 : (Jan 5, 2020)**
-   
+
    - Participated in [NITC2020](https://www.codechef.com/NITC2020) and got 1st rank-
       - [MAGC](https://www.codechef.com/NITC2020/problems/MAGC) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MAGC.cpp)
       - [FIXT](https://www.codechef.com/NITC2020/problems/FIXT) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/FIXT.cpp)
