@@ -80,6 +80,17 @@
 | [Hyperset](https://codeforces.com/contest/1287/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day5/hyperset.cpp)|
 
 
+# 6 Jan 2020 (Day 6)
+ 
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Max Chain Length](https://practice.geeksforgeeks.org/problems/max-length-chain/1) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day6/maxchainlen.cpp)|
+| [Minimum Operation](https://practice.geeksforgeeks.org/problems/find-optimum-operation/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day6/minoperation.cpp)|
+| [Trip](https://codeforces.com/problemset/problem/1113/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day6/trip.cpp)|
+
+
 
 
 
