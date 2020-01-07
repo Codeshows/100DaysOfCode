@@ -53,3 +53,42 @@
  - Other problems solved-
     - [Problem](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day3/linked-list-middle-element.cpp)
     - [Problem](https://www.codechef.com/problems/TWONMS) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day3/Two%20Numbers.cpp)
+
+  **Day 4 : (Jan 4, 2020)**
+  
+  - Hackerearth easy contest problems-
+      - [Valid partitions](https://www.hackerearth.com/problem/algorithm/groups-of-k-30bb3411/) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/Valid%20partitions.cpp)
+      - [Maximum bit shifts](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lexicographic-maximum-bit-shift-bbb95118/) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/Maximum%20bit%20shifts.cpp)
+      - Partially Solved [Palindromic game](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/palindrome-game-dcf03e89/), [Special circles](https://www.hackerearth.com/problem/algorithm/lovely-circles-db8c1d49/)
+   - Codeforces Hello 2020
+      - [New Year and Naming](https://codeforces.com/contest/1284/problem/A) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/New%20Year%20and%20Naming.cpp)
+      
+   **Day 5 : (Jan 5, 2020)**
+
+   - Participated in [NITC2020](https://www.codechef.com/NITC2020) and got 1st rank-
+      - [MAGC](https://www.codechef.com/NITC2020/problems/MAGC) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MAGC.cpp)
+      - [FIXT](https://www.codechef.com/NITC2020/problems/FIXT) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/FIXT.cpp)
+      - [MTLS](https://www.codechef.com/NITC2020/problems/MTLS) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MTLS.cpp)
+      - [TATU](https://www.codechef.com/NITC2020/problems/TATU) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/TATU.cpp)
+      - [MITLOV](https://www.codechef.com/NITC2020/problems/MITLOV) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MITLOV.cpp)
+      - [CHUNO](https://www.codechef.com/NITC2020/problems/CHUNO) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/CHUNO.cpp)
+      - [MADOMA](https://www.codechef.com/NITC2020/problems/MADOMA) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MADOMA.cpp)
+   - codeforces 612 round-
+      - [Angry Students](https://codeforces.com/contest/1287/problem/A) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/612A.cpp)
+   - Solved codechef long question-
+      - [CHFDORA](https://www.codechef.com/JAN20B/problems/CHFDORA) 
+
+  **Day 6 : (Jan 6, 2020)**
+  
+  - Codechef Long Problem Solved
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [ISBIAS](https://www.codechef.com/JAN20B/problems/ISBIAS) | Ongoing Competition |
+  - Participated in [PLIN2020](https://www.codechef.com/PLIN2020)
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [SPCEXM](https://www.codechef.com/PLIN2020/problems/SPCEXM) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/SPCEXM.cpp) |
+    | [OTSERC](https://www.codechef.com/PLIN2020/problems/OTSERC) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/OTSERC.cpp) |
+    | [PJCYP](https://www.codechef.com/PLIN2020/problems/PJCYP) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/PJCYP.cpp) |
