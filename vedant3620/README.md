@@ -80,3 +80,12 @@
 |-----------|----------------|
 | [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day6/MinOp.cpp)|
 | [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day6/maxLengthChain.cpp)|
+
+# Day 7: January 7,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day7/min_coins.cpp)|
+| [Maximum Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day7/maximum_common_substring.cpp)|
