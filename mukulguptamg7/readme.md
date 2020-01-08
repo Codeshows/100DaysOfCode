@@ -74,3 +74,14 @@
 
 #### Learning
 - Read Chapter 4: from Object Oriented Programming With C++
+
+### DAY 6 : (Jan 6,2020)
+
+#### Problems Solved
+
+- [ongoing contest codechef problem ](https://www.codechef.com/JAN20B/problems/DYNAMO)
+- [codechef problem](https://www.codechef.com/problems/FLOW010)
+:: [my solution](https://www.codechef.com/viewsolution/28744174)
+
+#### Learning
+- Read Chapter 5: from Object Oriented Programming With C++

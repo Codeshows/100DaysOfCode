@@ -48,3 +48,9 @@
 
 - Solved problem from InterviewBit - [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)
 - Completed Daily Practice Goal of 200 points on InterviewBit
+
+**Day 6: (Jan 6, 2020)**
+
+- Watched a video explaining the [backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
+- Watched a video explaining [KMP](https://www.youtube.com/watch?v=GTJr8OvyEVQ&t=448s)
+=======
