@@ -1,36 +1,47 @@
 # 100DaysOfCode
 
-**Your Name**
+**ESHAAN GUPTA**
 
-*Yeas(eg:- final,pre-final,2nd year) Branch, MNIT Jaipur*
+*2nd year, Electronics and Communication, MNIT Jaipur*
 
 ---
 
 ## Goals
 
-**Eg. Copetitive Programming**
-- [ ] Eg. Increase [codeforces](https://www.codeforces.com/profile/yourusername) rating to target
-- [ ] Eg. Increase [codechef](https://www.codechef.com/users/yourusername) rating to target
-- [ ] Eg. Other Competitive goals like Euler Project etc.
+****
+- [ ]  Increase [codeforces](https://www.codeforces.com/profile/esh_08) 1550
+- [ ]  Increase [codechef](https://www.codechef.com/users/mr_no) 2000
+- [ ]  Practice Graph and DP problems.
 
-**Eg. Open Source**
-- [ ] open source or any other goals here.
 
 **Eg. Learning Goals**
-- [ ] Any learning goals,course anything you would like to add.
+- [ ] Web Development (Back end)
 
 ---
 
 
 ## Timeline
 
-### Day 0: January 1, 2020 (Example 1)
+### Day 0: January 4, 2020 
+|**Problems solved**|
+|-----------|
+| [Chef and Dynamo](https://www.codechef.com/JAN20B/problems/DYNAMO/ ) (Codechef) |
+| [Breaking bricks](https://www.codechef.com/JAN20B/problems/BRKBKS) (Codechef) | 
+| [Doraemon](https://www.codechef.com/JAN20B/problems/CHFDORA) (Codechef) | 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: January 5, 2020
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+|**Problems solved**|
+|-----------|
+| [Angry Students](https://codeforces.com/contest/1287/problem/A) (Codeforces) | 
+| [Hyperset](https://codeforces.com/contest/1287/problem/B) (Codeforces) | 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 3: January 6, 2020
+|-----------|
+| [Equality]( https://www.codechef.com/JAN20B/problems/ISBIAS) (Codechef)|
+
+
+
 
 
 
