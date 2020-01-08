@@ -102,6 +102,13 @@
 | [LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lcs.cpp)|
 
 
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimum Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/mincoins.cpp)|
+| [LIS](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lis.cpp)|
+| [LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lcs.cpp)|
+
+
 # 8 Jan 2020 (Day 8)
  
 - Problem Solved:
