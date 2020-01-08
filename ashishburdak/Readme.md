@@ -92,8 +92,7 @@
     | [SPCEXM](https://www.codechef.com/PLIN2020/problems/SPCEXM) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/SPCEXM.cpp) |
     | [OTSERC](https://www.codechef.com/PLIN2020/problems/OTSERC) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/OTSERC.cpp) |
     | [PJCYP](https://www.codechef.com/PLIN2020/problems/PJCYP) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/PJCYP.cpp) |
-    
-    
+   
   **Day 7 : (Jan 7, 2020)**
   
   - Problems Solved-
