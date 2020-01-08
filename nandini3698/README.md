@@ -70,6 +70,15 @@
 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day4/Rhombus.cpp)|
 
 
+# 5 Jan 2020 (Day 5)
+ 
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Angry Students](https://codeforces.com/contest/1287/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day5/angstudent.cpp)|
+| [Hyperset](https://codeforces.com/contest/1287/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day5/hyperset.cpp)|
+
 
 
 

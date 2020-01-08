@@ -62,3 +62,18 @@
       - Partially Solved [Palindromic game](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/palindrome-game-dcf03e89/), [Special circles](https://www.hackerearth.com/problem/algorithm/lovely-circles-db8c1d49/)
    - Codeforces Hello 2020
       - [New Year and Naming](https://codeforces.com/contest/1284/problem/A) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/New%20Year%20and%20Naming.cpp)
+      
+   **Day 5 : (Jan 5, 2020)**
+   
+   - [NITC2020](https://www.codechef.com/NITC2020) Problems Solved-
+      - [MAGC](https://www.codechef.com/NITC2020/problems/MAGC) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MAGC.cpp)
+      - [FIXT](https://www.codechef.com/NITC2020/problems/FIXT) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/FIXT.cpp)
+      - [MTLS](https://www.codechef.com/NITC2020/problems/MTLS) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MTLS.cpp)
+      - [TATU](https://www.codechef.com/NITC2020/problems/TATU) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/TATU.cpp)
+      - [MITLOV](https://www.codechef.com/NITC2020/problems/MITLOV) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MITLOV.cpp)
+      - [CHUNO](https://www.codechef.com/NITC2020/problems/CHUNO) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/CHUNO.cpp)
+      - [MADOMA](https://www.codechef.com/NITC2020/problems/MADOMA) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MADOMA.cpp)
+   - codeforces 612 round-
+      - [Angry Students](https://codeforces.com/contest/1287/problem/A) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/612A.cpp)
+   - Solved codechef long question-
+      - [CHFDORA](https://www.codechef.com/JAN20B/problems/CHFDORA) 
