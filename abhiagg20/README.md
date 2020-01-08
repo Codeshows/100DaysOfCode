@@ -23,6 +23,26 @@
 ### *Day 0: January 1 2020*
   * Learning:
 1. Studied linear regression and cost function.
-2. Studied about woring on Git.
+2. Studied about working on Git.
 
+### *Day 1: January 2 2020*
+   * Learning:
+1. Studied about ways of expressing cost functions (Contour Figures)
+
+### *Day 2: January 3 2020*
+ * Learning:
+1. Studied about Gradient Descent and Linear Regression Algorithm.
+2. Continued CSS styling study on FreeCodeCamp
+
+### *Day 3: January 4 2020*
+ * Learning:
+1. Reviewed Linear algebra used in LR.
+2. Continued FreeCodeCamp Course.
+
+### *Day 4: January 5 2020*
+ * Learning:
+1. Started LR in multiple variables.
+
+* CP:
+1. Started solving January Long Challenge.
 
