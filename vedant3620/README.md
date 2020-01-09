@@ -89,3 +89,10 @@
 |-----------|----------------|
 | [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day7/min_coins.cpp)|
 | [Maximum Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day7/maximum_common_substring.cpp)|
+
+# Day 8: January 8,2020
+
+- Completed Section 1(24 mins lecture) of The web developer bootcamp course on udemy.
+- Completed Section 2(27 mins lecture) of The web developer bootcamp course on udemy.
+- Read the article on [Tabulation vs memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
+
