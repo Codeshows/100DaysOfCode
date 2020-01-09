@@ -2,9 +2,10 @@ Shashwat Gandhi <br>
 CSE 1st Year MNIT Jaipur <br>
 
 ### Goals - <br>
-1. Reach a score of 2200 on hackerrank in problem solving  <br>
-2. Making a "2048" game (with unity) <br>
-3. Making a colorFill3D game (with unity) <br><br>
+- [ ] Reach a score of 2200 on hackerrank in problem solving  <br>
+- [ ] Make around 5 to 10 games using Unity
+- [x] Game 1 : "2048" game (with unity) <br>
+- [ ] Game 2 : colorFill3D game (with unity) <br><br>
 
 # Day 1 
   Created basic sprites and basic setup in unity for the 2048 game <br><br>
