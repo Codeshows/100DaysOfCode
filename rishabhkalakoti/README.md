@@ -43,5 +43,18 @@
 
 **Day 5 : (Jan 5, 2020)**
 
-- Attended PyJaipur Organisers Meetup. [Ref](https://github.com/PyJaipur/PyJaipur/issues/7)
+- Attended [PyJaipur Organisers Meetup](https://github.com/PyJaipur/PyJaipur/issues/7)
 
+**Day 6 : (Jan 6, 2020)**
+
+- Solved [ENGLISH](https://www.codechef.com/JAN20A/problems/ENGLISH) on CodeChef
+- Participated in [IUPC-Plinth'20](https://www.codechef.com/PLIN2020) online round, team : [death_blow](https://www.codechef.com/teams/view/death_blow)
+
+
+**Day 7 : (Jan 7, 2020)**
+
+- Solved [CHEFPSA](https://www.codechef.com/JAN20A/problems/CHEFPSA) on CodeChef
+
+**Day 7 : (Jan 7, 2020)**
+
+- Partially solved [DFMTRX](https://www.codechef.com/JAN20A/problems/DFMTRX) on CodeChef

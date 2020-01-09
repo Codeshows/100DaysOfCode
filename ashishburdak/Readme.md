@@ -64,8 +64,8 @@
       - [New Year and Naming](https://codeforces.com/contest/1284/problem/A) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day4/New%20Year%20and%20Naming.cpp)
       
    **Day 5 : (Jan 5, 2020)**
-   
-   - [NITC2020](https://www.codechef.com/NITC2020) Problems Solved-
+
+   - Participated in [NITC2020](https://www.codechef.com/NITC2020) and got 1st rank-
       - [MAGC](https://www.codechef.com/NITC2020/problems/MAGC) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MAGC.cpp)
       - [FIXT](https://www.codechef.com/NITC2020/problems/FIXT) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/FIXT.cpp)
       - [MTLS](https://www.codechef.com/NITC2020/problems/MTLS) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/MTLS.cpp)
@@ -77,3 +77,38 @@
       - [Angry Students](https://codeforces.com/contest/1287/problem/A) :: [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day5/612A.cpp)
    - Solved codechef long question-
       - [CHFDORA](https://www.codechef.com/JAN20B/problems/CHFDORA) 
+
+  **Day 6 : (Jan 6, 2020)**
+  
+  - Codechef Long Problem Solved
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [ISBIAS](https://www.codechef.com/JAN20B/problems/ISBIAS) | Ongoing Competition |
+  - Participated in [PLIN2020](https://www.codechef.com/PLIN2020)
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [SPCEXM](https://www.codechef.com/PLIN2020/problems/SPCEXM) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/SPCEXM.cpp) |
+    | [OTSERC](https://www.codechef.com/PLIN2020/problems/OTSERC) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/OTSERC.cpp) |
+    | [PJCYP](https://www.codechef.com/PLIN2020/problems/PJCYP) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day6/PJCYP.cpp) |
+   
+  **Day 7 : (Jan 7, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [Operations on an Array](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/operations-on-an-array-2187f48a/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day7/Operations%20on%20an%20Array.cpp) |
+    | [Minimum Cabs](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/minimum-cabs-0798cfa5/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day7/Minimum%20Cabs.cpp) |
+    | [CDUTSV02](https://www.codechef.com/HEST2020/problems/CDUTSV02) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day7/CDUTSV02.cpp) |
+
+  **Day 8 : (Jan 8, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [SOPC001](https://www.codechef.com/SAPC2019/problems/SOPC001) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day%208/SOPC001.cpp) |
+    | [SOPC006](https://www.codechef.com/SAPC2019/problems/SOPC006) (Codechef)| [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day%208/SOPC006%20.cpp) |
+    | [SPCWAR](https://www.codechef.com/PLIN2020/problems/SPCWAR) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day%208/SPCWAR.cpp) |
