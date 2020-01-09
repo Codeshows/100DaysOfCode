@@ -54,3 +54,7 @@
 **Day 7 : (Jan 7, 2020)**
 
 - Solved [CHEFPSA](https://www.codechef.com/JAN20A/problems/CHEFPSA) on CodeChef
+
+**Day 7 : (Jan 7, 2020)**
+
+- Partially solved [DFMTRX](https://www.codechef.com/JAN20A/problems/DFMTRX) on CodeChef
