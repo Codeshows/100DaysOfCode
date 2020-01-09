@@ -96,3 +96,11 @@
 - Completed Section 2(27 mins lecture) of The web developer bootcamp course on udemy.
 - Read the article on [Tabulation vs memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
 
+# Day 9: January 9,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Recruit Villagers](https://www.codechef.com/PLIT2020/problems/VILLINE) (Codechef) | Ongoing Contest|
+| [Minion AND Range](https://www.codechef.com/PLIT2020/problems/MINIAND) (Codechef) | Ongoing Contest|
