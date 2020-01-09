@@ -52,3 +52,47 @@
 | [Breaking Bricks](https://www.codechef.com/JAN20B/problems/BRKBKS) (Codechef) | Ongoing Competition |
 | [Chef and Dynamo](https://www.codechef.com/JAN20B/problems/DYNAMO) (Codechef) | Ongoing Competition |
 
+# Day 4: January 4,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [New Year and Naming](https://codeforces.com/contest/1284/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day4/1284a.cpp)|
+| [BerSU Ball](https://codeforces.com/problemset/problem/489/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day4/489b.cpp)|
+| [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day4/489c.cpp)|
+| [Doraemon](https://www.codechef.com/JAN20B/problems/CHFDORA) (Codechef) | Ongoing Competition |
+| [Equality](https://www.codechef.com/JAN20B/problems/ISBIAS) (Codechef) | Ongoing Competition |
+
+# Day 5: January 5,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Angry Students](https://codeforces.com/contest/1287/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day5/1287a.cpp)|
+
+# Day 6: January 6,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day6/MinOp.cpp)|
+| [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day6/maxLengthChain.cpp)|
+
+# Day 7: January 7,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day7/min_coins.cpp)|
+| [Maximum Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0) (GFG) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day7/maximum_common_substring.cpp)|
+
+# Day 8: January 8,2020
+
+- Completed Section 1(24 mins lecture) of The web developer bootcamp course on udemy.
+- Completed Section 2(27 mins lecture) of The web developer bootcamp course on udemy.
+- Read the article on [Tabulation vs memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
+
