@@ -70,11 +70,42 @@
 
 ### Day 4: January 5, 2020 
 
-**Today's Progress**: Solved Some Problems on Codeforces,Hackearth.
+**Today's Progress**: Solved Some problems on Codechef
 
-**Thoughts**: Ohh! Tough but Intresting!!.
+**Thoughts**: I Can do that!!.
 
-**Link(s) to work**: [Codeforces Profile](http://codeforces.com/profile/domnic_toretto)
+**Link(s) to work**: [Problem](https://www.codechef.com/JAN20B/problems/DYNAMO)
+
+
+### Day 5: January 6, 2020 
+
+**Today's Progress**: Solved Some Problems on Codeforces.
+
+**Problems**:[Codeforces](https://codeforces.com/submissions/domnic_toretto)
+
+**Solutions**:[Link](https://github.com/HeyOmkar/CPP-Problems)
+
+
+### Day 6: January 7, 2020 
+
+**Today's Progress**: Solved Some Problems Using Datastructures.
+
+**Thoughts**: Made logic easy to implement!!.
+
+**Link(s)**: [Hackerearth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/)
+
+
+### Day 7: January 8, 2020 
+
+**Today's Progress**: Learned Some basics of html and how to apply CSS.
+
+**Thoughts**:Let me make my first Webpage!!.
+
+**Link(s)**: [Source](https://scrimba.com/)
+
+
+
+
 
 
 
