@@ -3,7 +3,8 @@ CSE 1st Year MNIT Jaipur <br>
 
 ### Goals - <br>
 1. Reach a score of 2200 on hackerrank in problem solving  <br>
-2. Making a "2048" game (with unity)
+2. Making a "2048" game (with unity) <br>
+3. Making a colorFill3D game (with unity) <br><br>
 
 # Day 1 
   Created basic sprites and basic setup in unity for the 2048 game <br><br>
@@ -33,3 +34,7 @@ CSE 1st Year MNIT Jaipur <br>
   Added Restart Button
   Removed A Bug
   Improved the sprites
+  
+  # Day 5
+  ColorFill -> Set up the environment <br>
+  <t> Set up the playerMovement <br>
