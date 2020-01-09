@@ -53,4 +53,14 @@
 
 - Watched a video explaining the [backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
 - Watched a video explaining [KMP](https://www.youtube.com/watch?v=GTJr8OvyEVQ&t=448s)
-=======
+
+**Day 7: (Jan 7, 2020)**
+
+- Solved problem on InterviewBit - [ImplementStrStr](https://www.interviewbit.com/problems/implement-strstr/)
+- Solved problem on InterviewBit - [Roman To Integer](https://www.interviewbit.com/problems/integer-to-roman/)
+
+**Day 8: (Jan 8, 2020)**
+
+- Solved problem on InterviewBit - [Add Binary Strings](https://www.interviewbit.com/problems/add-binary-strings/)
+- Partially Solved problem on InterviewBit - [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/)
+- Completed Daily Practice Goal of 200 points on InterviewBit
