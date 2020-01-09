@@ -85,3 +85,14 @@
 
 #### Learning
 - Read Chapter 5: from Object Oriented Programming With C++
+
+### DAY 7 : (Jan 7,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/PALL01)
+:: [my solution](https://www.codechef.com/viewsolution/28814019)
+- [codechef problem](https://www.codechef.com/problems/AMR15A)
+:: [my solution](https://www.codechef.com/viewsolution/28814183)
+
+#### Learning
+- Read Chapter 6: from Object Oriented Programming With C++
