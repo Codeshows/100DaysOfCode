@@ -37,6 +37,8 @@
 | [Hyperset](https://codeforces.com/contest/1287/problem/B) (Codeforces) | 
 
 ### Day 3: January 8, 2020
+
+|**Problems solved**|
 |-----------|
 | [Equality]( https://www.codechef.com/JAN20B/problems/ISBIAS) (Codechef)|
 
