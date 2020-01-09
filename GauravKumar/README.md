@@ -1,5 +1,5 @@
 # Started from 10th january 2020
-## Goals
+## Goals:
 
 ### January goals
 #### 1. complete the chat app and the shared calendar app in android
@@ -10,7 +10,7 @@
 #### 2. complete the android courses
 #### 3. Get that google android certification
 
-### Current Progress
+## Current Progress
 
-#### Day-1:-
-##### 1. solved first 2 questions in codechef long challenge
+### Day-1:-
+#### 1. solved first 2 questions in codechef long challenge
