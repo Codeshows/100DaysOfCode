@@ -10,7 +10,8 @@
 ## GOALS:
 
  # Daily Goals:
- - [ ] Solve at least 10 problems on HackerRank (5 Maths + 5 Algo)
+ - [ ] Solve at least 10 problems on HackerRank (5 Maths + 5 Algo)..
+       currently unable to do..(Instead do 3 problems on leetCode topicwise)
  - [ ] Learn something new about coding skills and C++ STL everyday while solving problems.
  - [ ] Learn and memorize Data Structures and Algorithm concepts.
 
@@ -26,8 +27,7 @@
 
 **Work**
 - [ ] Add some more features to my Warbler and Yelpcamp project
-- [ ] Make few more projects in JS and master JS.
-
+- [ ] Make few more projects in JS and master JS.(soc..Firebase and React)
 ---
 
 ## Timeline
