@@ -64,3 +64,6 @@
 - Solved problem on InterviewBit - [Add Binary Strings](https://www.interviewbit.com/problems/add-binary-strings/)
 - Partially Solved problem on InterviewBit - [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/)
 - Completed Daily Practice Goal of 200 points on InterviewBit
+
+**Day 9: (Jan 9, 2020)**
+- Solved problem on InterviewBit - [Count And Say](https://www.interviewbit.com/problems/count-and-say/)
