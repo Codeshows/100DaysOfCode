@@ -124,10 +124,11 @@
 
 
 # 10 Jan 2020 (Day 10)
- 
+
 - Problem Solved:
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [GRUBAN](https://www.codechef.com/submit/GRUBAN) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day10/gruban.cpp)|
-| [Read DP articles] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
+| [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
+

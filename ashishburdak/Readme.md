@@ -112,3 +112,13 @@
     | [SOPC001](https://www.codechef.com/SAPC2019/problems/SOPC001) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day%208/SOPC001.cpp) |
     | [SOPC006](https://www.codechef.com/SAPC2019/problems/SOPC006) (Codechef)| [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day%208/SOPC006%20.cpp) |
     | [SPCWAR](https://www.codechef.com/PLIN2020/problems/SPCWAR) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day%208/SPCWAR.cpp) |
+
+  **Day 9 : (Jan 9, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [VILLINE](https://www.codechef.com/PLIT2020/problems/VILLINE) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day9/VILLINE.cpp) |
+    | [MINIAND](https://www.codechef.com/PLIT2020/problems/MINIAND) (Codechef)| [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day9/MINIAND.cpp) |
+    | [GRUBAN](https://www.codechef.com/PLIT2020/problems/GRUBAN) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day9/GRUBAN.cpp) |
