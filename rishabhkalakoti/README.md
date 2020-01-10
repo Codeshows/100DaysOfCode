@@ -57,4 +57,11 @@
 
 **Day 7 : (Jan 7, 2020)**
 
+**Day 8 : (Jan 8, 2020)**
+
 - Partially solved [DFMTRX](https://www.codechef.com/JAN20A/problems/DFMTRX) on CodeChef
+
+**Day 9 : (Jan 9, 2020)**
+
+- Added a [commit](https://github.com/madlabsinc/teachcode/pull/64/commits/72368d6f72c2288cea23aa1fa47710a01e7f1f00) to an ongoing PR for e2e tests. Refactoring with JavaScript Object Destructuring.
+- Participated in [ENIGMA](https://www.codechef.com/PLIT2020) on Codechef
