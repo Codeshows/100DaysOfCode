@@ -12,5 +12,10 @@
 
 # Current Progress
 
-## Day-1:
-#### 1. solved first 2 questions in codechef long challenge
+## Day-1 (10th Jan):
+#### 1. Solved first 4 questions in codechef long challenge and skipped all lectures for it
+#### 2. Solved the first 3 questions of AtCoder Beginner Challenge 150 in virtual participation
+#### 3. Completed all the contents of the first module in Fork CPP on GFG.
+
+## Day-2 (11th Jan):
+#### 1.
