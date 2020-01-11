@@ -39,3 +39,13 @@ CSE 1st Year MNIT Jaipur <br>
   # Day 5
   ColorFill -> Set up the environment <br>
   <t> Set up the playerMovement <br>
+  
+  # Day 6
+  Saw some of the previous game jams and the top games <br>
+  
+  # Day 7
+  Added Enemy Tile Movement <br>
+  Algo for filling tiles <br>
+  Spawn and Kill Animation <br>
+
+  
