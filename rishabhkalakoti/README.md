@@ -70,3 +70,8 @@
 **Day 10 : (Jan 10, 2020)**
 
 - Solved [DFMTRX](https://www.codechef.com/JAN20A/problems/DFMTRX) on CodeChef
+
+**Day 11 : (Jan 11, 2020)**
+
+- Problem solving in [JAN20A](https://www.codechef.com/JAN20A) on CodeChef
+- Testing with [sinonJS](https://sinonjs.org/) and [ava](https://github.com/avajs/ava)
