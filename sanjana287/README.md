@@ -46,15 +46,15 @@ watched videos on dynamic programming by geeksforgeeks
 
 ## Day3: January 3,2020
 
-* Solved questions in January Long challenge
+* Solved questions in January Long challenge (ongoing)
 * Studied Javascript
 
 ### Links:
-[Q1] (https://www.codechef.com/JAN20B/problems/BRKBKS)  
+[Q1] (https://www.codechef.com/JAN20B/problems/BRKBKS) 
 
 
 ## Day4: January 4,2020
-* Solved Questions in January Long challenge
+* Solved Questions in January Long challenge (ongoing)
 ### Links:
 [Q1] (https://www.codechef.com/JAN20B/problems/DYNAMO)  
 [Q2] (https://www.codechef.com/JAN20B/problems/CHFDORA)
@@ -104,4 +104,4 @@ watched videos on dynamic programming by geeksforgeeks
 * Solved problem in January Long challenge
 
 ### Links:
-[Q1] (https://www.codechef.com/JAN20B/problems/ISBIAS)
+[Q1] (https://www.codechef.com/JAN20B/problems/ISBIAS) (ongoing)
