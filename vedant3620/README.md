@@ -104,3 +104,15 @@
 |-----------|----------------|
 | [Recruit Villagers](https://www.codechef.com/PLIT2020/problems/VILLINE) (Codechef) | Ongoing Contest|
 | [Minion AND Range](https://www.codechef.com/PLIT2020/problems/MINIAND) (Codechef) | Ongoing Contest|
+
+# Day 10: January 10,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Gru is Handing Out Bananas ](https://www.codechef.com/PLIT2020/problems/GRUBAN) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day10/GRUBAN.cpp)|
+
+
+- Read the article on [Optimal Substructure Property](https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/)
+- Read the article on [Overlapping Subproblems Property](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
