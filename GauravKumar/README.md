@@ -20,6 +20,7 @@
                 D. ISBIAS
 #### 2. Completed all the contents of the first module in Fork CPP on GFG.
 
+
 ## Day-2 (11th Jan):
 #### 1. Solved the first 3 questions of AtCoder Beginner Challenge 150 in virtual participation.
                 A, B, and C of the 6 questions

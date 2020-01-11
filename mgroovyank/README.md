@@ -67,3 +67,7 @@
 
 **Day 9: (Jan 9, 2020)**
 - Solved problem on InterviewBit - [Count And Say](https://www.interviewbit.com/problems/count-and-say/)
+
+**Day 10: (Jan 10, 2020)**
+- Solved problem on InterviewBit - [Single Number](https://www.interviewbit.com/problems/single-number/)
+- Solved problem on InterviewBit - [Single Number II](https://www.interviewbit.com/problems/single-number-ii/)
