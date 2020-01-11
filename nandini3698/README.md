@@ -132,3 +132,12 @@
 | [GRUBAN](https://www.codechef.com/submit/GRUBAN) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day10/gruban.cpp)|
 | [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
 
+
+# 11 Jan 2020 (Day 11)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Encoded List](https://leetcode.com/contest/biweekly-contest-17/problems/decompress-run-length-encoded-list/) (LeetCode biweekly contest-17) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day11/encode.txt)|
+| [Matrix Block Sum](https://leetcode.com/contest/biweekly-contest-17/problems/matrix-block-sum/) (LeetCode biweekly contest-17) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day11/matrixsum.txt)|
