@@ -47,5 +47,3 @@ CSE 1st Year MNIT Jaipur <br>
   Added Enemy Tile Movement <br>
   Algo for filling tiles <br>
   Spawn and Kill Animation <br>
-
-  

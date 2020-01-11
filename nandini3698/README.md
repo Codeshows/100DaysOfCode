@@ -102,13 +102,6 @@
 | [LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lcs.cpp)|
 
 
-|**Problem**| **My Solution**|
-|-----------|----------------|
-| [Minimum Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/mincoins.cpp)|
-| [LIS](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lis.cpp)|
-| [LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lcs.cpp)|
-
-
 # 8 Jan 2020 (Day 8)
  
 - Problem Solved:
@@ -117,3 +110,25 @@
 |-----------|----------------|
 | [Maximum Sum Increasing Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day8/maxsuminc.cpp)|
 | [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
+
+
+
+# 9 Jan 2020 (Day 9)
+ 
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Recruit Villagers](https://www.codechef.com/PLIT2020/problems/VILLINE) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day9/villine.cpp)|
+| [Minion AND Range](https://www.codechef.com/PLIT2020/problems/MINIAND) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day9/miniand.cpp)|
+
+
+# 10 Jan 2020 (Day 10)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [GRUBAN](https://www.codechef.com/submit/GRUBAN) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day10/gruban.cpp)|
+| [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
+
