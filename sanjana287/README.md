@@ -54,7 +54,8 @@ watched videos on dynamic programming by geeksforgeeks
 
 
 ## Day4: January 4,2020
-* Solved Questions in January Long challenge (ongoing)
+* Solved questions in January Long challenge (ongoing)
+
 ### Links:
 [Q1] (https://www.codechef.com/JAN20B/problems/DYNAMO)  
 [Q2] (https://www.codechef.com/JAN20B/problems/CHFDORA)
@@ -105,3 +106,4 @@ watched videos on dynamic programming by geeksforgeeks
 
 ### Links:
 [Q1] (https://www.codechef.com/JAN20B/problems/ISBIAS) (ongoing)
+

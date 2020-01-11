@@ -42,5 +42,27 @@
 | [Angry Students](https://codeforces.com/contest/1287/problem/A) (Codeforces) | 
 | [Hyperset](https://codeforces.com/contest/1287/problem/B) (Codeforces) | 
 
+### Day 4: January 6, 2020
+### Day 5: January 7, 2020
+|**Problems solved**|
+|-----------|
+| [Minimum sum path in a triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/ |
+| [Unique paths ina grid](https://www.interviewbit.com/problems/unique-paths-in-a-grid/) |
+### Day 6: January 8, 2020
+|**Problems solved**|
+|-----------|
+| [Chefina and prefix suffix sum](https://www.interviewbit.com/problems/unique-paths-in-a-grid/) (Codechef) |
+### Day 7: January 9, 2020
+|**Problems solved**|
+|-----------|
+| [VILLINE](https://www.codechef.com/PLIT2020/problems/VILLINE) (Codechef) |
+| [MINIAND](https://www.codechef.com/PLIT2020/problems/MINIAND) (Codechef) | 
+| [GRUBAN](https://www.codechef.com/PLIT2020/problems/GRUBAN) (Codechef) | 
 
+### Day 8: January 10, 2020
+|**Problems solved**|
+|-----------|
+| [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) (Codeforces)|
+| [Just eat it](https://codeforces.com/contest/1285/problem/B) (Codeforces) | 
+| [Mezoplaying Zoma](https://codeforces.com/contest/1285/problem/A) (Codeforces) | 
 
