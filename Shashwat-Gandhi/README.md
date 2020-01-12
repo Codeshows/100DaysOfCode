@@ -5,7 +5,7 @@ CSE 1st Year MNIT Jaipur <br>
 - [ ] Reach a score of 2200 on hackerrank in problem solving  <br>
 - [ ] Make around 5 to 10 games using Unity
 - [x] Game 1 : "2048" game (with unity) <br>
-- [ ] Game 2 : colorFill3D game (with unity) <br><br>
+- [x] Game 2 : colorFill3D game (with unity) <br><br>
 
 # Day 1 
   Created basic sprites and basic setup in unity for the 2048 game <br><br>
@@ -39,3 +39,15 @@ CSE 1st Year MNIT Jaipur <br>
   # Day 5
   ColorFill -> Set up the environment <br>
   <t> Set up the playerMovement <br>
+  
+  # Day 6
+  Saw some of the previous game jams and the top games <br>
+  
+  # Day 7
+  Added Enemy Tile Movement <br>
+  Algo for filling tiles <br>
+  Spawn and Kill Animation <br>
+  
+  # Day 8
+  Added New Game ,Exit Button
+  Added 6 levels
