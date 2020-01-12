@@ -126,3 +126,13 @@
 | [Decompress Run-Length Encoded List](https://leetcode.com/contest/biweekly-contest-17/problems/decompress-run-length-encoded-list/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(1).cpp)|
 | [Matrix Block Sum](https://leetcode.com/contest/biweekly-contest-17/problems/matrix-block-sum/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(2).cpp)|
 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/contest/biweekly-contest-17/problems/sum-of-nodes-with-even-valued-grandparent/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(3).cpp)|
+
+
+# Day 11: January 11,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [DIVSUM - Divisor Summation](https://www.spoj.com/problems/DIVSUM/) (SPOJ) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day12/DIVSUM(spoj).cpp)|
+| [Day-1](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (Codathon,Hackerearth) | Ongoing Contest |
