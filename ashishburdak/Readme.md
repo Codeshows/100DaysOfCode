@@ -122,3 +122,13 @@
     | [VILLINE](https://www.codechef.com/PLIT2020/problems/VILLINE) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day9/VILLINE.cpp) |
     | [MINIAND](https://www.codechef.com/PLIT2020/problems/MINIAND) (Codechef)| [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day9/MINIAND.cpp) |
     | [GRUBAN](https://www.codechef.com/PLIT2020/problems/GRUBAN) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day9/GRUBAN.cpp) |
+
+  **Day 10 : (Jan 10, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day10/Mezo%20Playing%20Zoma.cpp) |
+    | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day10/Just%20Eat%20It!.cpp) |
+    | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day10/Fadi%20and%20LCM.cpp) |

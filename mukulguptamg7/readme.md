@@ -96,3 +96,25 @@
 
 #### Learning
 - Read Chapter 6: from Object Oriented Programming With C++
+
+### DAY 8 : (Jan 8,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/PRB01)
+:: [my solution](https://www.codechef.com/viewsolution/28814064)
+- [codechef problem](https://www.codechef.com/problems/PRGIFT)
+:: [my solution](https://www.codechef.com/viewsolution/28887564)
+
+#### Learning
+- Read Chapter 7: from Object Oriented Programming With C++
+
+### DAY 9 : (Jan 9,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/PLMU)
+:: [my solution](https://www.codechef.com/viewsolution/28914152)
+- [codechef problem](https://www.codechef.com/problems/MISSP)
+:: [my solution](https://www.codechef.com/viewsolution/28914205)
+
+#### Learning
+- Read Chapter 8: from Object Oriented Programming With C++
