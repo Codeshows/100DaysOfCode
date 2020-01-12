@@ -102,13 +102,6 @@
 | [LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lcs.cpp)|
 
 
-|**Problem**| **My Solution**|
-|-----------|----------------|
-| [Minimum Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/mincoins.cpp)|
-| [LIS](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lis.cpp)|
-| [LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day7/lcs.cpp)|
-
-
 # 8 Jan 2020 (Day 8)
  
 - Problem Solved:
@@ -129,3 +122,22 @@
 | [Recruit Villagers](https://www.codechef.com/PLIT2020/problems/VILLINE) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day9/villine.cpp)|
 | [Minion AND Range](https://www.codechef.com/PLIT2020/problems/MINIAND) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day9/miniand.cpp)|
 
+
+# 10 Jan 2020 (Day 10)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [GRUBAN](https://www.codechef.com/submit/GRUBAN) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day10/gruban.cpp)|
+| [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
+
+
+# 11 Jan 2020 (Day 11)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Encoded List](https://leetcode.com/contest/biweekly-contest-17/problems/decompress-run-length-encoded-list/) (LeetCode biweekly contest-17) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day11/encode.txt)|
+| [Matrix Block Sum](https://leetcode.com/contest/biweekly-contest-17/problems/matrix-block-sum/) (LeetCode biweekly contest-17) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day11/matrixsum.txt)|

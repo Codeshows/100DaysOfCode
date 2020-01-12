@@ -65,3 +65,13 @@
 
 - Added a [commit](https://github.com/madlabsinc/teachcode/pull/64/commits/72368d6f72c2288cea23aa1fa47710a01e7f1f00) to an ongoing PR for e2e tests. Refactoring with JavaScript Object Destructuring.
 - Participated in [ENIGMA](https://www.codechef.com/PLIT2020) on Codechef
+
+
+**Day 10 : (Jan 10, 2020)**
+
+- Solved [DFMTRX](https://www.codechef.com/JAN20A/problems/DFMTRX) on CodeChef
+
+**Day 11 : (Jan 11, 2020)**
+
+- Problem solving in [JAN20A](https://www.codechef.com/JAN20A) on CodeChef
+- Testing with [sinonJS](https://sinonjs.org/) and [ava](https://github.com/avajs/ava)
