@@ -46,17 +46,18 @@ watched videos on dynamic programming by geeksforgeeks
 
 ## Day3: January 3,2020
 
-* Solved questions in January Long challenge
+* Solved questions in January Long challenge (ongoing)
 * Studied Javascript
 
 ### Links:
-[Q1] (https://www.codechef.com/JAN20B/problems/BRKBKS)  
+[Q1] (https://www.codechef.com/JAN20B/problems/BRKBKS) 
 
 
 ## Day4: January 4,2020
-* Solved Questions in January Long challenge
+* Solved questions in January Long challenge (ongoing)
+
 ### Links:
-[Q1] (https://www.codechef.com/JAN20B/problems/DYNAMO)
+[Q1] (https://www.codechef.com/JAN20B/problems/DYNAMO)  
 [Q2] (https://www.codechef.com/JAN20B/problems/CHFDORA)
 
 
@@ -79,6 +80,30 @@ watched videos on dynamic programming by geeksforgeeks
  [A3] (https://www.codechef.com/viewsolution/28755682)  
 
 
+## Day7: January 7,2020
+* studied PHP and MySQL 
+
 ### Links:
-[cpp] (https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
+(https://youtu.be/qjwc8ScTHnY)
+
+
+## Day8: January 8,2020
+* Solved problems on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1287/problem/A)  
+[A1] (https://codeforces.com/contest/1287/submission/68414238)
+
+## Day9: January 9,2020
+* Solved problems on codechef
+
+### Links:
+[Q1] (https://www.codechef.com/PLIT2020/problems/VILLINE)  
+[A1] (https://www.codechef.com/viewsolution/28858623)
+
+## Day10: January 10,2020
+* Solved problem in January Long challenge
+
+### Links:
+[Q1] (https://www.codechef.com/JAN20B/problems/ISBIAS) (ongoing)
 
