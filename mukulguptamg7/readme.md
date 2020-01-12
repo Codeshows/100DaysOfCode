@@ -118,3 +118,13 @@
 
 #### Learning
 - Read Chapter 8: from Object Oriented Programming With C++
+
+### DAY 9 : (Jan 9,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/LAPIN)
+:: [my solution](https://www.codechef.com/viewsolution/28946810)
+- [codechef problem](https://www.codechef.com/problems/COMM3)
+:: [my solution](https://www.codechef.com/viewsolution/28947993)
+#### Learning
+- Read Chapter 9: from Object Oriented Programming With C++
