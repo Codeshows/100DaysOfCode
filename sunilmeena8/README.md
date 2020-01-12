@@ -31,3 +31,9 @@
 ### DAY 2
 1. Studied AngularJS for website development.
 ---
+### DAY 3
+1. Completed week2 assignments of machine learning course.
+---
+### DAY 4
+1. Started week3 of machine learning course.
+2. Solved some data structure questions from geeks for geeks.
