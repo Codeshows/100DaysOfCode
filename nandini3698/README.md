@@ -151,3 +151,12 @@
 |-----------|----------------|
 | [Codathon Day1](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (Hackerearth Codathon)| [Solution] (Ongoing Contest)|
 | [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
+
+
+# 13 Jan 2020 (Day 13)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Codathon Day2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (Hackerearth Codathon)| [Solution] (Ongoing Contest)|
