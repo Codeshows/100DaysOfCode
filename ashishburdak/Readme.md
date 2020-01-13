@@ -132,3 +132,13 @@
     | [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day10/Mezo%20Playing%20Zoma.cpp) |
     | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day10/Just%20Eat%20It!.cpp) |
     | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day10/Fadi%20and%20LCM.cpp) |
+
+  **Day 11 : (Jan 11, 2020)**
+  
+  - Devoted 3-4 hours on [ENGLISH](https://www.codechef.com/JAN20B/problems/ENGLISH) but unsuccessful
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [Palindrome queries](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/palindrome-queries-eefd5c23/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day11/Palindrome%20queries.cpp) |
+    | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=false) (Hackerrank) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day11/Dynamic%20Array.cpp) |
