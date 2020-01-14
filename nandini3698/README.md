@@ -160,3 +160,13 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Codathon Day2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (Hackerearth Codathon)| [Solution] (Ongoing Contest)|
+
+
+# 14 Jan 2020 (Day 14)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Length Sumofdigit](http://codeforces.com/problemset/problem/489/C) (Codeforces)| [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day14/lendigitsum.cpp)|
+| [Read Greedy Algorithms article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/greedy-algorithms/)|
