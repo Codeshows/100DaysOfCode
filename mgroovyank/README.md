@@ -80,3 +80,6 @@
 
 **Day 13: (Jan 13, 2020)**
 - Solved problem on InterviewBit - [Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/)
+
+**Day 14: (Jan 14, 2020)**
+- Solved problem on InterviewBit - [Divide Integers](https://www.interviewbit.com/problems/divide-integers/)
