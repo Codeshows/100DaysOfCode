@@ -71,3 +71,12 @@
 **Day 10: (Jan 10, 2020)**
 - Solved problem on InterviewBit - [Single Number](https://www.interviewbit.com/problems/single-number/)
 - Solved problem on InterviewBit - [Single Number II](https://www.interviewbit.com/problems/single-number-ii/)
+
+**Day 11: (Jan 11, 2020)**
+- Took part in the coding contest organized by Expedia Group on [InterviewBit](https://www.interviewbit.com/test/f33e1a739a/)
+
+**Day 12: (Jan 12, 2020)**
+- Solved problem on InterviewBit - [Different Bits Sum Pairwise](https://www.interviewbit.com/problems/different-bits-sum-pairwise/)
+
+**Day 13: (Jan 13, 2020)**
+- Solved problem on InterviewBit - [Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/)
