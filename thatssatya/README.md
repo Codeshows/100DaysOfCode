@@ -59,8 +59,7 @@ Solved Problems on Codeforces:
 |--|--|
 | Make Good | https://codeforces.com/contest/1270/submission/68018437|
 |Friends & Gifts|[https://codeforces.com/contest/1283/submission/68020015](https://codeforces.com/contest/1283/submission/68020015)|
-| | |
-\
+| | |&nbsp
 **Day 2 (Jan 2, 20):**
 Web-D Day:
 
