@@ -140,3 +140,15 @@
 
 #### Learning
 - Read Chapter 10: from Object Oriented Programming With C++
+
+### DAY 12 : (Jan 12,2020)
+
+#### Problems Solved
+- [problem](https://hack.codingblocks.com/app/contests/255/p/104)
+:: [my solution](Submission ID: #4196302)
+- [problem](https://hack.codingblocks.com/app/contests/123/p/62)
+:: [my solution](Submission ID: #4196552)
+- [problem](https://hack.codingblocks.com/app/dcb/624)
+:: [my solution](Submission ID: #4196626)
+- [problem](https://hack.codingblocks.com/app/dcb/202)
+:: [my solution](Submission ID: #4196884)
