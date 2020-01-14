@@ -14,17 +14,21 @@ II Year CSE, MNIT Jaipur
 ## Subtask #2: Competitive Coding
 Codechef:
 (Long Challenge, Cook-off, Lunchtime)
+<<<<<<< HEAD
  - [x] 1 star coder
  - [x] 2 star coder
  - [x] 3 star coder
+=======
+ - [x] 2 star coder
+ - [ ] 3 star coder
+>>>>>>> 223a458f94918af4545e1334d2b81f4a15a692da
  - [ ] 4 star coder
 
 Hackerearth:
 (Easy, Circuits)
 
 Codeforces:
- - [x] newbie
- - [ ] pupil
+ - [x] pupil
  - [ ] specialist
  - [ ] expert
 
@@ -69,6 +73,7 @@ Web-D Day:
 Practice Website - [thatssatya.github.io/Practice-Website](https://thatssatya.github.io/Practice-Website)
 
 Repo - [thatssatya/Practice-Website](https://github.com/thatssatya/Practice-Website)
+<<<<<<< HEAD
 
 **Day 3 (Jan 3, 20):**
 Solved Jan Challenge'20 Q1 on Codechef:
