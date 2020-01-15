@@ -132,3 +132,32 @@
 | [GRUBAN](https://www.codechef.com/submit/GRUBAN) (Codechef PLIT2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day10/gruban.cpp)|
 | [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
 
+
+# 11 Jan 2020 (Day 11)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Encoded List](https://leetcode.com/contest/biweekly-contest-17/problems/decompress-run-length-encoded-list/) (LeetCode biweekly contest-17) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day11/encode.txt)|
+| [Matrix Block Sum](https://leetcode.com/contest/biweekly-contest-17/problems/matrix-block-sum/) (LeetCode biweekly contest-17) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day11/matrixsum.txt)|
+
+
+# 12 Jan 2020 (Day 12)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Codathon Day1](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (Hackerearth Codathon)| [Solution] (Ongoing Contest)|
+| [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
+
+
+# 13 Jan 2020 (Day 13)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Codathon Day2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (Hackerearth Codathon)| [Solution] (Ongoing Contest)|
+

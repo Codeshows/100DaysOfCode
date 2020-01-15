@@ -116,3 +116,32 @@
 
 - Read the article on [Optimal Substructure Property](https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/)
 - Read the article on [Overlapping Subproblems Property](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
+
+# Day 11: January 11,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Decompress Run-Length Encoded List](https://leetcode.com/contest/biweekly-contest-17/problems/decompress-run-length-encoded-list/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(1).cpp)|
+| [Matrix Block Sum](https://leetcode.com/contest/biweekly-contest-17/problems/matrix-block-sum/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(2).cpp)|
+| [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/contest/biweekly-contest-17/problems/sum-of-nodes-with-even-valued-grandparent/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(3).cpp)|
+
+
+# Day 12: January 12,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [DIVSUM - Divisor Summation](https://www.spoj.com/problems/DIVSUM/) (SPOJ) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day12/DIVSUM(spoj).cpp)|
+| [Day-1](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (Codathon,Hackerearth) | Ongoing Contest |
+
+# Day 13: January 13,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Taxi](https://codeforces.com/problemset/problem/158/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day13/taxi.cpp)|
+| [Day-2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (Codathon,Hackerearth) | Ongoing Contest |

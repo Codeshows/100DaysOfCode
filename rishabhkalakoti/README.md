@@ -11,7 +11,7 @@
 **Copetitive Programming**
 - [ ] Solve first 100 questions of [Project Euler](https://projecteuler.net)
 - [ ] Increase [codeforces](https://www.codeforces.com/profile/percy3538) rating to 1800
-- [ ] Increase [codechef](https://www.codechef.com/users/rishabh3538) rating to 2000
+- [x] Increase [codechef](https://www.codechef.com/users/rishabh3538) rating to 2000
 - [ ] Solve a total of 100 questions on [SPOJ](https://spoj.com/users/percy3538)
 
 **Open Source**
@@ -19,6 +19,7 @@
 
 **Readings**
 - [ ] Book: [Social Media Mining: An Introduction](https://www.amazon.in/Social-Media-Mining-Reza-Zafarani-ebook/dp/B00IO0E5L8)
+- [ ] Book: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## The Timeline
 
@@ -70,3 +71,21 @@
 **Day 10 : (Jan 10, 2020)**
 
 - Solved [DFMTRX](https://www.codechef.com/JAN20A/problems/DFMTRX) on CodeChef
+
+**Day 11 : (Jan 11, 2020)**
+
+- Problem solving in [JAN20A](https://www.codechef.com/JAN20A) on CodeChef
+- Testing with [sinonJS](https://sinonjs.org/) and [ava](https://github.com/avajs/ava)
+
+**Day 12 : (Jan 12, 2020)**
+
+- Opened a WIP [PR](https://github.com/madlabsinc/teachcode/pull/69) at [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+- Testing with [sinonJS](https://sinonjs.org/), [ava](https://github.com/avajs/ava) and [proxyquire](https://www.npmjs.com/package/proxyquire)
+
+**Day 13 : (Jan 13, 2020)**
+
+- Codathon: [Day-2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/)
+
+**Day 14 : (Jan 14, 2020)**
+
+- Codathon: [Day-3](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-3-2/)
