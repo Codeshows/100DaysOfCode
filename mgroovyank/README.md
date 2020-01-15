@@ -86,3 +86,4 @@
 
 **Day 15: (Jan 15, 2020)**
 - Solved problem on InterviewBit - [Power of 2](https://www.interviewbit.com/problems/power-of-2/)
+- Solved problem on InterviewBit - [Multiply Strings](https://www.interviewbit.com/problems/multiply-strings/)
