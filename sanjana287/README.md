@@ -107,3 +107,46 @@ watched videos on dynamic programming by geeksforgeeks
 ### Links:
 [Q1] (https://www.codechef.com/JAN20B/problems/ISBIAS) (ongoing)
 
+
+## Day11: January 11, 2020
+* Longest common prefix using sorting
+
+### Links:
+(https://www.geeksforgeeks.org/longest-common-prefix-using-sorting/)  
+
+
+## Day12: January 12,2020
+* Solved problems on codeforces and hackerearth
+
+### Links:
+[Q1] (https://codeforces.com/contest/1285/problem/A)  
+[A1] (https://codeforces.com/contest/1285/submission/68668310)   
+[Q2] (https://codeforces.com/contest/1285/problem/B)  
+[A2] (https://codeforces.com/contest/1285/submission/68680578)   
+[Q3] (https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/)(ongoing)  
+
+## Day13: January 13,2020
+* Fast I/O operations for competitive programming
+
+### Links:
+(https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)  
+
+
+## Day14: January 14,2020
+* Studied segment tree
+* Solved question on hackerearth (partial)
+
+### Links:
+(https://www.youtube.com/watch?v=ZBHKZF5w4YU)  
+[Q1] (https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (ongoing)
+
+
+## Day15: January 15,2020
+* Solved Questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1288/problem/A)  
+[A1] (https://codeforces.com/contest/1288/submission/68880829)  
+[Q2] (https://codeforces.com/contest/1288/problem/B)  
+[A2] (https://codeforces.com/contest/1288/submission/68883645)  
+
