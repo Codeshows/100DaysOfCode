@@ -179,3 +179,14 @@
     | [A - Deadline](https://codeforces.com/contest/1288/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day14/A%20-%20Deadline.cpp) |
     | [B - Yet Another Meme Problem](https://codeforces.com/contest/1288/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day14/B%20-%20Yet%20Another%20Meme%20Problem.cpp) |
     | [DAY 3](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-3-2/) (Hackerearth) | Ongoing Contest |
+
+  **Day 15 : (Jan 15, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [A. Young Physicist](http://codeforces.com/problemset/problem/69/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Young%20Physicist.cpp) |
+    |[B. Borze](https://codeforces.com/problemset/problem/32/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/B.%20Borze.cpp) |
+    | [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Beautiful%20Year.cpp) |
+    | [A. Word](https://codeforces.com/problemset/problem/59/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Wordc.cpp) |
