@@ -159,3 +159,12 @@
     |[A - Next Alphabet](https://atcoder.jp/contests/abc151/tasks/abc151_a) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day12/A%20-%20Next%20Alphabet.cpp) |
     | [B - Achieve the Goal](https://atcoder.jp/contests/abc151/tasks/abc151_b) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day12/B%20-%20Achieve%20the%20Goal.cpp) |
     | [C - Welcome to AtCoder](https://atcoder.jp/contests/abc151/tasks/abc151_c) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day12/C%20-%20Welcome%20to%20AtCoder.cpp) |
+
+  **Day 13 : (Jan 13, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [DAY 2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (Hackerearth) | Ongoing Contest |
+  - Watched [Video Solution](https://www.youtube.com/watch?v=6XYLfKfe6C4) for [ENGLISH](https://www.codechef.com/JAN20B/problems/ENGLISH)
