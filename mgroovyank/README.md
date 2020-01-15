@@ -83,3 +83,6 @@
 
 **Day 14: (Jan 14, 2020)**
 - Solved problem on InterviewBit - [Divide Integers](https://www.interviewbit.com/problems/divide-integers/)
+
+**Day 15: (Jan 15, 2020)**
+- Solved problem on InterviewBit - [Power of 2](https://www.interviewbit.com/problems/power-of-2/)
