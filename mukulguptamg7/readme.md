@@ -152,3 +152,11 @@
 :: [my solution](Submission ID: #4196626)
 - [problem](https://hack.codingblocks.com/app/dcb/202)
 :: [my solution](Submission ID: #4196884)
+
+### DAY 13 : (Jan 13,2020)
+
+#### Problems Solved
+- [problem](https://www.codechef.com/problems/LAPIN)
+:: [my solution](https://www.codechef.com/viewsolution/28946810)
+- [problem](https://www.codechef.com/problems/COMM3)
+:: [my solution](https://www.codechef.com/viewsolution/28947993)
