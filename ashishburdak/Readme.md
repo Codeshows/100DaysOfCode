@@ -142,3 +142,29 @@
     |-----------|----------------|
     | [Palindrome queries](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/palindrome-queries-eefd5c23/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day11/Palindrome%20queries.cpp) |
     | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=false) (Hackerrank) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day11/Dynamic%20Array.cpp) |
+
+  **Day 12 : (Jan 12, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) (Hackerrank) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day12/Array%20Manipulation.cpp) |
+    | [DAY-1](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (Hackerearth) | Ongoing Competition |
+    
+  - Participated in [Atcoder Beginner contest 151](https://atcoder.jp/contests/abc151)-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    |[A - Next Alphabet](https://atcoder.jp/contests/abc151/tasks/abc151_a) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day12/A%20-%20Next%20Alphabet.cpp) |
+    | [B - Achieve the Goal](https://atcoder.jp/contests/abc151/tasks/abc151_b) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day12/B%20-%20Achieve%20the%20Goal.cpp) |
+    | [C - Welcome to AtCoder](https://atcoder.jp/contests/abc151/tasks/abc151_c) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day12/C%20-%20Welcome%20to%20AtCoder.cpp) |
+
+  **Day 13 : (Jan 13, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [DAY 2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (Hackerearth) | Ongoing Contest |
+  - Watched [Video Solution](https://www.youtube.com/watch?v=6XYLfKfe6C4) for [ENGLISH](https://www.codechef.com/JAN20B/problems/ENGLISH)

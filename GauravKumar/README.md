@@ -32,3 +32,11 @@
 
 
 ## Day-3 (12th Jan):
+#### 1. Solved these questions from a contest on codechef.
+                A. VILLINE
+                B. MINIAND
+#### 2. Learned about Firebase authentication from youtube.
+#### 3. Completed the UI and firebase authentication part of the Shared calendar android app.
+
+
+## Day-4 (13th Jan):
