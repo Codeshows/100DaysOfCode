@@ -154,3 +154,11 @@
 |-----------|----------------|
 | [Thanos Sort](https://codeforces.com/problemset/problem/1145/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day14/1145a.cpp)|
 | [Playing with Paper](https://codeforces.com/problemset/problem/527/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day14/527a.cpp)|
+
+# Day 15: January 15,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Exams](https://codeforces.com/problemset/problem/479/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day14/479c.cpp)|
