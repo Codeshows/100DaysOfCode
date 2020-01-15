@@ -142,7 +142,7 @@ watched videos on dynamic programming by geeksforgeeks
 
 
 ## Day15: January 15,2020
-* Solved Questions on codeforces
+* Solved Questions on codeforces  
 
 ### Links:
 [Q1] (https://codeforces.com/contest/1288/problem/A)  
