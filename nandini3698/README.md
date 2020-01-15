@@ -170,3 +170,13 @@
 |-----------|----------------|
 | [Length Sumofdigit](http://codeforces.com/problemset/problem/489/C) (Codeforces)| [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day14/lendigitsum.cpp)|
 | [Read Greedy Algorithms article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/greedy-algorithms/)|
+
+
+# 15 Jan 2020 (Day 15)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day15/activityselc.cpp)|
+| [N Meeting in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day15/meeting.cpp)|
