@@ -83,3 +83,11 @@
 
 **Day 14: (Jan 14, 2020)**
 - Solved problem on InterviewBit - [Divide Integers](https://www.interviewbit.com/problems/divide-integers/)
+
+**Day 15: (Jan 15, 2020)**
+- Solved problem on InterviewBit - [Power of 2](https://www.interviewbit.com/problems/power-of-2/)
+- Solved problem on InterviewBit - [Multiply Strings](https://www.interviewbit.com/problems/multiply-strings/)
+- Completed Daily Practice Goal of 200 points on InterviewBit
+
+**Day 16: (Jan 16, 2020)**
+- Solved problem on InterviewBit - [Justified Text](https://www.interviewbit.com/problems/justified-text/)
