@@ -161,4 +161,13 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Exams](https://codeforces.com/problemset/problem/479/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day14/479c.cpp)|
+| [Exams](https://codeforces.com/problemset/problem/479/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day15/479c.cpp)|
+
+# Day 16: January 16,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day16/subarray_with_given_sum.cpp)|
+| [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day16/count_the_triplets.cpp)|
