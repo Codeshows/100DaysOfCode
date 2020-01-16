@@ -16,7 +16,7 @@
 
 **Open Source**
 - [ ] Contribute to as many repositories
-- [ ] Contribute in various repositories for [KWOC](https://kwoc.kossiitkgp.org/profile/rashakdude)
+- [x] Contribute in various repositories for [KWOC](https://kwoc.kossiitkgp.org/profile/rashakdude)
 - [ ] Preparation of GSoC 2020
 
 **Learning Goals**
@@ -46,13 +46,41 @@
 
 |Problem|Solution|
 |-------|--------|
-|Hash Tables|[Hash Tables](/HackerRank/HashTables.java)|
-|Swap Nodes|[Swap Nodes](/HackerRank/SwapNodes.java)|
-|Pairs|[Pairs](/HackerRank/Pairs.java)|
-|Triple Sum|[Triple Sum](/HackerRank/TripleSum.java)|
-|Minimum Time Required|[Minimum Time Required](/HackerRank/MinTimeRequired.java)|
-|Maximum Subarray Sum|[Maximum Subarray Sum](/HackerRank/MaxSubarraySum.java)|
-|Making Candies|[Making Candies](/HackerRank/MakingCandies.java)|
+|Hash Tables|[Hash Tables](/RashakDude/HackerRank/HashTables.java)|
+|Swap Nodes|[Swap Nodes](/RashakDude/HackerRank/SwapNodes.java)|
+|Pairs|[Pairs](/RashakDude/HackerRank/Pairs.java)|
+|Triple Sum|[Triple Sum](/RashakDude/HackerRank/TripleSum.java)|
+|Minimum Time Required|[Minimum Time Required](/RashakDude/HackerRank/MinTimeRequired.java)|
+|Maximum Subarray Sum|[Maximum Subarray Sum](/RashakDude/HackerRank/MaxSubarraySum.java)|
+|Making Candies|[Making Candies](/RashakDude/HackerRank/MakingCandies.java)|
 
+### Day 2 ( January 2 , 2020 )
 
+- Solved 6 problems on Project Euler
 
+|Problem|Answer|Solution|
+|-------|------|--------|
+|Problem 1|233168|[Solution 1](/RashakDude/Project%20Euler/problem1.py)|
+|Problem 2|4613732|[Solution 2](/RashakDude/Project%20Euler/problem2.py)|
+|Problem 3|6857|[Solution 3](/RashakDude/Project%20Euler/problem3.py)|
+|Problem 4|906609|[Solution 4](/RashakDude/Project%20Euler/problem4.py)|
+|Problem 5|232792560|[Solution 5](/RashakDude/Project%20Euler/problem5.py)|
+|Problem 6|25164150|[Solution 6](/RashakDude/Project%20Euler/problem6.py)|
+
+### Day 3 ( January 3 , 2020 )
+
+- Merged 9 commits to a repository [interview-preparation-kit](https://github.com/maze-runnar/interview-preparation-kit) as a part of KWOC
+<center>
+<img src = "/RashakDude/Screenshots/day3.png" width = "70%">
+</center>
+
+### Day 4 ( January 4 , 2020 )
+
+- Solved 4 problems on Project Euler
+
+|Problem|Answer|Solution|
+|-------|------|--------|
+|Problem 7|104743|[Solution 7](/RashakDude/Project%20Euler/problem7.py)|
+|Problem 8|23514624000|[Solution 8](/RashakDude/Project%20Euler/problem8.py)|
+|Problem 9|31875000|[Solution 9](/RashakDude/Project%20Euler/problem9.py)|
+|Problem 10|142913828922|[Solution 10](/RashakDude/Project%20Euler/problem10.py)|

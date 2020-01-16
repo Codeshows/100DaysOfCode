@@ -42,3 +42,113 @@
 
 #### Learning
 - Read Chapter 1: from Object Oriented Programming With C++
+
+### DAY 3 : (Jan 3,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/HOWMANY)
+:: [my solution](https://www.codechef.com/viewsolution/28626347)
+- [codechef problem](https://www.codechef.com/problems/TWOVSTEN)
+:: [my solution](https://www.codechef.com/viewsolution/28626434)
+
+#### Learning
+- Read Chapter 2: from Object Oriented Programming With C++
+
+### DAY 4 : (Jan 4,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/LONGSEQ)
+:: [my solution](https://www.codechef.com/viewsolution/28677107)
+- [codechef problem](https://www.codechef.com/problems/PPSUM)
+:: [my solution](https://www.codechef.com/viewsolution/28677314)
+
+#### Learning
+- Read Chapter 3: from Object Oriented Programming With C++
+
+### DAY 5 : (Jan 5,2020)
+
+#### Problems Solved
+- [ongoing contest codechef problem](https://www.codechef.com/JAN20B/problems/BRKBKS)
+- [codechef problem](https://www.codechef.com/problems/SMPAIR)
+:: [my solution](https://www.codechef.com/viewsolution/28718149)
+
+#### Learning
+- Read Chapter 4: from Object Oriented Programming With C++
+
+### DAY 6 : (Jan 6,2020)
+
+#### Problems Solved
+
+- [ongoing contest codechef problem ](https://www.codechef.com/JAN20B/problems/DYNAMO)
+- [codechef problem](https://www.codechef.com/problems/FLOW010)
+:: [my solution](https://www.codechef.com/viewsolution/28744174)
+
+#### Learning
+- Read Chapter 5: from Object Oriented Programming With C++
+
+### DAY 7 : (Jan 7,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/PALL01)
+:: [my solution](https://www.codechef.com/viewsolution/28814019)
+- [codechef problem](https://www.codechef.com/problems/AMR15A)
+:: [my solution](https://www.codechef.com/viewsolution/28814183)
+
+#### Learning
+- Read Chapter 6: from Object Oriented Programming With C++
+
+### DAY 8 : (Jan 8,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/PRB01)
+:: [my solution](https://www.codechef.com/viewsolution/28814064)
+- [codechef problem](https://www.codechef.com/problems/PRGIFT)
+:: [my solution](https://www.codechef.com/viewsolution/28887564)
+
+#### Learning
+- Read Chapter 7: from Object Oriented Programming With C++
+
+### DAY 9 : (Jan 9,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/PLMU)
+:: [my solution](https://www.codechef.com/viewsolution/28914152)
+- [codechef problem](https://www.codechef.com/problems/MISSP)
+:: [my solution](https://www.codechef.com/viewsolution/28914205)
+
+#### Learning
+- Read Chapter 8: from Object Oriented Programming With C++
+
+### DAY 10 : (Jan 10,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/LAPIN)
+:: [my solution](https://www.codechef.com/viewsolution/28946810)
+- [codechef problem](https://www.codechef.com/problems/COMM3)
+:: [my solution](https://www.codechef.com/viewsolution/28947993)
+
+#### Learning
+- Read Chapter 9: from Object Oriented Programming With C++
+
+### DAY 11 : (Jan 11,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/PLMU)
+:: [my solution](https://www.codechef.com/viewsolution/28914152)
+- [codechef problem](https://www.codechef.com/problems/MISSP)
+:: [my solution](https://www.codechef.com/viewsolution/28914205)
+
+#### Learning
+- Read Chapter 10: from Object Oriented Programming With C++
+
+### DAY 12 : (Jan 12,2020)
+
+#### Problems Solved
+- [problem](https://hack.codingblocks.com/app/contests/255/p/104)
+:: [my solution](Submission ID: #4196302)
+- [problem](https://hack.codingblocks.com/app/contests/123/p/62)
+:: [my solution](Submission ID: #4196552)
+- [problem](https://hack.codingblocks.com/app/dcb/624)
+:: [my solution](Submission ID: #4196626)
+- [problem](https://hack.codingblocks.com/app/dcb/202)
+:: [my solution](Submission ID: #4196884)
