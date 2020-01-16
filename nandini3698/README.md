@@ -180,3 +180,13 @@
 |-----------|----------------|
 | [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day15/activityselc.cpp)|
 | [N Meeting in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day15/meeting.cpp)|
+
+
+# 16 Jan 2020 (Day 16)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [0-1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day16/knapsack.cpp)|
+| [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day16/subsetsum.cpp)|
