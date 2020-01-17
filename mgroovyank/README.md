@@ -94,3 +94,4 @@
 
 **Day 17: (Jan 17, 2020)**
 - Solved problem on InterviewBit - [Zigzag String](https://www.interviewbit.com/problems/zigzag-string/)
+- Solved problem on InterviewBit - [Pretty Json](https://www.interviewbit.com/problems/pretty-json/)
