@@ -156,7 +156,15 @@
 ### DAY 13 : (Jan 13,2020)
 
 #### Problems Solved
-- [problem](https://www.codechef.com/problems/LAPIN)
+- [codechef problem](https://www.codechef.com/problems/LAPIN)
 :: [my solution](https://www.codechef.com/viewsolution/28946810)
-- [problem](https://www.codechef.com/problems/COMM3)
+- [codechef problem](https://www.codechef.com/problems/COMM3)
 :: [my solution](https://www.codechef.com/viewsolution/28947993)
+
+### DAY 14 : (Jan 14,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/HEADBOB)
+:: [my solution](https://www.codechef.com/viewsolution/28950895)
+- [codechef problem](https://www.codechef.com/submit/TWTCLOSE)
+:: [my solution](https://www.codechef.com/viewsolution/28952631)
