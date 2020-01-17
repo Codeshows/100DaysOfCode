@@ -171,3 +171,12 @@
 |-----------|----------------|
 | [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day16/subarray_with_given_sum.cpp)|
 | [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day16/count_the_triplets.cpp)|
+
+# Day 17: January 17,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [An AC for you](https://www.codechef.com/COWR2020/problems/COWA19F) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day17/COWA19F.cpp)|
+| [Troublesome Harsha](https://www.codechef.com/COWR2020/problems/COWA19C) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day17/COWA19C.cpp)|
