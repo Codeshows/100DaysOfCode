@@ -91,3 +91,6 @@
 
 **Day 16: (Jan 16, 2020)**
 - Solved problem on InterviewBit - [Justified Text](https://www.interviewbit.com/problems/justified-text/)
+
+**Day 17: (Jan 17, 2020)**
+- Solved problem on InterviewBit - [Zigzag String](https://www.interviewbit.com/problems/zigzag-string/)
