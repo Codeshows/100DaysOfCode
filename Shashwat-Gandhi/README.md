@@ -54,5 +54,10 @@ CSE 1st Year MNIT Jaipur <br>
   Added 6 levels<br>
   
   # Day 9
-  Implemented basic setup and breaking of wall and crystals mesh by hit from a ball
-
+  Implemented basic setup and breaking of wall and crystals mesh by hit from a ball <br>
+  
+  # Day 10
+  Optimised the app for to be playable on Android. <br>
+  Reduced the number of polys in mesh <br>
+  Can now spawn and throw balls in the desired direction  <br>
+  Created a basic level to get the overall feel
