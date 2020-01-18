@@ -190,3 +190,16 @@
     |[B. Borze](https://codeforces.com/problemset/problem/32/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/B.%20Borze.cpp) |
     | [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Beautiful%20Year.cpp) |
     | [A. Word](https://codeforces.com/problemset/problem/59/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Wordc.cpp) |
+
+  **Day 16 : (Jan 16, 2020)**
+  
+  **Day 17 : (Jan 17, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [COWA19F](https://www.codechef.com/COWR2020/problems/COWA19F) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19F.cpp) |
+    | [COWA19C](https://www.codechef.com/COWR2020/problems/COWA19C) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19C.cpp) |
+    | [COWA19B](https://www.codechef.com/COWR2020/problems/COWA19B) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19B.cpp) |
+    | [DAY 6](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/decision-b9c06eca/) (Hackerearth) | Ongoing Contest |
