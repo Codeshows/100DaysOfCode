@@ -119,12 +119,52 @@
 #### Learning
 - Read Chapter 8: from Object Oriented Programming With C++
 
-### DAY 9 : (Jan 9,2020)
+### DAY 10 : (Jan 10,2020)
 
 #### Problems Solved
 - [codechef problem](https://www.codechef.com/problems/LAPIN)
 :: [my solution](https://www.codechef.com/viewsolution/28946810)
 - [codechef problem](https://www.codechef.com/problems/COMM3)
 :: [my solution](https://www.codechef.com/viewsolution/28947993)
+
 #### Learning
 - Read Chapter 9: from Object Oriented Programming With C++
+
+### DAY 11 : (Jan 11,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/submit/TRICOIN)
+:: [my solution](https://www.codechef.com/viewsolution/28948436)
+- [codechef problem](https://www.codechef.com/problems/POTATOES)
+:: [my solution](https://www.codechef.com/viewsolution/28949601)
+
+#### Learning
+- Read Chapter 10: from Object Oriented Programming With C++
+
+### DAY 12 : (Jan 12,2020)
+
+#### Problems Solved
+- [problem](https://hack.codingblocks.com/app/contests/255/p/104)
+:: [my solution](Submission ID: #4196302)
+- [problem](https://hack.codingblocks.com/app/contests/123/p/62)
+:: [my solution](Submission ID: #4196552)
+- [problem](https://hack.codingblocks.com/app/dcb/624)
+:: [my solution](Submission ID: #4196626)
+- [problem](https://hack.codingblocks.com/app/dcb/202)
+:: [my solution](Submission ID: #4196884)
+
+### DAY 13 : (Jan 13,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/LAPIN)
+:: [my solution](https://www.codechef.com/viewsolution/28946810)
+- [codechef problem](https://www.codechef.com/problems/COMM3)
+:: [my solution](https://www.codechef.com/viewsolution/28947993)
+
+### DAY 14 : (Jan 14,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/HEADBOB)
+:: [my solution](https://www.codechef.com/viewsolution/28950895)
+- [codechef problem](https://www.codechef.com/submit/TWTCLOSE)
+:: [my solution](https://www.codechef.com/viewsolution/28952631)

@@ -126,3 +126,57 @@
 | [Decompress Run-Length Encoded List](https://leetcode.com/contest/biweekly-contest-17/problems/decompress-run-length-encoded-list/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(1).cpp)|
 | [Matrix Block Sum](https://leetcode.com/contest/biweekly-contest-17/problems/matrix-block-sum/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(2).cpp)|
 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/contest/biweekly-contest-17/problems/sum-of-nodes-with-even-valued-grandparent/) (LeetCode) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day11/biweekly17(3).cpp)|
+
+
+# Day 12: January 12,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [DIVSUM - Divisor Summation](https://www.spoj.com/problems/DIVSUM/) (SPOJ) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day12/DIVSUM(spoj).cpp)|
+| [Day-1](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (Codathon,Hackerearth) | Ongoing Contest |
+
+# Day 13: January 13,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Taxi](https://codeforces.com/problemset/problem/158/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day13/taxi.cpp)|
+| [Day-2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (Codathon,Hackerearth) | Ongoing Contest |
+
+# Day 14: January 14,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Thanos Sort](https://codeforces.com/problemset/problem/1145/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day14/1145a.cpp)|
+| [Playing with Paper](https://codeforces.com/problemset/problem/527/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day14/527a.cpp)|
+
+# Day 15: January 15,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Exams](https://codeforces.com/problemset/problem/479/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day15/479c.cpp)|
+
+# Day 16: January 16,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day16/subarray_with_given_sum.cpp)|
+| [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day16/count_the_triplets.cpp)|
+
+# Day 17: January 17,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [An AC for you](https://www.codechef.com/COWR2020/problems/COWA19F) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day17/COWA19F.cpp)|
+| [Troublesome Harsha](https://www.codechef.com/COWR2020/problems/COWA19C) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day17/COWA19C.cpp)|

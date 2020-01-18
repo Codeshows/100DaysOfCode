@@ -5,7 +5,8 @@ CSE 1st Year MNIT Jaipur <br>
 - [ ] Reach a score of 2200 on hackerrank in problem solving  <br>
 - [ ] Make around 5 to 10 games using Unity
 - [x] Game 1 : "2048" game (with unity) <br>
-- [x] Game 2 : colorFill3D game (with unity) <br><br>
+- [x] Game 2 : colorFill3D game (with unity) <br>
+- [ ] Game 3 : Smash Hit <br<br>
 
 # Day 1 
   Created basic sprites and basic setup in unity for the 2048 game <br><br>
@@ -49,5 +50,14 @@ CSE 1st Year MNIT Jaipur <br>
   Spawn and Kill Animation <br>
   
   # Day 8
-  Added New Game ,Exit Button
-  Added 6 levels
+  Added New Game ,Exit Button<br>
+  Added 6 levels<br>
+  
+  # Day 9
+  Implemented basic setup and breaking of wall and crystals mesh by hit from a ball <br>
+  
+  # Day 10
+  Optimised the app for to be playable on Android. <br>
+  Reduced the number of polys in mesh <br>
+  Can now spawn and throw balls in the desired direction  <br>
+  Created a basic level to get the overall feel
