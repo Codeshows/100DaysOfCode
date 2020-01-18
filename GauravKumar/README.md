@@ -40,3 +40,34 @@
 
 
 ## Day-4 (13th Jan):
+#### 1. Solved these questions on codechef.
+                A. WRLDSTR
+                B. GRUBAN
+#### 2. Continued learning about Firebase authentication from youtube.
+
+
+## Day-5 (14th Jan):
+#### 1. Solved these questions from a contest on codeforces.
+                A. SQUARE FILLING
+                B. PATRICK AND SHOPPING
+#### 2. Learnt about android recycler view from youtube and eveloped a mini app for that
+
+## Day-6 (15th Jan):
+#### 1. Designed and implemented UI for the Recycler view in shared caledar app
+
+
+## Day-7 (16th Jan):
+#### 1. Started learning about firebase realtime database from youtube.
+#### 2. Started the firebase chat app tutorial and implemented the authentication part.
+
+## Day-8 (17th Jan):
+#### 1. Solved these questions from a contest on codeforces.
+                A. VILTRIBE
+#### 2. Continued learning about the firebase realtime database and implemented how to write to the firebase database with the help of a book list app.
+
+
+## Day-9 (18th Jan):
+#### 1. Implemented writing to the firebase realtime database in the shared calendar app.
+
+
+## Day-10 (19th Jan):
