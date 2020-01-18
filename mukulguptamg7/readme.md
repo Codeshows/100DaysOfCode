@@ -133,10 +133,10 @@
 ### DAY 11 : (Jan 11,2020)
 
 #### Problems Solved
-- [codechef problem](https://www.codechef.com/problems/PLMU)
-:: [my solution](https://www.codechef.com/viewsolution/28914152)
-- [codechef problem](https://www.codechef.com/problems/MISSP)
-:: [my solution](https://www.codechef.com/viewsolution/28914205)
+- [codechef problem](https://www.codechef.com/submit/TRICOIN)
+:: [my solution](https://www.codechef.com/viewsolution/28948436)
+- [codechef problem](https://www.codechef.com/problems/POTATOES)
+:: [my solution](https://www.codechef.com/viewsolution/28949601)
 
 #### Learning
 - Read Chapter 10: from Object Oriented Programming With C++
@@ -152,3 +152,19 @@
 :: [my solution](Submission ID: #4196626)
 - [problem](https://hack.codingblocks.com/app/dcb/202)
 :: [my solution](Submission ID: #4196884)
+
+### DAY 13 : (Jan 13,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/LAPIN)
+:: [my solution](https://www.codechef.com/viewsolution/28946810)
+- [codechef problem](https://www.codechef.com/problems/COMM3)
+:: [my solution](https://www.codechef.com/viewsolution/28947993)
+
+### DAY 14 : (Jan 14,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/HEADBOB)
+:: [my solution](https://www.codechef.com/viewsolution/28950895)
+- [codechef problem](https://www.codechef.com/submit/TWTCLOSE)
+:: [my solution](https://www.codechef.com/viewsolution/28952631)
