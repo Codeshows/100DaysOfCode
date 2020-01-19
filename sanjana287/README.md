@@ -124,7 +124,6 @@ watched videos on dynamic programming by geeksforgeeks
 [Q2] (https://codeforces.com/contest/1285/problem/B)  
 [A2] (https://codeforces.com/contest/1285/submission/68680578)   
 [Q3] (https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (ongoing)  
-
 ## Day13: January 13,2020
 * Fast I/O operations for competitive programming
 
@@ -178,4 +177,4 @@ watched videos on dynamic programming by geeksforgeeks
 [Q3] (https://codeforces.com/contest/1270/problem/A)  
 [A3] (https://codeforces.com/contest/1270/submission/69087191)  
 [Q4] (https://www.codechef.com/problems/COWA19F)  
-[A4] (https://www.codechef.com/viewsolution/29048896)
+[A4] (https://www.codechef.com/viewsolution/29048896)  

@@ -168,3 +168,49 @@
     |-----------|----------------|
     | [DAY 2](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-2-2/) (Hackerearth) | Ongoing Contest |
   - Watched [Video Solution](https://www.youtube.com/watch?v=6XYLfKfe6C4) for [ENGLISH](https://www.codechef.com/JAN20B/problems/ENGLISH)
+
+  **Day 14 : (Jan 14, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [ENGLISH](https://www.codechef.com/JAN20B/problems/ENGLISH) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day14/ENGLISH.cpp) |
+    | [A - Deadline](https://codeforces.com/contest/1288/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day14/A%20-%20Deadline.cpp) |
+    | [B - Yet Another Meme Problem](https://codeforces.com/contest/1288/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day14/B%20-%20Yet%20Another%20Meme%20Problem.cpp) |
+    | [DAY 3](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-3-2/) (Hackerearth) | Ongoing Contest |
+
+  **Day 15 : (Jan 15, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [A. Young Physicist](http://codeforces.com/problemset/problem/69/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Young%20Physicist.cpp) |
+    |[B. Borze](https://codeforces.com/problemset/problem/32/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/B.%20Borze.cpp) |
+    | [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Beautiful%20Year.cpp) |
+    | [A. Word](https://codeforces.com/problemset/problem/59/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Wordc.cpp) |
+
+  **Day 16 : (Jan 16, 2020)**
+  
+  **Day 17 : (Jan 17, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [COWA19F](https://www.codechef.com/COWR2020/problems/COWA19F) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19F.cpp) |
+    | [COWA19C](https://www.codechef.com/COWR2020/problems/COWA19C) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19C.cpp) |
+    | [COWA19B](https://www.codechef.com/COWR2020/problems/COWA19B) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19B.cpp) |
+    | [DAY 6](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/decision-b9c06eca/) (Hackerearth) | Ongoing Contest |
+    
+  **Day 18 : (Jan 18, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    |[DAY 5](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-5-1/) (Hackerearth) | Ongoing Contest |
+    |[Set numbers](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/set-numbers-bea74f5a/) (Hackerearth) | Ongoing Contest |
+    | [Equal subarrays](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/equal-subarrays-cf01a26a/) (Hackerearth) | Ongoing Conest |
+    | [Distribute chocolates](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/distribute-chocolates-70c2c2ab/) (Hackerearth) | Ongoing Conest |
