@@ -95,3 +95,7 @@
 **Day 17: (Jan 17, 2020)**
 - Solved problem on InterviewBit - [Zigzag String](https://www.interviewbit.com/problems/zigzag-string/)
 - Solved problem on InterviewBit - [Pretty Json](https://www.interviewbit.com/problems/pretty-json/)
+
+**Day 18: (Jan 18, 2020)**
+- Solved problem on InterviewBit - [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/)
+- Learnt [Manacher's Algorithm](https://www.youtube.com/watch?v=V-sEwsca1ak)
