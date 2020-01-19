@@ -180,3 +180,12 @@
 |-----------|----------------|
 | [An AC for you](https://www.codechef.com/COWR2020/problems/COWA19F) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day17/COWA19F.cpp)|
 | [Troublesome Harsha](https://www.codechef.com/COWR2020/problems/COWA19C) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day17/COWA19C.cpp)|
+
+# Day 18: January 18,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day18/Kadane's_Algorithm.cpp)|
+| [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day18/Missing_number_in_array.cpp)|
