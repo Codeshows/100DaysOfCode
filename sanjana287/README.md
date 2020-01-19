@@ -123,7 +123,7 @@ watched videos on dynamic programming by geeksforgeeks
 [A1] (https://codeforces.com/contest/1285/submission/68668310)   
 [Q2] (https://codeforces.com/contest/1285/problem/B)  
 [A2] (https://codeforces.com/contest/1285/submission/68680578)   
-[Q3] (https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/)(ongoing)  
+[Q3] (https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (ongoing)  
 
 ## Day13: January 13,2020
 * Fast I/O operations for competitive programming
@@ -148,5 +148,34 @@ watched videos on dynamic programming by geeksforgeeks
 [Q1] (https://codeforces.com/contest/1288/problem/A)  
 [A1] (https://codeforces.com/contest/1288/submission/68880829)  
 [Q2] (https://codeforces.com/contest/1288/problem/B)  
-[A2] (https://codeforces.com/contest/1288/submission/68883645)  
+[A2] (https://codeforces.com/contest/1288/submission/68883645) 
 
+## Day16: January 16,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1285/problem/C)  
+[A1] (https://codeforces.com/contest/1285/submission/68942196)
+
+## Day17: January 17,2020
+* Studied JavaScript and APIs from Udemy.
+
+
+## Day18: January 18,2020
+* Read Basic Interview Questions on C from geeksforgeeks.
+
+### Links:
+(https://www.geeksforgeeks.org/commonly-asked-c-programming-interview-questions-set-1/)
+
+## Day19: January 19,2020
+* Solved questions on codeforces and January cook off codechef.
+
+### Links:
+[Q1] (https://www.codechef.com/COOK114B/problems/CHFCHK)  
+[A1] (https://www.codechef.com/viewsolution/29066195)  
+[Q2] (https://www.codechef.com/COOK114B/problems/EXAMCHT)  
+[A2] (https://www.codechef.com/viewsolution/29058373)  
+[Q3] (https://codeforces.com/contest/1270/problem/A)  
+[A3] (https://codeforces.com/contest/1270/submission/69087191)  
+[Q4] (https://www.codechef.com/problems/COWA19F)  
+[A4] (https://www.codechef.com/viewsolution/29048896)
