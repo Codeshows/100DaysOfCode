@@ -176,3 +176,11 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day15/.cpp)
 - [codechef problem](https://www.codechef.com/status/CHEALG)
 :: [my solution](https://www.codechef.com/viewsolution/29040801)
+
+### DAY 16 : (Jan 16,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/TEST)
+:: [my solution](https://www.codechef.com/viewsolution/29045947)
+- [codechef problem](https://www.codechef.com/problems/ENTEXAM)
+:: [my solution](https://www.codechef.com/viewsolution/29042946)
