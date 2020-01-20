@@ -46,7 +46,7 @@
 ### Day 5: January 7, 2020
 |**Problems solved**|
 |-----------|
-| [Minimum sum path in a triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/ |
+| [Minimum sum path in a triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/) |
 | [Unique paths ina grid](https://www.interviewbit.com/problems/unique-paths-in-a-grid/) |
 ### Day 6: January 8, 2020
 |**Problems solved**|
@@ -64,5 +64,12 @@
 |-----------|
 | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) (Codeforces)|
 | [Just eat it](https://codeforces.com/contest/1285/problem/B) (Codeforces) | 
-| [Mezoplaying Zoma](https://codeforces.com/contest/1285/problem/A) (Codeforces) | 
+| [Mezoplaying Zoma](https://codeforces.com/contest/1285/problem/A) (Codeforces) |
+### Day 9-Day 18: Jan 11-jan 19, 2020
+|**Contests participated**|
+|-----------|
+| [Codathon - Inter NIT Coding Competition 2020](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/)|
+| [January Cook-Off 2020](https://www.codechef.com/COOK114B) | 
+| [Educational Codeforces Round 80](https://codeforces.com/contest/1288) | 
+
 
