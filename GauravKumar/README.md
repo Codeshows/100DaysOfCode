@@ -79,4 +79,3 @@
 #### 1. Designed  a responsive form for admin to write to the firebase database in the shared calendar app.
 #### 2. Implemented ListView in the app for results fetched from the database to get displayed.
 #### 3. Implemented reading from the firebase realtime database in the shared calendar app.
-

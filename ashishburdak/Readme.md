@@ -190,3 +190,39 @@
     |[B. Borze](https://codeforces.com/problemset/problem/32/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/B.%20Borze.cpp) |
     | [A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Beautiful%20Year.cpp) |
     | [A. Word](https://codeforces.com/problemset/problem/59/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day15/A.%20Wordc.cpp) |
+
+  **Day 16 : (Jan 16, 2020)**
+  
+  **Day 17 : (Jan 17, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [COWA19F](https://www.codechef.com/COWR2020/problems/COWA19F) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19F.cpp) |
+    | [COWA19C](https://www.codechef.com/COWR2020/problems/COWA19C) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19C.cpp) |
+    | [COWA19B](https://www.codechef.com/COWR2020/problems/COWA19B) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day17/COWA19B.cpp) |
+    | [DAY 6](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/decision-b9c06eca/) (Hackerearth) | Ongoing Contest |
+    
+  **Day 18 : (Jan 18, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    |[DAY 5](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/day-5-1/) (Hackerearth) | Ongoing Contest |
+    |[Set numbers](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/set-numbers-bea74f5a/) (Hackerearth) | Ongoing Contest |
+    | [Equal subarrays](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/equal-subarrays-cf01a26a/) (Hackerearth) | Ongoing Conest |
+    | [Distribute chocolates](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/distribute-chocolates-70c2c2ab/) (Hackerearth) | Ongoing Conest |
+
+  **Day 19 : (Jan 19, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [C - Low Elements](https://atcoder.jp/contests/abc152/tasks/abc152_c) (Atcoder) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/C%20-%20Low%20Elements.cpp) |
+    | [A - ConneR and the A.R.C. Markland-N](https://codeforces.com/contest/1293/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/A%20-%20ConneR%20and%20the%20A.R.C.%20Markland-N.cpp) |
+    | [B - JOE is on TV!](https://codeforces.com/contest/1293/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/B%20-%20JOE%20is%20on%20TV!.cpp) |
+    | [CHFCHK](https://www.codechef.com/COOK114B/problems/CHFCHK) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/CHFCHK.cpp) |
+    | [EXAMCHT](https://www.codechef.com/COOK114B/problems/EXAMCHT) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/EXAMCHT.cpp) |

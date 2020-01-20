@@ -200,3 +200,23 @@
 |-----------|----------------|
 | [An AC for you](https://www.codechef.com/COWR2020/problems/COWA19F) (Codechef Code Wars 1.0) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day17/COWA19F.cpp)|
 | [Troublesome Harsha](https://www.codechef.com/COWR2020/problems/COWA19C) (Codechef Code Wars 1.0) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day17/COWA19C.cpp)|
+
+
+# 18 Jan 2020 (Day 18)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day18/subarrgivsum.cpp)|
+| [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day18/triplet.cpp)|
+
+
+# 19 Jan 2020 (Day 19)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day19/kadanes.cpp)|
+| [Merge without extra space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0/) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day19/mergetwosa.cpp)|
