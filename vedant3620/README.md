@@ -200,3 +200,11 @@
 
 
 - Read the article on [Sorting Vector of Pairs in C++](https://www.geeksforgeeks.org/sorting-vector-of-pairs-in-c-set-1-sort-by-first-and-second/)
+
+# Day 20: January 20,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day20/N_meetings_in_one_room.cpp)|
