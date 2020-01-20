@@ -214,3 +214,15 @@
     |[Set numbers](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/set-numbers-bea74f5a/) (Hackerearth) | Ongoing Contest |
     | [Equal subarrays](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/equal-subarrays-cf01a26a/) (Hackerearth) | Ongoing Conest |
     | [Distribute chocolates](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/distribute-chocolates-70c2c2ab/) (Hackerearth) | Ongoing Conest |
+
+  **Day 19 : (Jan 19, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [C - Low Elements](https://atcoder.jp/contests/abc152/tasks/abc152_c) (Atcoder) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/C%20-%20Low%20Elements.cpp) |
+    | [A - ConneR and the A.R.C. Markland-N](https://codeforces.com/contest/1293/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/A%20-%20ConneR%20and%20the%20A.R.C.%20Markland-N.cpp) |
+    | [B - JOE is on TV!](https://codeforces.com/contest/1293/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/B%20-%20JOE%20is%20on%20TV!.cpp) |
+    | [CHFCHK](https://www.codechef.com/COOK114B/problems/CHFCHK) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/CHFCHK.cpp) |
+    | [EXAMCHT](https://www.codechef.com/COOK114B/problems/EXAMCHT) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/EXAMCHT.cpp) |
