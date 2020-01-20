@@ -105,3 +105,5 @@
 - Solved problem on InterviewBit - [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)
 - Solved problem on InterviewBit - [Minimize The Absolute Difference](https://www.interviewbit.com/problems/minimize-the-absolute-difference/)
 
+**Day 20: (Jan 20, 2020)**
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
