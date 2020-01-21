@@ -184,3 +184,12 @@
 :: [my solution](https://www.codechef.com/viewsolution/29045947)
 - [codechef problem](https://www.codechef.com/problems/ENTEXAM)
 :: [my solution](https://www.codechef.com/viewsolution/29042946)
+
+### DAY 17 : (Jan 17,2020)
+
+#### Problems Solved
+
+- [codechef problem](https://www.codechef.com/problems/MXCH)
+:: [my solution](https://www.codechef.com/viewsolution/29040070)
+- [codechef problem](https://www.codechef.com/problems/CHEFARRP)
+:: [my solution](https://www.codechef.com/viewsolution/29035350)
