@@ -232,3 +232,11 @@
 | [Rearrange array alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day20/rearrangearralt.cpp)|
 
 
+# 21 Jan 2020 (Day 21)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Inversion of Array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0/#ExpectOP) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day21/invofarr.cpp)|
+
