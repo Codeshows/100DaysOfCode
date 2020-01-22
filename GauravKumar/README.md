@@ -71,3 +71,11 @@
 
 
 ## Day-10 (19th Jan):
+#### 1. Learn how to read from the firebase database.
+#### 2. Improved the UI of the shared calendar app.
+
+
+## Day-11 (20th Jan):
+#### 1. Designed  a responsive form for admin to write to the firebase database in the shared calendar app.
+#### 2. Implemented ListView in the app for results fetched from the database to get displayed.
+#### 3. Implemented reading from the firebase realtime database in the shared calendar app.
