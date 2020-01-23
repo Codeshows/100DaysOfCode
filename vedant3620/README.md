@@ -216,3 +216,13 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [As Simple as One and Two](https://codeforces.com/problemset/problem/1276/A) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day21/1276a.cpp)|
+
+
+# Day 22: January 22,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [ConneR and the A.R.C. Markland-N](https://codeforces.com/problemset/problem/1293/A) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day22/1293a.cpp)|
+| [Chef Chick](https://www.codechef.com/problems/CHFCHK) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day22/CHFCHK.cpp)|
