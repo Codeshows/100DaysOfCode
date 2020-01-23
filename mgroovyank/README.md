@@ -99,3 +99,17 @@
 **Day 18: (Jan 18, 2020)**
 - Solved problem on InterviewBit - [Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/)
 - Learnt [Manacher's Algorithm](https://www.youtube.com/watch?v=V-sEwsca1ak)
+
+**Day 19: (Jan 19, 2020)**
+- Solved problem on InterviewBit - [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
+- Solved problem on InterviewBit - [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)
+- Solved problem on InterviewBit - [Minimize The Absolute Difference](https://www.interviewbit.com/problems/minimize-the-absolute-difference/)
+
+**Day 20: (Jan 20, 2020)**
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
+
+**Day 21: (Jan 21, 2020)**
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
+
+**Day 22: (Jan 22, 2020)**
+- Solved problem from contest on [Codeforcces](https://codeforces.com/contest/1293)
