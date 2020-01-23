@@ -78,7 +78,6 @@
 ### DAY 6 : (Jan 6,2020)
 
 #### Problems Solved
-
 - [ongoing contest codechef problem ](https://www.codechef.com/JAN20B/problems/DYNAMO)
 - [codechef problem](https://www.codechef.com/problems/FLOW010)
 :: [my solution](https://www.codechef.com/viewsolution/28744174)
@@ -188,7 +187,6 @@
 ### DAY 17 : (Jan 17,2020)
 
 #### Problems Solved
-
 - [codechef problem](https://www.codechef.com/problems/MXCH)
 :: [my solution](https://www.codechef.com/viewsolution/29040070)
 - [codechef problem](https://www.codechef.com/problems/CHEFARRP)
@@ -209,3 +207,19 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/target%20sum%20triple)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/1259)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum)
+
+### DAY 20 : (Jan 20,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/637/p/219)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/spiralprint)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/253/p/1291)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/formbiggestnumber)
+
+### DAY 21 : (Jan 21,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/587/p/63)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/primevisits)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/126/p/705)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/staircasesearch)
