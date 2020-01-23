@@ -107,3 +107,9 @@
 
 **Day 20: (Jan 20, 2020)**
 - Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
+
+**Day 21: (Jan 21, 2020)**
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
+
+**Day 22: (Jan 22, 2020)**
+- Solved problem from contest on [Codeforcces](https://codeforces.com/contest/1293)
