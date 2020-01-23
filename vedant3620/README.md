@@ -226,3 +226,12 @@
 |-----------|----------------|
 | [ConneR and the A.R.C. Markland-N](https://codeforces.com/problemset/problem/1293/A) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day22/1293a.cpp)|
 | [Chef Chick](https://www.codechef.com/problems/CHFCHK) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day22/CHFCHK.cpp)|
+
+# Day 23: January 23,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Jolites](https://www.codechef.com/AABH2020/problems/JGEC) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day23/JGEC.cpp)|
+| [Xor Segment](https://www.codechef.com/AABH2020/problems/XORSGT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day23/XORSGT.cpp)|
