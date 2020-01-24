@@ -121,3 +121,4 @@
 - Solved problem on InterviewBit - [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)
 - Solved problem on InterviewBit - [Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/)
 - Solved problem on InterviewBit - [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
