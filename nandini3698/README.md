@@ -210,3 +210,42 @@
 |-----------|----------------|
 | [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day18/subarrgivsum.cpp)|
 | [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day18/triplet.cpp)|
+
+
+# 19 Jan 2020 (Day 19)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day19/kadanes.cpp)|
+| [Merge without extra space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0/) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day19/mergetwosa.cpp)|
+
+
+# 20 Jan 2020 (Day 20)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Missing Number](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day20/missingno.cpp)|
+| [Rearrange array alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day20/rearrangearralt.cpp)|
+
+
+# 21 Jan 2020 (Day 21)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Inversion of Array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0/#ExpectOP) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day21/invofarr.cpp)|
+
+
+# 22 Jan 2020 (Day 22)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Sum of nodes with even valued grandparent](https://leetcode.com/contest/biweekly-contest-17/problems/sum-of-nodes-with-even-valued-grandparent/) (LeetCode biweekly contest-17 Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day22/evensum.cpp)|
+| [Watched Chefpsa solution] (Youtube codencode) | [Source](https://www.youtube.com/watch?v=gWi17ILk0uY)|

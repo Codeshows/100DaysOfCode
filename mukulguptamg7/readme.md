@@ -176,3 +176,36 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day15/.cpp)
 - [codechef problem](https://www.codechef.com/status/CHEALG)
 :: [my solution](https://www.codechef.com/viewsolution/29040801)
+
+### DAY 16 : (Jan 16,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/TEST)
+:: [my solution](https://www.codechef.com/viewsolution/29045947)
+- [codechef problem](https://www.codechef.com/problems/ENTEXAM)
+:: [my solution](https://www.codechef.com/viewsolution/29042946)
+
+### DAY 17 : (Jan 17,2020)
+
+#### Problems Solved
+
+- [codechef problem](https://www.codechef.com/problems/MXCH)
+:: [my solution](https://www.codechef.com/viewsolution/29040070)
+- [codechef problem](https://www.codechef.com/problems/CHEFARRP)
+:: [my solution](https://www.codechef.com/viewsolution/29035350)
+
+### DAY 18 : (Jan 18,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/55/p/218)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/waveprint)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/211)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/target%20sum%20pair%20hint)
+
+### DAY 19 : (Jan 19,2020)
+
+#### Problems Solved
+- [geeksforgeeks problem](https://www.geeksforgeeks.org/print-all-triplets-with-given-sum/)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/target%20sum%20triple)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/1259)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum)

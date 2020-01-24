@@ -189,3 +189,30 @@
 |-----------|----------------|
 | [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day18/Kadane's_Algorithm.cpp)|
 | [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day18/Missing_number_in_array.cpp)|
+
+# Day 19: January 19,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day19/Activity_Selection.cpp)|
+
+
+- Read the article on [Sorting Vector of Pairs in C++](https://www.geeksforgeeks.org/sorting-vector-of-pairs-in-c-set-1-sort-by-first-and-second/)
+
+# Day 20: January 20,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day20/N_meetings_in_one_room.cpp)|
+
+# Day 21: January 21,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [As Simple as One and Two](https://codeforces.com/problemset/problem/1276/A) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day21/1276a.cpp)|
