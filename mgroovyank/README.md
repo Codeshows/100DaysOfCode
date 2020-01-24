@@ -113,3 +113,6 @@
 
 **Day 22: (Jan 22, 2020)**
 - Solved problem from contest on [Codeforcces](https://codeforces.com/contest/1293)
+
+**Day 23: (Jan 23, 2020)**
+- Solved problem on InterviewBit - [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)
