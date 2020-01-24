@@ -235,3 +235,12 @@
 |-----------|----------------|
 | [Jolites](https://www.codechef.com/AABH2020/problems/JGEC) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day23/JGEC.cpp)|
 | [Xor Segment](https://www.codechef.com/AABH2020/problems/XORSGT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day23/XORSGT.cpp)|
+
+# Day 24: January 24,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day24/sort012.cpp)|
+| [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day24/reverse_words.cpp)|
