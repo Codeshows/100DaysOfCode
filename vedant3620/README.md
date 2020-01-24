@@ -208,3 +208,11 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day20/N_meetings_in_one_room.cpp)|
+
+# Day 21: January 21,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [As Simple as One and Two](https://codeforces.com/problemset/problem/1276/A) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day21/1276a.cpp)|
