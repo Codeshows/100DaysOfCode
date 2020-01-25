@@ -270,3 +270,13 @@
 |-----------|----------------|
 | [Sort array of 0,1,2](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day24/sort012.cpp)|
 | [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day24/equilib.cpp)|
+
+
+# 25 Jan 2020 (Day 25)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day25/leader.cpp)|
+
