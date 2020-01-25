@@ -159,7 +159,6 @@ watched videos on dynamic programming by geeksforgeeks
 ## Day17: January 17,2020
 * Studied JavaScript and APIs from Udemy.
 
-
 ## Day18: January 18,2020
 * Read Basic Interview Questions on C from geeksforgeeks.
 
@@ -178,3 +177,39 @@ watched videos on dynamic programming by geeksforgeeks
 [A3] (https://codeforces.com/contest/1270/submission/69087191)  
 [Q4] (https://www.codechef.com/problems/COWA19F)  
 [A4] (https://www.codechef.com/viewsolution/29048896)  
+
+
+## Day20: January 20,2020
+* Solved question on codechef and read about interactive problems
+
+### Links:
+[Q1] (https://www.codechef.com/problems/CHFIDEAL)  
+[A1] (https://www.codechef.com/viewsolution/29096701)  
+
+## Day21: January 21,2020
+* Solved question on codeforces 
+
+### Links:
+[Q1] (https://codeforces.com/contest/1270/problem/B)  
+[A1] (https://codeforces.com/contest/1270/submission/69209250)  
+
+## Day22: January 22,2020
+* Web development- PHP and APIs
+
+## Day23: January 23,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1294/problem/A)  
+[A1] (https://codeforces.com/contest/1294/submission/69438305)    
+
+## Day24: January 24,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1293/problem/A)  
+[A1] (https://codeforces.com/contest/1293/submission/69485565)   
+[Q2] (https://codeforces.com/contest/1293/problem/B)  
+[A2] (https://codeforces.com/contest/1293/submission/69486157)  
+
+
