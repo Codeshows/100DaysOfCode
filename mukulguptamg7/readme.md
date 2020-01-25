@@ -10,6 +10,7 @@
 
 **Copetitive Programming**
 - [ ] Increase Codechef rating
+- [ ] Increase Codechef rating upto 1800
 - [ ] Solve Codechef Beginner Questions
 
 **Learning Goals**
@@ -199,6 +200,10 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/waveprint.cpp)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/211)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/target%20sum%20pair.cpp)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/waveprint)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/211)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/target%20sum%20pair%20hint)
+
 
 ### DAY 19 : (Jan 19,2020)
 
@@ -207,6 +212,9 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/target%20sum%20triple.cpp)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/1259)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum.cpp)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/target%20sum%20triple)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/1259)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum)
 
 ### DAY 20 : (Jan 20,2020)
 
@@ -215,6 +223,9 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/spiralprint.cpp)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/253/p/1291)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum.cpp)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/spiralprint)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/253/p/1291)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/formbiggestnumber)
 
 ### DAY 21 : (Jan 21,2020)
 
@@ -247,3 +258,6 @@
 #### Learning
 - Selection Sort
 - Insertion Sort
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/primevisits)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/126/p/705)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/staircasesearch)

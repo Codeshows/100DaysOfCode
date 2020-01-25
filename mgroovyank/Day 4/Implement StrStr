@@ -1,0 +1,33 @@
+// https://www.interviewbit.com/problems/implement-strstr/
+
+int Solution::strStr(const string A, const string B) 
+{
+    int n=A.size();
+    int m=B.size();
+    bool flag=false;
+    int res=-1;
+    for(int i=0;i<n;i++)
+    {   
+        int j=0;
+        int k=i;
+        if(A[k]==B[j])
+        {
+            while(A[k]==B[j] && k<n && j<m)
+            {
+                k++;
+                j++;
+                if(j==m)
+                {
+                    flag=true;
+                    res=i;
+                    break;
+                }
+            }
+        }
+        if(flag)
+            break;
+    }
+    
+    return res;
+    
+}
