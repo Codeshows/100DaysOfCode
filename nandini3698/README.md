@@ -280,3 +280,12 @@
 |-----------|----------------|
 | [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day25/leader.cpp)|
 
+
+# 26 Jan 2020 (Day 26)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day26/reversear.cpp)|
+| [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day26/kthsmallest.cpp)|
