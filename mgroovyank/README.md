@@ -105,3 +105,20 @@
 - Solved problem on InterviewBit - [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)
 - Solved problem on InterviewBit - [Minimize The Absolute Difference](https://www.interviewbit.com/problems/minimize-the-absolute-difference/)
 
+**Day 20: (Jan 20, 2020)**
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
+
+**Day 21: (Jan 21, 2020)**
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
+
+**Day 22: (Jan 22, 2020)**
+- Solved problem from contest on [Codeforcces](https://codeforces.com/contest/1293)
+
+**Day 23: (Jan 23, 2020)**
+- Solved problem on InterviewBit - [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)
+
+**Day 24: (Jan 24, 2020)**
+- Solved problem on InterviewBit - [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)
+- Solved problem on InterviewBit - [Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/)
+- Solved problem on InterviewBit - [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)

@@ -200,3 +200,47 @@
 
 
 - Read the article on [Sorting Vector of Pairs in C++](https://www.geeksforgeeks.org/sorting-vector-of-pairs-in-c-set-1-sort-by-first-and-second/)
+
+# Day 20: January 20,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day20/N_meetings_in_one_room.cpp)|
+
+# Day 21: January 21,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [As Simple as One and Two](https://codeforces.com/problemset/problem/1276/A) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day21/1276a.cpp)|
+
+
+# Day 22: January 22,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [ConneR and the A.R.C. Markland-N](https://codeforces.com/problemset/problem/1293/A) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day22/1293a.cpp)|
+| [Chef Chick](https://www.codechef.com/problems/CHFCHK) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day22/CHFCHK.cpp)|
+
+# Day 23: January 23,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Jolites](https://www.codechef.com/AABH2020/problems/JGEC) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day23/JGEC.cpp)|
+| [Xor Segment](https://www.codechef.com/AABH2020/problems/XORSGT) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day23/XORSGT.cpp)|
+
+# Day 24: January 24,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day24/sort012.cpp)|
+| [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day24/reverse_words.cpp)|
