@@ -128,3 +128,4 @@
 
 **Day 26: (Jan 26, 2020)**
 - Solved problem on InterviewBit - [3 Sum](https://www.interviewbit.com/problems/3-sum/)
+- Solved problem on InterviewBit - [3 Sum Zero](https://www.interviewbit.com/problems/3-sum-zero/)
