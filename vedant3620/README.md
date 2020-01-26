@@ -252,3 +252,8 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day25/middle_element.cpp)|
+
+# Day 26: January 26,2020
+
+- Read the article on [Sqrt (or Square Root) Decomposition Technique](https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/)
+- Watched the video on [What is Square Root Decomposition? - Range Query Solving](https://www.youtube.com/watch?v=gWbDocYhwDA&t=559s)
