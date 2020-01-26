@@ -125,3 +125,6 @@
 
 **Day 25: (Jan 25, 2020)**
 - Attended competitive programming workshop by Hackerearth at MNIT, Jaipur.
+
+**Day 26: (Jan 26, 2020)**
+- Solved problem on InterviewBit - [3 Sum](https://www.interviewbit.com/problems/3-sum/)
