@@ -129,3 +129,7 @@
 **Day 26: (Jan 26, 2020)**
 - Solved problem on InterviewBit - [3 Sum](https://www.interviewbit.com/problems/3-sum/)
 - Solved problem on InterviewBit - [3 Sum Zero](https://www.interviewbit.com/problems/3-sum-zero/)
+
+**Day 27: (Jan 27, 2020)**
+- Solved problem on InterviewBit - [Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/)
+- Solved problem on InterviewBit - [Diffk](https://www.interviewbit.com/problems/diffk/)
