@@ -113,3 +113,19 @@
 
 **Day 22: (Jan 22, 2020)**
 - Solved problem from contest on [Codeforcces](https://codeforces.com/contest/1293)
+
+**Day 23: (Jan 23, 2020)**
+- Solved problem on InterviewBit - [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)
+
+**Day 24: (Jan 24, 2020)**
+- Solved problem on InterviewBit - [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)
+- Solved problem on InterviewBit - [Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/)
+- Solved problem on InterviewBit - [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
+
+**Day 25: (Jan 25, 2020)**
+- Attended competitive programming workshop by Hackerearth at MNIT, Jaipur.
+
+**Day 26: (Jan 26, 2020)**
+- Solved problem on InterviewBit - [3 Sum](https://www.interviewbit.com/problems/3-sum/)
+- Solved problem on InterviewBit - [3 Sum Zero](https://www.interviewbit.com/problems/3-sum-zero/)

@@ -150,7 +150,7 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Codathon Day1](https://www.hackerearth.com/challenges/college/codathon20-nitbhopal/algorithm/underwood-and-secretary-of-state-64013221/) (Hackerearth Codathon)| [Solution] (Ongoing Contest)|
-| [Read DP article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
+| Read DP article (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/dynamic-programming/)|
 
 
 # 13 Jan 2020 (Day 13)
@@ -169,7 +169,7 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Length Sumofdigit](http://codeforces.com/problemset/problem/489/C) (Codeforces)| [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day14/lendigitsum.cpp)|
-| [Read Greedy Algorithms article] (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/greedy-algorithms/)|
+| Read Greedy Algorithms article (Geeksforgeeks) | [Source](https://www.geeksforgeeks.org/greedy-algorithms/)|
 
 
 # 15 Jan 2020 (Day 15)
@@ -249,3 +249,43 @@
 |-----------|----------------|
 | [Sum of nodes with even valued grandparent](https://leetcode.com/contest/biweekly-contest-17/problems/sum-of-nodes-with-even-valued-grandparent/) (LeetCode biweekly contest-17 Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day22/evensum.cpp)|
 | [Watched Chefpsa solution] (Youtube codencode) | [Source](https://www.youtube.com/watch?v=gWi17ILk0uY)|
+
+
+# 23 Jan 2020 (Day 23)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Jolites](https://www.codechef.com/AABH2020/problems/JGEC) (Codechef AARAMBH2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day23/JGEC.cpp)|
+| [Straight lines](https://www.codechef.com/AABH2020/problems/STRTLN) (Codechef AARAMBH2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day23/STRTLN.cpp)|
+| [Xor Segment](https://www.codechef.com/AABH2020/problems/XORSGT) (Codechef AARAMBH2020) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day23/XORSGT.cpp)|
+
+
+# 24 Jan 2020 (Day 24)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Sort array of 0,1,2](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day24/sort012.cpp)|
+| [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day24/equilib.cpp)|
+
+
+# 25 Jan 2020 (Day 25)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day25/leader.cpp)|
+
+
+# 26 Jan 2020 (Day 26)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day26/reversear.cpp)|
+| [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day26/kthsmallest.cpp)|
