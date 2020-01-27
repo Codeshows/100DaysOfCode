@@ -133,3 +133,4 @@
 **Day 27: (Jan 27, 2020)**
 - Solved problem on InterviewBit - [Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/)
 - Solved problem on InterviewBit - [Diffk](https://www.interviewbit.com/problems/diffk/)
+- Solved problem on InterviewBit - [Max Continuous Series of 1s](https://www.interviewbit.com/problems/max-continuous-series-of-1s/)
