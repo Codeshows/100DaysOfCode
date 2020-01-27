@@ -9,6 +9,7 @@
 ## Goals
 
 **Copetitive Programming**
+- [ ] Increase Codechef rating
 - [ ] Increase Codechef rating upto 1800
 - [ ] Solve Codechef Beginner Questions
 
@@ -196,14 +197,21 @@
 
 #### Problems Solved
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/55/p/218)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/waveprint.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/211)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/target%20sum%20pair.cpp)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/waveprint)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/211)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/target%20sum%20pair%20hint)
+
 
 ### DAY 19 : (Jan 19,2020)
 
 #### Problems Solved
 - [geeksforgeeks problem](https://www.geeksforgeeks.org/print-all-triplets-with-given-sum/)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/target%20sum%20triple.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/1259)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum.cpp)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/target%20sum%20triple)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/1259)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum)
@@ -212,6 +220,9 @@
 
 #### Problems Solved
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/637/p/219)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/spiralprint.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/253/p/1291)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum.cpp)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/spiralprint)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/253/p/1291)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/formbiggestnumber)
@@ -220,6 +231,33 @@
 
 #### Problems Solved
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/587/p/63)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/primevisits.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/126/p/705)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/staircasesearch.cpp)
+
+### DAY 22 : (Jan 22,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/587/p/217)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day22/sum%20of%20two%20arrays.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/199/p/206)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day22/bubble%20sort.cpp)
+
+#### Learning
+- Bubble Sort
+- Wave Sort
+
+### DAY 23 : (Jan 23,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/254/p/207)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day23/selection%20sort.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/208)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day23/insertion%20sort.cpp)
+
+#### Learning
+- Selection Sort
+- Insertion Sort
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/primevisits)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/126/p/705)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/staircasesearch)
