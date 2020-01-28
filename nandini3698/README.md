@@ -289,3 +289,13 @@
 |-----------|----------------|
 | [Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day26/reversear.cpp)|
 | [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day26/kthsmallest.cpp)|
+
+
+# 27 Jan 2020 (Day 27)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Trapping Rainwater](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day27/traprainwtr.cpp)|
+| [Pythogorean Triplet](https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0/) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day27/pythogorean.cpp)|

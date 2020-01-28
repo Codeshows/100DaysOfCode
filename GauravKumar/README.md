@@ -90,3 +90,7 @@
 #### 1. Implemented the update and delete feature in the firebase database of the shared calendar app.
 #### 2. Now, club members can edit the events and delete them from the database too.
 
+## Day-14 (27th Jan):
+#### 1. Made some visual changes to the app and fixed some bugs.
+#### 2. Completed the module 2 of the fork cpp on GFG and solved some problems too.
+
