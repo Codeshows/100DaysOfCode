@@ -143,3 +143,4 @@
 - Solved problem on InterviewBit - [Reverse String](https://www.interviewbit.com/problems/reverse-string/)
 - Solved problem on InterviewBit - [Generate all Parentheses](https://www.interviewbit.com/problems/generate-all-parentheses/)
 - Read about [Stacks and Queues](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/)
+- Solved problem on InterviewBit - [Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)
