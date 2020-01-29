@@ -317,6 +317,6 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Chocolate Distribution](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day27/chocolate.cpp)|
 | [Stock Buy Sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/stockbuysell.cpp)|
-| [Unsorted Array](https://practice.geeksforgeeks.org/problems/unsorted-array/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/unsortedarr.cpp)|
+| [Chocolate Distribution](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/chocolate.cpp)|
+| [Unsorted Array](https://practice.geeksforgeeks.org/problems/unsorted-array/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/unsortedarr.cpp)|
