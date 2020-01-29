@@ -309,3 +309,14 @@
 |-----------|----------------|
 | [ABSEQ](https://www.codechef.com/COMA2020/problems/ABSEQ) (Codechef CODEMANIA Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day28/ABSEQ.cpp)|
 | [PRDSUM](https://www.codechef.com/COMA2020/problems/PRDSUM) (Codechef CODEMANIA Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day28/PRDSUM.cpp)|
+
+
+# 29 Jan 2020 (Day 29)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Chocolate Distribution](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day27/chocolate.cpp)|
+| [Stock Buy Sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/stockbuysell.cpp)|
+| [Unsorted Array](https://practice.geeksforgeeks.org/problems/unsorted-array/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/unsortedarr.cpp)|
