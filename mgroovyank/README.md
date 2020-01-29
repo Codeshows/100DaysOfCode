@@ -138,3 +138,6 @@
 **Day 28: (Jan 28, 2020)**
 - Solved problem on InterviewBit - [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/)
 - Solved problem on InterviewBit - [Container With Most Water](https://www.interviewbit.com/problems/container-with-most-water/)
+
+**Day 29: (Jan 29, 2020)**
+- Solved problem on InterviewBit - [Reverse String](https://www.interviewbit.com/problems/reverse-string/)
