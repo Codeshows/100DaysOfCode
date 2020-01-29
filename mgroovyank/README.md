@@ -141,3 +141,4 @@
 
 **Day 29: (Jan 29, 2020)**
 - Solved problem on InterviewBit - [Reverse String](https://www.interviewbit.com/problems/reverse-string/)
+- Solved problem on InterviewBit - [Generate all Parentheses](https://www.interviewbit.com/problems/generate-all-parentheses/)
