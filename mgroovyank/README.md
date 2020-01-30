@@ -134,3 +134,13 @@
 - Solved problem on InterviewBit - [Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/)
 - Solved problem on InterviewBit - [Diffk](https://www.interviewbit.com/problems/diffk/)
 - Solved problem on InterviewBit - [Max Continuous Series of 1s](https://www.interviewbit.com/problems/max-continuous-series-of-1s/)
+
+**Day 28: (Jan 28, 2020)**
+- Solved problem on InterviewBit - [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/)
+- Solved problem on InterviewBit - [Container With Most Water](https://www.interviewbit.com/problems/container-with-most-water/)
+
+**Day 29: (Jan 29, 2020)**
+- Solved problem on InterviewBit - [Reverse String](https://www.interviewbit.com/problems/reverse-string/)
+- Solved problem on InterviewBit - [Generate all Parentheses](https://www.interviewbit.com/problems/generate-all-parentheses/)
+- Read about [Stacks and Queues](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/)
+- Solved problem on InterviewBit - [Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)
