@@ -148,3 +148,6 @@
 **Day 30: (Jan 30, 2020)**
 - Participated in [Educational Codeforces Round 81](http://codeforces.com/contest/1295)
 - Solved problem on InterviewBit - [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)
+- Solved problem on InterviewBit - [Min Stack](https://www.interviewbit.com/problems/min-stack/)
+- Solved problem on Codeforces - [Display The Number](https://codeforces.com/contest/1295/problem/A)
+
