@@ -150,4 +150,5 @@
 - Solved problem on InterviewBit - [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)
 - Solved problem on InterviewBit - [Min Stack](https://www.interviewbit.com/problems/min-stack/)
 - Solved problem on Codeforces - [Display The Number](https://codeforces.com/contest/1295/problem/A)
+- Solved problem on InterviewBit - [Rain Water Tapped](https://www.interviewbit.com/problems/rain-water-trapped/)
 
