@@ -271,3 +271,19 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day25/string%20sort.cpp)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/59/p/437)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day25/counting%20sort.cpp)
+
+### DAY 26 : (Jan 26,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/KTTABLE)
+:: [my solution]https://www.codechef.com/viewsolution/29035419)
+- [codechef problem](https://www.codechef.com/problems/DIET)
+:: [my solution](https://www.codechef.com/viewsolution/28460003)
+
+### DAY 27 : (Jan 27,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/369/p/200)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day26/binarysearch.cpp)
+- [Kth root problem]
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day26/Kth%20root.cpp)
