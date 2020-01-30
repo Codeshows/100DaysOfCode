@@ -146,4 +146,5 @@
 - Solved problem on InterviewBit - [Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)
 
 **Day 30: (Jan 30, 2020)**
+- Participated in [Educational Codeforces Round 81](http://codeforces.com/contest/1295)
 - Solved problem on InterviewBit - [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)
