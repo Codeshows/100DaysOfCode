@@ -101,7 +101,7 @@
 |*Attended a workshop for learning Oracle based Database SQL-plus*|
 |-----------|
 
-**Day 23-24 : Jan 23,2020 - Jan 24,2020 **
+**Day 23-24 : Jan 23,2020 - Jan 24,2020**
 
 |*Practice Done*|
 |-----------|
@@ -120,3 +120,7 @@
 | [Chef and Street Food](https://www.codechef.com/LTIME80B/problems/STFOOD) (Codechef January Lunchtime) | [solution](https://www.codechef.com/viewsolution/29192790)|
 | [Bob and His Friends](https://www.codechef.com/LTIME80B/problems/BFRIEND) (Codechef January Lunchtime) | [solution](https://www.codechef.com/viewsolution/29194158)|
 
+**Day 29 : Jan 29,2020**
+
+ |*Attended  workshop on basics of Git and Github by MSPs*|
+ |------------|

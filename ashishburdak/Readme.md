@@ -307,3 +307,12 @@
     | [A. PolandBall and Hypothesis](https://codeforces.com/problemset/problem/755/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day27/A.%20PolandBall%20and%20Hypothesis.cpp) |
     | [A. New Year Transportation](https://codeforces.com/problemset/problem/500/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day27/A.%20New%20Year%20Transportation.cpp) |
     
+  **Day 28 : (Jan 28, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [B. Verse For Santa](https://codeforces.com/contest/1279/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/B.%20Verse%20For%20Santa.cpp) |
+    | [ABSEQ](https://www.codechef.com/COMA2020/problems/ABSEQ) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/ABSEQ.cpp) |
+    | [PRDSUM](https://www.codechef.com/COMA2020/problems/PRDSUM) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/PRDSUM.cpp) |
