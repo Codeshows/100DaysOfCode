@@ -271,3 +271,19 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Under the Tunnels](https://www.codechef.com/LTIME80B/problems/POPTUNNL/) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day28/POPTUNNL.cpp)|
+
+# Day 29: January 29,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Periodic Sum](https://www.codechef.com/problems/PRDSUM) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day29/prdsum.cpp)|
+
+# Day 30: January 30,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Aabra Ka Daabra](https://www.codechef.com/COMA2020/problems/ABSEQ) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day30/ABSEQ.cpp)|
