@@ -320,3 +320,14 @@
 | [Stock Buy Sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/stockbuysell.cpp)|
 | [Chocolate Distribution](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/chocolate.cpp)|
 | [Unsorted Array](https://practice.geeksforgeeks.org/problems/unsorted-array/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/unsortedarr.cpp)|
+
+
+# 30 Jan 2020 (Day 30)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Last Index of 1](https://practice.geeksforgeeks.org/problems/last-index-of-1/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/lastidx1.cpp)|
+| [First and Last](https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/fislasocc.cpp)|
+| [Number of Occurance](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/occurance.cpp)|
