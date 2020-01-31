@@ -331,3 +331,13 @@
 | [Last Index of 1](https://practice.geeksforgeeks.org/problems/last-index-of-1/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/lastidx1.cpp)|
 | [First and Last](https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/fislasocc.cpp)|
 | [Number of Occurance](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/occurance.cpp)|
+
+
+# 31 Jan 2020 (Day 31)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Largest Number](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day31/largestno.cpp)|
+| [First and Last](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day31/revword.cpp)|
