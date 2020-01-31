@@ -152,3 +152,5 @@
 - Solved problem on Codeforces - [Display The Number](https://codeforces.com/contest/1295/problem/A)
 - Solved problem on InterviewBit - [Rain Water Tapped](https://www.interviewbit.com/problems/rain-water-trapped/)
 
+**Day 31: (Jan 31, 2020)**
+- Solved problem on Codeforces [Infnite Prefixes](http://codeforces.com/contest/1295)
