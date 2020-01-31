@@ -94,3 +94,9 @@
 #### 1. Made some visual changes to the app and fixed some bugs.
 #### 2. Completed the module 2 of the fork cpp on GFG and solved some problems too.
 
+
+## Day-15 (29th Jan):
+#### 1. Made some security changes to the shared calendar app.
+#### 2. Solved some problems on Geeks for Geeks.
+
+

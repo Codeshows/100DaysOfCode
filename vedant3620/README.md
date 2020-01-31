@@ -257,3 +257,17 @@
 
 - Read the article on [Sqrt (or Square Root) Decomposition Technique](https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/)
 - Watched the video on [What is Square Root Decomposition? - Range Query Solving](https://www.youtube.com/watch?v=gWbDocYhwDA&t=559s)
+
+# Day 27: January 27,2020
+
+- Watched the video on [Dijkstra Algorithm - Single Source Shortest Path - Greedy Method](https://www.youtube.com/watch?v=XB4MIexjvY0&t=1s)
+
+- Implemented [Dijkstra's Algorithm](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day27/dijkstra.c)
+
+# Day 28: January 28,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Under the Tunnels](https://www.codechef.com/LTIME80B/problems/POPTUNNL/) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day28/POPTUNNL.cpp)|
