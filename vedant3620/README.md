@@ -287,3 +287,12 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Aabra Ka Daabra](https://www.codechef.com/COMA2020/problems/ABSEQ) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day30/ABSEQ.cpp)|
+
+# Day 31: January 31,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Popping Balloons](https://www.codechef.com/CJQK2020/problems/CJQK01) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day31/CJQK01.cpp)|
+| [Distinct Sums](https://www.codechef.com/CJQK2020/problems/CJQK02) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day31/CJQK02.cpp)|
