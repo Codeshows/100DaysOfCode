@@ -226,3 +226,93 @@
     | [B - JOE is on TV!](https://codeforces.com/contest/1293/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/B%20-%20JOE%20is%20on%20TV!.cpp) |
     | [CHFCHK](https://www.codechef.com/COOK114B/problems/CHFCHK) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/CHFCHK.cpp) |
     | [EXAMCHT](https://www.codechef.com/COOK114B/problems/EXAMCHT) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day19/EXAMCHT.cpp) |
+
+  **Day 20 : (Jan 20, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [B. Fridge Lockers](https://codeforces.com/problemset/problem/1255/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day20/B.%20Fridge%20Lockers.cpp) |
+    | [A. Metro](https://codeforces.com/problemset/problem/1055/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day20/A.%20Metro.cpp) |
+    | [B. Vasya and Isolated Vertices](https://codeforces.com/problemset/problem/1065/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day20/B.%20Vasya%20and%20Isolated%20Vertices.cpp) |
+    
+  **Day 21 : (Jan 21, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [A. King Escape](https://codeforces.com/problemset/problem/1033/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day21/A.%20King%20Escape.cpp) |
+    | [B. Badge](https://codeforces.com/problemset/problem/1020/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day21/B.%20Badge.cpp) |
+    | [A. Protect Sheep](https://codeforces.com/problemset/problem/948/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day21/A.%20Protect%20Sheep.cpp) |
+    | [A. Love Triangle](https://codeforces.com/problemset/problem/939/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day21/A.%20Love%20Triangle.cpp) |
+    
+  **Day 22 : (Jan 22, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [A. Collecting Coins](https://codeforces.com/contest/1294/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day22/A.%20Collecting%20Coins.cpp) |
+    | [B. Collecting Packages](https://codeforces.com/contest/1294/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day22/B.%20Collecting%20Packages.cpp) |
+    | [C. Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day22/C.%20Product%20of%20Three%20Numbers.cpp) |
+    
+  **Day 23 : (Jan 23, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [JGEC](https://www.codechef.com/AABH2020/problems/JGEC) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day23/JGEC.cpp) |
+    | [XORSGT](https://www.codechef.com/AABH2020/problems/XORSGT) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day23/XORSGT.cpp) |
+    | [STRTLN](https://www.codechef.com/AABH2020/problems/STRTLN) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day23/STRTLN.cpp) |
+
+  **Day 24 : (Jan 24, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [Good subsequences](https://www.hackerearth.com/problem/algorithm/good-subsequences-1-247180e7/) (Hackerearth) | Ongoing contest |
+    | [Maximum weighted edges](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/approximate/maximum-weighted-edges-ea5b15b8/) (Hackerearth) | Ongoing Contest |
+    
+  **Day 25 : (Jan 25, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [STFOOD](https://www.codechef.com/LTIME80B/problems/STFOOD) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day25/STFOOD.cpp) |
+    | [BFRIEND](https://www.codechef.com/LTIME80B/problems/BFRIEND) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day25/BFRIEND.cpp) |
+    
+  - Participated in [CTF](https://cybersec.hackerearth.com/)
+    
+  **Day 26 : (Jan 26, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [C. Dividing the numbers](https://codeforces.com/problemset/problem/899/C) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day26/C.%20Dividing%20the%20numbers.cpp) |
+    | [C. Rumor](https://codeforces.com/problemset/problem/893/C) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day26/C.%20Rumor.cpp) |
+    
+  **Day 27 : (Jan 27, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [Prateek and theories](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prateek-and-theories-3/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day27/Prateek%20and%20theories.cpp) |
+    | [A. PolandBall and Hypothesis](https://codeforces.com/problemset/problem/755/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day27/A.%20PolandBall%20and%20Hypothesis.cpp) |
+    | [A. New Year Transportation](https://codeforces.com/problemset/problem/500/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day27/A.%20New%20Year%20Transportation.cpp) |
+    
+  **Day 28 : (Jan 28, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [B. Verse For Santa](https://codeforces.com/contest/1279/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/B.%20Verse%20For%20Santa.cpp) |
+    | [ABSEQ](https://www.codechef.com/COMA2020/problems/ABSEQ) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/ABSEQ.cpp) |
+    | [PRDSUM](https://www.codechef.com/COMA2020/problems/PRDSUM) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/PRDSUM.cpp) |

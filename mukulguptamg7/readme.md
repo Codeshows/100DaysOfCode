@@ -9,6 +9,7 @@
 ## Goals
 
 **Copetitive Programming**
+- [ ] Increase Codechef rating
 - [ ] Increase Codechef rating upto 1800
 - [ ] Solve Codechef Beginner Questions
 
@@ -78,7 +79,6 @@
 ### DAY 6 : (Jan 6,2020)
 
 #### Problems Solved
-
 - [ongoing contest codechef problem ](https://www.codechef.com/JAN20B/problems/DYNAMO)
 - [codechef problem](https://www.codechef.com/problems/FLOW010)
 :: [my solution](https://www.codechef.com/viewsolution/28744174)
@@ -188,7 +188,6 @@
 ### DAY 17 : (Jan 17,2020)
 
 #### Problems Solved
-
 - [codechef problem](https://www.codechef.com/problems/MXCH)
 :: [my solution](https://www.codechef.com/viewsolution/29040070)
 - [codechef problem](https://www.codechef.com/problems/CHEFARRP)
@@ -198,14 +197,93 @@
 
 #### Problems Solved
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/55/p/218)
-:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/waveprint)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/waveprint.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/211)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/target%20sum%20pair.cpp)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/211)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day18/target%20sum%20pair%20hint)
+
 
 ### DAY 19 : (Jan 19,2020)
 
 #### Problems Solved
 - [geeksforgeeks problem](https://www.geeksforgeeks.org/print-all-triplets-with-given-sum/)
-:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/target%20sum%20triple)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/target%20sum%20triple.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/1259)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum.cpp)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/1259)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum)
+
+### DAY 20 : (Jan 20,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/637/p/219)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/spiralprint.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/253/p/1291)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day19/maximum%20subarray%20sum.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/253/p/1291)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day20/formbiggestnumber)
+
+### DAY 21 : (Jan 21,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/587/p/63)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/primevisits.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/126/p/705)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day21/staircasesearch.cpp)
+
+### DAY 22 : (Jan 22,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/587/p/217)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day22/sum%20of%20two%20arrays.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/199/p/206)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day22/bubble%20sort.cpp)
+
+#### Learning
+- Bubble Sort
+- Wave Sort
+
+### DAY 23 : (Jan 23,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/254/p/207)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day23/selection%20sort.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/208)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day23/insertion%20sort.cpp)
+
+#### Learning
+- Selection Sort
+- Insertion Sort
+
+### DAY 24 : (Jan 24,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/952/p/423)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day24/sorting%20in%20linear%20time.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/90)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day24/sort%20game.cpp)
+
+### DAY 25 : (Jan 25,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/262/p/103)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day25/string%20sort.cpp)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/59/p/437)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day25/counting%20sort.cpp)
+
+### DAY 26 : (Jan 26,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/KTTABLE)
+:: [my solution]https://www.codechef.com/viewsolution/29035419)
+- [codechef problem](https://www.codechef.com/problems/DIET)
+:: [my solution](https://www.codechef.com/viewsolution/28460003)
+
+### DAY 27 : (Jan 27,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/369/p/200)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day26/binarysearch.cpp)
+- [Kth root problem]
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day26/Kth%20root.cpp)

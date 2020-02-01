@@ -79,3 +79,24 @@
 #### 1. Designed  a responsive form for admin to write to the firebase database in the shared calendar app.
 #### 2. Implemented ListView in the app for results fetched from the database to get displayed.
 #### 3. Implemented reading from the firebase realtime database in the shared calendar app.
+
+
+## Day-12 (21st Jan to 25th jan):
+#### 1. Didn't do anything in this period.
+#### 2. Paerticipated in college coding competiontions and won one of them with my team.
+
+
+## Day-13 (26th Jan):
+#### 1. Implemented the update and delete feature in the firebase database of the shared calendar app.
+#### 2. Now, club members can edit the events and delete them from the database too.
+
+## Day-14 (27th Jan):
+#### 1. Made some visual changes to the app and fixed some bugs.
+#### 2. Completed the module 2 of the fork cpp on GFG and solved some problems too.
+
+
+## Day-15 (29th Jan):
+#### 1. Made some security changes to the shared calendar app.
+#### 2. Solved some problems on Geeks for Geeks.
+
+

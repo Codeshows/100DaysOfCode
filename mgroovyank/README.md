@@ -113,3 +113,34 @@
 
 **Day 22: (Jan 22, 2020)**
 - Solved problem from contest on [Codeforcces](https://codeforces.com/contest/1293)
+
+**Day 23: (Jan 23, 2020)**
+- Solved problem on InterviewBit - [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)
+
+**Day 24: (Jan 24, 2020)**
+- Solved problem on InterviewBit - [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)
+- Solved problem on InterviewBit - [Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/)
+- Solved problem on InterviewBit - [Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)
+- Solved problem from contest on [Codeforces](https://codeforces.com/contest/1293)
+
+**Day 25: (Jan 25, 2020)**
+- Attended competitive programming workshop by Hackerearth at MNIT, Jaipur.
+
+**Day 26: (Jan 26, 2020)**
+- Solved problem on InterviewBit - [3 Sum](https://www.interviewbit.com/problems/3-sum/)
+- Solved problem on InterviewBit - [3 Sum Zero](https://www.interviewbit.com/problems/3-sum-zero/)
+
+**Day 27: (Jan 27, 2020)**
+- Solved problem on InterviewBit - [Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/)
+- Solved problem on InterviewBit - [Diffk](https://www.interviewbit.com/problems/diffk/)
+- Solved problem on InterviewBit - [Max Continuous Series of 1s](https://www.interviewbit.com/problems/max-continuous-series-of-1s/)
+
+**Day 28: (Jan 28, 2020)**
+- Solved problem on InterviewBit - [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/)
+- Solved problem on InterviewBit - [Container With Most Water](https://www.interviewbit.com/problems/container-with-most-water/)
+
+**Day 29: (Jan 29, 2020)**
+- Solved problem on InterviewBit - [Reverse String](https://www.interviewbit.com/problems/reverse-string/)
+- Solved problem on InterviewBit - [Generate all Parentheses](https://www.interviewbit.com/problems/generate-all-parentheses/)
+- Read about [Stacks and Queues](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/)
+- Solved problem on InterviewBit - [Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)

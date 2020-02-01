@@ -212,6 +212,7 @@ watched videos on dynamic programming by geeksforgeeks
 [Q2] (https://codeforces.com/contest/1293/problem/B)  
 [A2] (https://codeforces.com/contest/1293/submission/69486157)  
 
+
 ## Day25: January 25,2020
 * studied dynamic programming concepts and solved questions
 
@@ -251,6 +252,7 @@ watched videos on dynamic programming by geeksforgeeks
 
 ### Links:
 [source] (https://www.youtube.com/watch?v=2HiObtJLNFY&list=PLumVgkpr9_ePu3x3U-d1DZY-sgD0c5zjc)
+
 
 
 
