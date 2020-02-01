@@ -155,3 +155,6 @@
 **Day 31: (Jan 31, 2020)**
 - Solved problem on Codeforces [Infnite Prefixes](http://codeforces.com/contest/1295)
 - Solved problem on Codeforces [Same GCDs](http://codeforces.com/contest/1295)
+
+**Day 32: (Feb 1, 2020)**
+- Solved problem on Codeforces [Obtain The String](https://codeforces.com/contest/1295)
