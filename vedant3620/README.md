@@ -296,3 +296,12 @@
 |-----------|----------------|
 | [Popping Balloons](https://www.codechef.com/CJQK2020/problems/CJQK01) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day31/CJQK01.cpp)|
 | [Distinct Sums](https://www.codechef.com/CJQK2020/problems/CJQK02) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day31/CJQK02.cpp)|
+
+# Day 32: February 01,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Eddy Wants Admission](https://www.codechef.com/FFC32020/problems/FFC320B) (Codechef) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day32/FFC320B.cpp)|
+| [Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day32/Implement_Atoi.cpp)|
