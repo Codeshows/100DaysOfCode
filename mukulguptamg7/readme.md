@@ -287,3 +287,11 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day26/binarysearch.cpp)
 - [Kth root problem]
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day26/Kth%20root.cpp)
+
+### DAY 28 : (Jan 28,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/FRUITS)
+:: [my solution](https://www.codechef.com/viewsolution/28460258)
+- [codechef problem](https://www.codechef.com/problems/FLOW009)
+:: [my solution](https://www.codechef.com/viewsolution/28457635)
