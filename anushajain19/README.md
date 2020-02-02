@@ -124,3 +124,30 @@
 
  |*Attended  workshop on basics of Git and Github by MSPs*|
  |------------|
+
+**Day 30 :Jan 30,2020**
+
+|*[Started a udemy course on PYTHON](https://www.udemy.com/course/python-complete/)*|
+|---------------|
+|*Completed Section 1: Introduction to Programming with Python*|
+
+**Day 31:Jan 31,2020**
+
+|*Course Progressed*|
+|-----------|
+|*Section 2: Programming Basics (4 lectures)*|
+
+**Day 32: Feb 01,2020**
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Large Average Hackerearth](https://www.hackerearth.com/problem/algorithm/large-average-51cfb031/) | [solution](https://www.hackerearth.com/submission/35826949/) |
+
+**Day 33:Feb 02,2020**
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Jumping Stones](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/jump-k-forward-250d464b/) | [solution](https://www.hackerearth.com/submission/35830736/) |
+|[Read a DP algorithm : Count ways to reach the nth stair using step 1, 2 or 3(Geeks for Geeks)](https://www.geeksforgeeks.org/count-ways-reach-nth-stair-using-step-1-2-3/)|
+
+
