@@ -144,3 +144,17 @@
 - Solved problem on InterviewBit - [Generate all Parentheses](https://www.interviewbit.com/problems/generate-all-parentheses/)
 - Read about [Stacks and Queues](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/)
 - Solved problem on InterviewBit - [Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)
+
+**Day 30: (Jan 30, 2020)**
+- Participated in [Educational Codeforces Round 81](http://codeforces.com/contest/1295)
+- Solved problem on InterviewBit - [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)
+- Solved problem on InterviewBit - [Min Stack](https://www.interviewbit.com/problems/min-stack/)
+- Solved problem on Codeforces - [Display The Number](https://codeforces.com/contest/1295/problem/A)
+- Solved problem on InterviewBit - [Rain Water Tapped](https://www.interviewbit.com/problems/rain-water-trapped/)
+
+**Day 31: (Jan 31, 2020)**
+- Solved problem on Codeforces [Infnite Prefixes](http://codeforces.com/contest/1295)
+- Solved problem on Codeforces [Same GCDs](http://codeforces.com/contest/1295)
+
+**Day 32: (Feb 1, 2020)**
+- Solved problem on Codeforces [Obtain The String](https://codeforces.com/contest/1295)
