@@ -350,3 +350,13 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [FFC320B](https://www.codechef.com/FFC32020/problems/FFC320B) (Codechef CODEMANIA Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day32/FFC320B.cpp)|
+
+
+# 2 Feb 2020 (Day 33)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Permuations of string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day33/permutation.cpp)|
+| [Missing and repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day33/msngrptng.cpp)|
