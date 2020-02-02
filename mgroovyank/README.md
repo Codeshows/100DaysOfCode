@@ -158,3 +158,6 @@
 
 **Day 32: (Feb 1, 2020)**
 - Solved problem on Codeforces [Obtain The String](https://codeforces.com/contest/1295)
+
+**Day 33: (Feb 2, 2020)**
+- Attended Game Development in Unity Workshop at MNIT, Jaipur
