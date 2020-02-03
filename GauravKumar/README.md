@@ -2,8 +2,8 @@
 ## Goals:
 
 ### January goals
-#### 1. complete the chat app and the shared calendar app in android
-#### 2. complete the fork cpp
+#### 1. complete the chat app and the shared calendar app in android - completed one of the two applications
+#### 2. complete the fork cpp - completed 60% of the course
 
 ### Semester goals
 #### 1. Get to division 1 of codechef
@@ -100,3 +100,19 @@
 #### 2. Solved some problems on Geeks for Geeks.
 
 
+
+### February goals
+#### 1. complete the chat app in android
+#### 2. complete the android basics nanodegree
+#### 3. complete the fork cpp
+#### 4. complete the udacity DSA course
+
+didn't do anything from 31st to 3rd due to semester exams.
+
+
+## Day-16(4th Feb):
+#### 1. completed module 4 of fork cpp.
+#### 2. went through the codebase of the existing firebase chat app.
+
+
+## Day-17(5th Feb):
