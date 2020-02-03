@@ -316,3 +316,54 @@
     | [B. Verse For Santa](https://codeforces.com/contest/1279/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/B.%20Verse%20For%20Santa.cpp) |
     | [ABSEQ](https://www.codechef.com/COMA2020/problems/ABSEQ) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/ABSEQ.cpp) |
     | [PRDSUM](https://www.codechef.com/COMA2020/problems/PRDSUM) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day28/PRDSUM.cpp) |
+
+  **Day 29 : (Jan 29, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [ISHVALA](https://www.codechef.com/problems/ISHVALA) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day29/ISHVALA.cpp) |
+    | [SERIES](https://www.codechef.com/problems/SERIES) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day29/SERIES.cpp) |
+    | [A. Display The Number]() (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day29/A.%20Display%20The%20Number.cpp) |
+    
+  **Day 30 : (Jan 30, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [CJQK01](https://www.codechef.com/CJQK2020/problems/CJQK01) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day30/CJQK01.cpp) |
+    
+  - Solved HashCode [practice problem](https://hashcodejudge.withgoogle.com/download/blob/AMIfv955DlnijeYNeiQsNO_6ZItxzi_IajdfxyZRbSP9pWPfq9nymDxEltzHMIl9Xhb4ztDUCH1-2qZywUoAjPHKYrvDl1GYdd7lQT45VE8CWnyEIHYSaHZlA4vgFBPdzQqd0qCBu_buBCDTnR04Q5y_EOFIa3k-4FJ2dbR_GLklYC_UiI-br-L3DA3Vkdr1oDI7waNcJcLsnuZI0PNbbN7xYHHtPXqyFQha2RP2IV6cyrc8xRmj4VZrYaz-7eO_14lkahH5ftZRddoxHEGfqgJZKHgL7mSe_SaveNIf7zGhbMeE6pZeHYc) for this year.
+  
+ **Day 31 : (Jan 31, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [CJQK02](https://www.codechef.com/problems/CJQK02) (Codeschef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day31/CJQK02.cpp) |
+    | [HCODE01](https://www.codechef.com/HOCO2020/problems/HCODE01) (Codeschef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day31/HCODE01.cpp) |
+    
+  **Day 32 : (Feb 1, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [Large average](https://www.hackerearth.com/problem/algorithm/large-average-51cfb031/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day32/Large%20average.cpp) |
+    | [Bit operations](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/many-bit-operation-9ff4912a/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day32/Bit%20operations.cpp) |
+    | [Jumping stones](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/jump-k-forward-250d464b/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day32/Jumping%20stones.cpp) |
+    | [Number of steps](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/make-all-equal-90a21ab2/) (Hackerearth) | Solved patially |
+    | [Interest degree of vertices](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/all-equal-tree-401d4399/) (Hackerearth) | Solved Partially |
+    
+  **Day 33 : (Feb 2, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [FFC320B](https://www.codechef.com/FFC32020/problems/FFC320B) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day33/FFC320B.cpp) |
+    | [FFC320C](https://www.codechef.com/FFC32020/problems/FFC320C) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day33/FFC320C.cpp) |
+    | [A - Even But Not Even](https://codeforces.com/contest/1291/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day33/A%20-%20Even%20But%20Not%20Even.cpp) |
