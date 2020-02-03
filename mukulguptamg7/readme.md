@@ -295,3 +295,19 @@
 :: [my solution](https://www.codechef.com/viewsolution/28460258)
 - [codechef problem](https://www.codechef.com/problems/FLOW009)
 :: [my solution](https://www.codechef.com/viewsolution/28457635)
+
+### DAY 29 : (Jan 29,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/FLOW016)
+:: [my solution](https://www.codechef.com/viewsolution/28457473)
+- [codechef problem](https://www.codechef.com/problems/TABLET)
+:: [my solution](https://www.codechef.com/viewsolution/29270347)
+
+### DAY 23 : (Jan 23,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/MOVIEWKN)
+:: [my solution](https://www.codechef.com/viewsolution/29270514)
+- [codechef problem](https://www.codechef.com/problems/CFRTEST)
+:: [my solution](https://www.codechef.com/viewsolution/29270628)
