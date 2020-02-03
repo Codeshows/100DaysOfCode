@@ -299,3 +299,54 @@
 |-----------|----------------|
 | [Trapping Rainwater](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day27/traprainwtr.cpp)|
 | [Pythogorean Triplet](https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0/) (Geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day27/pythogorean.cpp)|
+
+
+# 28 Jan 2020 (Day 28)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [ABSEQ](https://www.codechef.com/COMA2020/problems/ABSEQ) (Codechef CODEMANIA Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day28/ABSEQ.cpp)|
+| [PRDSUM](https://www.codechef.com/COMA2020/problems/PRDSUM) (Codechef CODEMANIA Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day28/PRDSUM.cpp)|
+
+
+# 29 Jan 2020 (Day 29)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Stock Buy Sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/stockbuysell.cpp)|
+| [Chocolate Distribution](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/chocolate.cpp)|
+| [Unsorted Array](https://practice.geeksforgeeks.org/problems/unsorted-array/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/unsortedarr.cpp)|
+
+
+# 30 Jan 2020 (Day 30)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Last Index of 1](https://practice.geeksforgeeks.org/problems/last-index-of-1/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/lastidx1.cpp)|
+| [First and Last](https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/fislasocc.cpp)|
+| [Number of Occurance](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/occurance.cpp)|
+
+
+# 31 Jan 2020 (Day 31)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Largest Number](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day31/largestno.cpp)|
+| [First and Last](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day31/revword.cpp)|
+
+
+# 1 Feb 2020 (Day 32)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [FFC320B](https://www.codechef.com/FFC32020/problems/FFC320B) (Codechef CODEMANIA Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day32/FFC320B.cpp)|

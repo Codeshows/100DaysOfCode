@@ -213,3 +213,46 @@ watched videos on dynamic programming by geeksforgeeks
 [A2] (https://codeforces.com/contest/1293/submission/69486157)  
 
 
+## Day25: January 25,2020
+* studied dynamic programming concepts and solved questions
+
+### Links:
+[Q1] (https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+
+## Day26: January 26,2020
+* Solved questions on codechef
+
+### Links:
+[Q1] (https://www.codechef.com/problems/JGEC)  
+[A1] (https://www.codechef.com/viewsolution/29209038)
+
+## Day27: January 27, 2020
+* Studied C++ stl concepts by saurabh shukla
+
+### Links:
+[source] (https://www.youtube.com/watch?v=2HiObtJLNFY&list=PLumVgkpr9_ePu3x3U-d1DZY-sgD0c5zjc)
+
+## Day28: January 28,2020
+* GeeksforGeeks- article
+
+### Links:
+[source] (https://www.geeksforgeeks.org/calculate-xor-1-n/)
+
+## Day29: January 29,2020
+* installed gitbash and learned commands for windows
+
+## Day30: January 30,2020
+* studied arrays, tuples,pairs in stl
+
+## Links:
+[source] (https://www.youtube.com/watch?v=2HiObtJLNFY&list=PLumVgkpr9_ePu3x3U-d1DZY-sgD0c5zjc)
+
+## Day 31: January 31,2020
+* finished containers in c++ stl
+
+### Links:
+[source] (https://www.youtube.com/watch?v=2HiObtJLNFY&list=PLumVgkpr9_ePu3x3U-d1DZY-sgD0c5zjc)
+
+
+
+
