@@ -89,8 +89,8 @@ int main() {
 		
 	build(0, 0, n);
 	
-	long long res = get(0, n - 1);
-	for(int i = 0; i < n; ++i){
+	ll res = get(0, n - 1);
+	for(int i = 0; i < n; i++){
 	    int pos = rp[i];
 		upd(pos, n, -a[pos]);
 		upd(0, pos, a[pos]);
