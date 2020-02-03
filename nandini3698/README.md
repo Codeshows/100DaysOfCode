@@ -360,3 +360,12 @@
 |-----------|----------------|
 | [Permuations of string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day33/permutation.cpp)|
 | [Missing and repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day33/msngrptng.cpp)|
+
+
+# 3 Feb 2020 (Day 34)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Element appearing once](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day34/eleonce.cpp)|
