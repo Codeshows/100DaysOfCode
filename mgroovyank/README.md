@@ -162,4 +162,4 @@
 **Day 33: (Feb 2, 2020)**
 - Attended Game Development in Unity Workshop at MNIT, Jaipur
 - Solved problem on Codeforces [Permutation Separation]((https://codeforces.com/contest/1295)
-- Watched vide on [Segment Trees](https://www.youtube.com/watch?v=ZBHKZF5w4YU)
+- Watched video on [Segment Trees](https://www.youtube.com/watch?v=ZBHKZF5w4YU)
