@@ -313,3 +313,11 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day33/Relative_Sorting.cpp)|
+
+# Day 34: February 03,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Jumping stones](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/jump-k-forward-250d464b/) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day34/Jumping_stones.cpp)|
