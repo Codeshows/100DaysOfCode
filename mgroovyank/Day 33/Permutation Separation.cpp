@@ -2,17 +2,12 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-
+#define ll long long
 const int N = int(2e5) + 99;
 
 int n;
-int p[N];
-int rp[N];
-int a[N];
-
-long long b[N];
-long long t[4 * N];
-long long add[4 * N];
+vector<int> p(N), rp(N), a(N);
+vector<ll> b(N), t(4*N), add(4*N);
 
 void build(int v, int l, int r){
 	if(r - l == 1){
@@ -58,8 +53,10 @@ void upd(int l, int r, int x){
 	upd(0, 0, n, l, r, x);
 }
 
-long long get(int v, int l, int r, int L, int R){
-	if(L >= R) return 1e18;
+ll get(int v, int l, int r, int L, int R){
+	if(L >= R){
+		return INT_MAX;
+	} 
 
 	push(v, l, r);
 	if(l == L && r == R)
@@ -70,23 +67,26 @@ long long get(int v, int l, int r, int L, int R){
 		   get(v * 2 + 2, mid, r, max(L, mid), R));		
 }
 
-long long get(int l, int r){
+ll get(int l, int r){
 	return get(0, 0, n, l, r);
 }
 
 int main() {
-	scanf("%d", &n);
+	cin>>n;
 	for(int i = 0; i < n; ++i){
-		scanf("%d", p + i);
-        --p[i];
-        rp[p[i]] = i;
+		cin>>p[i];
+                p[i]--;
+                rp[p[i]] = i;
 	}
-	for(int i = 0; i < n; ++i)
-		scanf("%d", a + i);
-	
-	b[0] = a[0];
-	for(int i = 1; i < n; ++i)
-		b[i] = a[i] + b[i - 1];
+	for(int i = 0; i < n; ++i){
+		cin>>a[i];
+		if(i == 0){
+			b[0] = a[0];
+		}else{
+			b[i] = b[i-1] + a[i];
+		}
+	}
+		
 	build(0, 0, n);
 	
 	long long res = get(0, n - 1);
