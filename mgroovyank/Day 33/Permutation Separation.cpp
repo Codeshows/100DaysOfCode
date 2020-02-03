@@ -90,13 +90,11 @@ int main() {
 	build(0, 0, n);
 	
 	long long res = get(0, n - 1);
-	//for(int i = 0; i < n; ++i) cout << get(i, i+1) << ' ';cout << endl;
 	for(int i = 0; i < n; ++i){
 	    int pos = rp[i];
 		upd(pos, n, -a[pos]);
 		upd(0, pos, a[pos]);
 		res = min(res, get(0, n - 1));
-		//for(int i = 0; i < n; ++i) cout << get(i, i+1) << ' ';cout << endl;
 	}
 	
 	cout << res << endl;
