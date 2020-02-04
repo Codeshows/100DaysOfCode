@@ -367,3 +367,26 @@
     | [FFC320B](https://www.codechef.com/FFC32020/problems/FFC320B) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day33/FFC320B.cpp) |
     | [FFC320C](https://www.codechef.com/FFC32020/problems/FFC320C) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day33/FFC320C.cpp) |
     | [A - Even But Not Even](https://codeforces.com/contest/1291/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day33/A%20-%20Even%20But%20Not%20Even.cpp) |
+
+  **Day 34 : (Feb 3, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [Ashu and Prime Factors](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/ashu-and-prime-factors-4/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day34/Ashu%20and%20Prime%20Factors.cpp) |
+    | [Chandu and his toy stack](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/chandu-and-his-toy-stack/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day34/Chandu%20and%20his%20toy%20stack.cpp) |
+    | [Library boy](https://www.hackerearth.com/problem/algorithm/library-boy/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day34/Library%20boy.cpp) |
+    | [Castle of Winterfell](https://www.hackerearth.com/problem/algorithm/candy-1/) (Hackerearth) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day34/Castle%20of%20Winterfell.cpp) |
+    | [PLEAS](https://www.codechef.com/HK362020/problems/PLEAS) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day34/PLEAS.cpp) |
+    
+  **Day 35 : (Feb 4, 2020)**
+  
+  - Problems Solved-
+  
+    |**Problem**| **My Solution**|
+    |-----------|----------------|
+    | [CRRPOS](https://www.codechef.com/BLIT2020/problems/CRRPOS) (Codechef) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day35/CRRPOS.cpp) |
+    | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day35/A.%20Array%20with%20Odd%20Sum.cpp) |
+    | [B - Food Buying](https://codeforces.com/contest/1296/problem/B) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day35/B%20-%20Food%20Buying.cpp) |
+    | [C - Yet Another Walking Robot](https://codeforces.com/contest/1296/problem/C) (Codeforces) | [Solution](https://github.com/ashishburdak/100DaysOfCode/blob/master/ashishburdak/Day35/C%20-%20Yet%20Another%20Walking%20Robot.cpp) |
