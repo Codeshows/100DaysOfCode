@@ -369,3 +369,12 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Element appearing once](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day34/eleonce.cpp)|
+
+
+# 4 Feb 2020 (Day 35)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Element appearing once](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day35/adjduplicates.cpp)|
