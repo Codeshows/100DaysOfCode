@@ -166,3 +166,7 @@
 
 **Day 34: (Feb 3, 2020)**
 - Solved problem on InterviewBit - [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)
+
+**Day 35: (Feb 4, 2020)**
+- Unsuccessful attempt to solve the problem - [Even But Not Even](https://codeforces.com/contest/1291/)
+- Unsuccessful attempt to solve the problem - [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
