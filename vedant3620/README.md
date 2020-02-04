@@ -320,4 +320,12 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Jumping stones](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/jump-k-forward-250d464b/) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day34/Jumping_stones.cpp)|
+| [Jumping stones](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/jump-k-forward-250d464b/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day34/Jumping_stones.cpp)|
+
+# Day 35: February 04,2020
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Equilibrium point](https://practice.geeksforgeeks.org/problems/equilibrium-point/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day35/Equilibrium_point.cpp)|
