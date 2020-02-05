@@ -104,15 +104,11 @@
 ### February goals
 #### 1. complete the chat app in android
 #### 2. complete the android basics nanodegree
-#### 3. complete the fork cpp
-#### 4. complete the udacity DSA course
+#### 3. complete the c++ stl
+#### 4. complete half of foundation of codechef
 
-didn't do anything from 31st to 3rd due to semester exams.
-
-
-## Day-16(4th Feb):
-#### 1. completed module 4 of fork cpp.
-#### 2. went through the codebase of the existing firebase chat app.
+didn't do anything from 31st to 5th due to semester exams.
 
 
-## Day-17(5th Feb):
+
+## Day-16
