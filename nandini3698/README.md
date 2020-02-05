@@ -378,3 +378,12 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Element appearing once](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day35/adjduplicates.cpp)|
+
+
+# 5 Feb 2020 (Day 36)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Rotation by 2 places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day36/rotationstr.cpp)|
