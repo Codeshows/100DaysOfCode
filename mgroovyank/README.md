@@ -173,3 +173,4 @@
 
 **Day 36: (Feb 5, 2020)**
 - Solved problem on InterviewBit - [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
+- Solved problem on InterviewBit - [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)
