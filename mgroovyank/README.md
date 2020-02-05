@@ -170,3 +170,6 @@
 **Day 35: (Feb 4, 2020)**
 - Unsuccessful attempt to solve the problem - [Even But Not Even](https://codeforces.com/contest/1291/)
 - Unsuccessful attempt to solve the problem - [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
+
+**Day 36: (Feb 5, 2020)**
+- Solved problem on InterviewBit - [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
