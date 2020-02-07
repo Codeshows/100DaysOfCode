@@ -174,3 +174,7 @@
 **Day 36: (Feb 5, 2020)**
 - Solved problem on InterviewBit - [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
 - Solved problem on InterviewBit - [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)
+
+**Day 37: (Feb 6, 2020)**
+- Read about Backtracking problems on [Interviewbit](https://www.interviewbit.com/courses/programming/topics/backtracking/)
+- Solved problem on InterviewBit - [Reverse Link List Recursion](https://www.interviewbit.com/problems/reverse-link-list-recursion/)
