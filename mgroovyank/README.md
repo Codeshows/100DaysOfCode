@@ -178,3 +178,6 @@
 **Day 37: (Feb 6, 2020)**
 - Read about Backtracking problems on [Interviewbit](https://www.interviewbit.com/courses/programming/topics/backtracking/)
 - Solved problem on InterviewBit - [Reverse Link List Recursion](https://www.interviewbit.com/problems/reverse-link-list-recursion/)
+
+**Day 38: (Feb 7, 2020)**
+- Solved problem on InterviewBit - [Modular Expression](https://www.interviewbit.com/problems/modular-expression/)
