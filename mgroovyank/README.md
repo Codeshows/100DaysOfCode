@@ -181,3 +181,4 @@
 
 **Day 38: (Feb 7, 2020)**
 - Solved problem on InterviewBit - [Modular Expression](https://www.interviewbit.com/problems/modular-expression/)
+- Finished Tutorials on Backtracking on [Interviewbit](https://www.interviewbit.com/courses/programming/topics/backtracking/)
