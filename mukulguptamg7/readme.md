@@ -304,7 +304,7 @@
 - [codechef problem](https://www.codechef.com/problems/TABLET)
 :: [my solution](https://www.codechef.com/viewsolution/29270347)
 
-### DAY 23 : (Jan 23,2020)
+### DAY 30 : (Jan 31,2020)
 
 #### Problems Solved
 - [codechef problem](https://www.codechef.com/problems/MOVIEWKN)
