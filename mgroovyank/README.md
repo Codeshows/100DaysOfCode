@@ -183,3 +183,6 @@
 - Solved problem on InterviewBit - [Modular Expression](https://www.interviewbit.com/problems/modular-expression/)
 - Finished Tutorials on Backtracking on [Interviewbit](https://www.interviewbit.com/courses/programming/topics/backtracking/)
 - Solved problem on InterviewBit - [Permutations](https://www.interviewbit.com/problems/permutations/)
+
+**Day 39: (Feb 8, 2020)**
+- Read an article - [Mathematics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
