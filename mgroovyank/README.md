@@ -186,3 +186,4 @@
 
 **Day 39: (Feb 8, 2020)**
 - Read an article - [Mathematics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
+- Started with CodeChef February Long Challenge
