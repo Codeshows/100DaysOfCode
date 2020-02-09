@@ -320,3 +320,70 @@
 | [Stock Buy Sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/stockbuysell.cpp)|
 | [Chocolate Distribution](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/chocolate.cpp)|
 | [Unsorted Array](https://practice.geeksforgeeks.org/problems/unsorted-array/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day29/unsortedarr.cpp)|
+
+
+# 30 Jan 2020 (Day 30)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Last Index of 1](https://practice.geeksforgeeks.org/problems/last-index-of-1/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/lastidx1.cpp)|
+| [First and Last](https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/fislasocc.cpp)|
+| [Number of Occurance](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0/) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day30/occurance.cpp)|
+
+
+# 31 Jan 2020 (Day 31)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Largest Number](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day31/largestno.cpp)|
+| [First and Last](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day31/revword.cpp)|
+
+
+# 1 Feb 2020 (Day 32)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [FFC320B](https://www.codechef.com/FFC32020/problems/FFC320B) (Codechef CODEMANIA Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day32/FFC320B.cpp)|
+
+
+# 2 Feb 2020 (Day 33)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Permuations of string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day33/permutation.cpp)|
+| [Missing and repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day33/msngrptng.cpp)|
+
+
+# 3 Feb 2020 (Day 34)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Element appearing once](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day34/eleonce.cpp)|
+
+
+# 4 Feb 2020 (Day 35)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Element appearing once](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day35/adjduplicates.cpp)|
+
+
+# 5 Feb 2020 (Day 36)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Rotation by 2 places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day36/rotationstr.cpp)|

@@ -144,3 +144,46 @@
 - Solved problem on InterviewBit - [Generate all Parentheses](https://www.interviewbit.com/problems/generate-all-parentheses/)
 - Read about [Stacks and Queues](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/)
 - Solved problem on InterviewBit - [Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)
+
+**Day 30: (Jan 30, 2020)**
+- Participated in [Educational Codeforces Round 81](http://codeforces.com/contest/1295)
+- Solved problem on InterviewBit - [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)
+- Solved problem on InterviewBit - [Min Stack](https://www.interviewbit.com/problems/min-stack/)
+- Solved problem on Codeforces - [Display The Number](https://codeforces.com/contest/1295/problem/A)
+- Solved problem on InterviewBit - [Rain Water Tapped](https://www.interviewbit.com/problems/rain-water-trapped/)
+
+**Day 31: (Jan 31, 2020)**
+- Solved problem on Codeforces [Infnite Prefixes](http://codeforces.com/contest/1295)
+- Solved problem on Codeforces [Same GCDs](http://codeforces.com/contest/1295)
+
+**Day 32: (Feb 1, 2020)**
+- Solved problem on Codeforces [Obtain The String](https://codeforces.com/contest/1295)
+
+**Day 33: (Feb 2, 2020)**
+- Attended Game Development in Unity Workshop at MNIT, Jaipur
+- Solved problem on Codeforces [Permutation Separation](https://codeforces.com/contest/1295)
+- Watched video on [Segment Trees](https://www.youtube.com/watch?v=ZBHKZF5w4YU)
+
+**Day 34: (Feb 3, 2020)**
+- Solved problem on InterviewBit - [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)
+
+**Day 35: (Feb 4, 2020)**
+- Unsuccessful attempt to solve the problem - [Even But Not Even](https://codeforces.com/contest/1291/)
+- Unsuccessful attempt to solve the problem - [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
+
+**Day 36: (Feb 5, 2020)**
+- Solved problem on InterviewBit - [Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)
+- Solved problem on InterviewBit - [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)
+
+**Day 37: (Feb 6, 2020)**
+- Read about Backtracking problems on [Interviewbit](https://www.interviewbit.com/courses/programming/topics/backtracking/)
+- Solved problem on InterviewBit - [Reverse Link List Recursion](https://www.interviewbit.com/problems/reverse-link-list-recursion/)
+
+**Day 38: (Feb 7, 2020)**
+- Solved problem on InterviewBit - [Modular Expression](https://www.interviewbit.com/problems/modular-expression/)
+- Finished Tutorials on Backtracking on [Interviewbit](https://www.interviewbit.com/courses/programming/topics/backtracking/)
+- Solved problem on InterviewBit - [Permutations](https://www.interviewbit.com/problems/permutations/)
+
+**Day 39: (Feb 8, 2020)**
+- Read an article - [Mathematics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
+- Started with CodeChef [February Long Challenge](https://www.codechef.com/FEB20B)
