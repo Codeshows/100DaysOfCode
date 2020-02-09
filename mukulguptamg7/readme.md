@@ -312,6 +312,7 @@
 - [codechef problem](https://www.codechef.com/problems/CFRTEST)
 :: [my solution](https://www.codechef.com/viewsolution/29270628)
 
+
 ### DAY 31 : (Jan 31,2020)
 
 #### Problems Solved
@@ -351,3 +352,4 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/PLAYING%20WITH%20BITS.c)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/782/p/406)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/Power(O(logn)).c)
+
