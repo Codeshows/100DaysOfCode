@@ -190,3 +190,6 @@
 
 **Day 40: (Feb 9, 2020)**
 - Unsuccessful attempt to solve the problem - [SNUG_FIT](https://www.codechef.com/FEB20B/problems/SNUG_FIT)
+
+**Day 41: (Feb 10, 2020)**
+- Solved problem on InterviewBit - [Subset](https://www.interviewbit.com/problems/subset/)
