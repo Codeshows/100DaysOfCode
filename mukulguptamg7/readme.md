@@ -295,3 +295,61 @@
 :: [my solution](https://www.codechef.com/viewsolution/28460258)
 - [codechef problem](https://www.codechef.com/problems/FLOW009)
 :: [my solution](https://www.codechef.com/viewsolution/28457635)
+
+### DAY 29 : (Jan 29,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/FLOW016)
+:: [my solution](https://www.codechef.com/viewsolution/28457473)
+- [codechef problem](https://www.codechef.com/problems/TABLET)
+:: [my solution](https://www.codechef.com/viewsolution/29270347)
+
+### DAY 30 : (Jan 30,2020)
+
+#### Problems Solved
+- [codechef problem](https://www.codechef.com/problems/MOVIEWKN)
+:: [my solution](https://www.codechef.com/viewsolution/29270514)
+- [codechef problem](https://www.codechef.com/problems/CFRTEST)
+:: [my solution](https://www.codechef.com/viewsolution/29270628)
+
+
+### DAY 31 : (Jan 31,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/133/p/675)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day%2031/FIND%20UPPER%20AND%20LOWER%20BOUND.c)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/373/p/1226)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/day%2031/WINNING%20CB%20SCHOLARSHIP.c)
+
+### DAY 32 : (Feb 1,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/64/p/433)
+:: [my solution(https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/BIANRY%20SEARCH%20IN%20SORTED%20ROTATED%20ARRAY.c)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/64/p/435)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/PIVOT%20OF%20SORTED%20ROTATED%20ARRAY.c)
+
+### DAY 33 : (Feb 2,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/practice/5/p/135)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/INCREDIBLE%20HULK.c)
+- [hackerblocks problem](https://hack.codingblocks.com/app/practice/5/p/462)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/UNIQUE%20NUMBER%20I.c)
+
+### DAY 34 : (Feb 3,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/practice/5/p/463)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/UNIQUE%20NUMBER%20II.c)
+- [hackerblocks problem](https://hack.codingblocks.com/app/practice/5/p/458)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/UNIQUE%20NUMBER%20III.c)
+
+### DAY 35 : (Feb 4,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/101/p/102)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/PLAYING%20WITH%20BITS.c)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/782/p/406)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/Power(O(logn)).c)
+
