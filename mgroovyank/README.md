@@ -187,3 +187,6 @@
 **Day 39: (Feb 8, 2020)**
 - Read an article - [Mathematics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
 - Started with CodeChef [February Long Challenge](https://www.codechef.com/FEB20B)
+
+**Day 40: (Feb 9, 2020)**
+- Unsuccessful attempt to solve the problem - [SNUG_FIT](https://www.codechef.com/FEB20B/problems/SNUG_FIT)
