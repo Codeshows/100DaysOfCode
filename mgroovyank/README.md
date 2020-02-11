@@ -193,3 +193,4 @@
 
 **Day 41: (Feb 10, 2020)**
 - Solved problem on InterviewBit - [Subset](https://www.interviewbit.com/problems/subset/)
+- Solved problem on INterviewBit - [Combinations](http://interviewbit.com/problems/combinations/)
