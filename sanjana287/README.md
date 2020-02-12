@@ -254,5 +254,65 @@ watched videos on dynamic programming by geeksforgeeks
 [source] (https://www.youtube.com/watch?v=2HiObtJLNFY&list=PLumVgkpr9_ePu3x3U-d1DZY-sgD0c5zjc)
 
 
+## Day 32: February 1,2020
+* Web Development- Loaders in CSS
 
+### Links:
+[Source] (https://www.w3schools.com/howto/howto_css_loader.asp)  
+
+## Day 33: February 2,2020
+* C programming- basics
+
+### Links:
+[Source] (https://www.faceprep.in/c-programming-interview-questions/)  
+
+
+## Day 34: February 3,2020
+* Solved problems on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1291/problem/A)    
+[A1] (https://codeforces.com/contest/1291/submission/70157493)  
+
+## Day 35: February 4,2020
+* Previous unsolved questions on codechef
+
+### Links:
+[Q1] (https://www.codechef.com/problems/BITOBYT)  
+[A1] (https://www.codechef.com/viewsolution/29315602)  
+
+
+## Day 36: February 5,2020
+* Solved problems on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1296/problem/A)  
+[A1] (https://codeforces.com/contest/1296/submission/70372107)  
+[Q2] (https://codeforces.com/contest/1296/problem/B)  
+[A2] (https://codeforces.com/contest/1296/submission/70373246)  
+
+
+## Day 37: February 6,2020
+* Solved problems on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1296/problem/E1)  
+[A1] (https://codeforces.com/contest/1296/submission/70418278)  
+[Q2] (https://codeforces.com/contest/1296/problem/D)  
+[A2] (https://codeforces.com/contest/1296/submission/70464736)  
+
+
+## Day 38: February 7,2020
+* Solved problems on codechef
+
+### Links:
+[Q1] (https://www.codechef.com/problems/BEGEVY)  
+[A1] (https://www.codechef.com/viewsolution/29363699)  
+
+## Day 39: February 8,2020
+* Solved problems in February long challenge on codechef
+
+### Links:
+[Q1] (https://www.codechef.com/FEB20B/problems/SNUG_FIT)  (ongoing)  
+[Q2] (https://www.codechef.com/FEB20B/problems/CASH) (ongoing)
 
