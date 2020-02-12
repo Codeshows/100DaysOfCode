@@ -150,4 +150,29 @@
 | [Jumping Stones](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/jump-k-forward-250d464b/) | [solution](https://www.hackerearth.com/submission/35830736/) |
 |[Read a DP algorithm : Count ways to reach the nth stair using step 1, 2 or 3(Geeks for Geeks)](https://www.geeksforgeeks.org/count-ways-reach-nth-stair-using-step-1-2-3/)|
 
+**Day 34:Feb 03,2020**
+
+|*Practice Done*|
+|-----------|
+| [Participated in Codeforces Round #617](https://codeforces.com/contest/1296) |
+
+**Day 35,36,37:Feb 04,05,06 2020**
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [MYSTERY](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/mystery-30/) | [solution](https://www.hackerearth.com/submission/35876198/) |
+|[Read an article - Basic BIT Manipulation](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/)|
+
+**Day 38,39: Feb 07-08,2020**
+
+|*Installed Git Bash and learned [Few basic commands](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)*|
+|-----------|
+
+**Day 40: Feb 09,2020**
+
+|*[February Long Challenge ongoing...(Codechef)](https://www.codechef.com/FEB20B)* |
+|-----------|
+
+
+
 
