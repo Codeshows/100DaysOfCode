@@ -202,5 +202,5 @@
 **Day 43: (Feb 12, 2020)**
 - Solved problem on InterviewBit - [Subsets II](https://www.interviewbit.com/problems/subsets-ii/)
 - Solved problem on InterviewBit - [Letter Phone](https://www.interviewbit.com/problems/letter-phone/)
-- Solved problem on InterviewBit - [PalindromePartitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)
+- Solved problem on InterviewBit - [Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)
 - Solved problem on InterviewBit - [Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)
