@@ -204,3 +204,6 @@
 - Solved problem on InterviewBit - [Letter Phone](https://www.interviewbit.com/problems/letter-phone/)
 - Solved problem on InterviewBit - [Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)
 - Solved problem on InterviewBit - [Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)
+
+**Day 44: (Feb 13, 2020)**
+- In the middle of solving the problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
