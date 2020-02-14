@@ -207,3 +207,6 @@
 
 **Day 44: (Feb 13, 2020)**
 - In the middle of solving the problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
+
+**Day 45: (Feb 14, 2020)**
+- Solved problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
