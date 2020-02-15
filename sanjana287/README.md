@@ -316,3 +316,41 @@ watched videos on dynamic programming by geeksforgeeks
 [Q1] (https://www.codechef.com/FEB20B/problems/SNUG_FIT)  (ongoing)  
 [Q2] (https://www.codechef.com/FEB20B/problems/CASH) (ongoing)
 
+
+## Day 40: February 9,2020
+* Operating system- threads
+
+### Links:
+[source] (https://www.geeksforgeeks.org/multithreading-c-2/)  
+
+## Day 41: February 10,2020
+* February long challenge
+
+### Links:
+[Q1] (https://www.codechef.com/FEB20B/problems/THEATRE) (ongoing)  
+
+## Day 42: February 11,2020
+* February long challenge
+
+### Links:
+[Q1] (https://www.codechef.com/FEB20B/problems/NOCHANGE) (ongoing)  
+
+
+## Day 43: February 12,2020
+* Geeks for Geeks article
+
+### Links:
+[source] (https://www.geeksforgeeks.org/tag/d-e-shaw/)
+
+## Day 44: February 13,2020
+* Web Development - APIs and Javascript
+
+
+## Day 45: February 14,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1304/problem/A)  
+[A1] (https://codeforces.com/contest/1304/submission/71173048)  
+[Q2] (https://codeforces.com/contest/1304/problem/B)  
+[A2] (https://codeforces.com/contest/1304/submission/71178231)  
