@@ -214,3 +214,5 @@
 
 **Day 46:(Feb 15, 2020)**
 - Solved problem on InterviewBit - [Gray Code](https://www.interviewbit.com/problems/gray-code/)
+- Solved problem on CodeChef - [SNUG_FIT](https://www.codechef.com/FEB20B/problems/SNUG_FIT)
+- Solved problem on CodeChef - [Hard Cash](https://www.codechef.com/FEB20B/problems/CASH)
