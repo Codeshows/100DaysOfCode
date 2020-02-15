@@ -211,3 +211,6 @@
 **Day 45: (Feb 14, 2020)**
 - Solved problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
 - Solved problem on InterviewBit - [Sudoku](https://www.interviewbit.com/problems/sudoku/)
+
+**Day 46:(Feb 15, 2020)**
+- Solved problem on InterviewBit - [Gray Code](https://www.interviewbit.com/problems/gray-code/)
