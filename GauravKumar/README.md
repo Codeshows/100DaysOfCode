@@ -2,8 +2,8 @@
 ## Goals:
 
 ### January goals
-#### 1. complete the chat app and the shared calendar app in android
-#### 2. complete the fork cpp
+#### 1. complete the chat app and the shared calendar app in android - completed one of the two applications
+#### 2. complete the fork cpp - completed 60% of the course
 
 ### Semester goals
 #### 1. Get to division 1 of codechef
@@ -100,3 +100,19 @@
 #### 2. Solved some problems on Geeks for Geeks.
 
 
+
+### February goals
+#### 1. complete the chat app in android
+#### 2. complete the android basics nanodegree
+#### 3. complete the c++ stl
+#### 4. complete half of foundation of codechef
+
+didn't do anything from 31st to 10th due to semester exams.
+
+
+
+## Day-16 (11th Feb):
+#### 1. Solved first 4 questions in long challenge in last 2 days.
+
+
+## Day-17

@@ -276,7 +276,7 @@
 
 #### Problems Solved
 - [codechef problem](https://www.codechef.com/problems/KTTABLE)
-:: [my solution]https://www.codechef.com/viewsolution/29035419)
+:: [my solution](https://www.codechef.com/viewsolution/29035419)
 - [codechef problem](https://www.codechef.com/problems/DIET)
 :: [my solution](https://www.codechef.com/viewsolution/28460003)
 
@@ -325,7 +325,7 @@
 
 #### Problems Solved
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/64/p/433)
-:: [my solution(https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/BIANRY%20SEARCH%20IN%20SORTED%20ROTATED%20ARRAY.c)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/BIANRY%20SEARCH%20IN%20SORTED%20ROTATED%20ARRAY.c)
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/64/p/435)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/PIVOT%20OF%20SORTED%20ROTATED%20ARRAY.c)
 
@@ -337,6 +337,9 @@
 - [hackerblocks problem](https://hack.codingblocks.com/app/practice/5/p/462)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/UNIQUE%20NUMBER%20I.c)
 
+#### Learning
+- Bitmasking Concepts
+
 ### DAY 34 : (Feb 3,2020)
 
 #### Problems Solved
@@ -344,6 +347,9 @@
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/UNIQUE%20NUMBER%20II.c)
 - [hackerblocks problem](https://hack.codingblocks.com/app/practice/5/p/458)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/UNIQUE%20NUMBER%20III.c)
+
+#### Learning
+- Bitmasking Concepts
 
 ### DAY 35 : (Feb 4,2020)
 
@@ -353,3 +359,16 @@
 - [hackerblocks problem](https://hack.codingblocks.com/app/contests/782/p/406)
 :: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/Power(O(logn)).c)
 
+#### Learning
+- Bitmasking Concepts
+
+### DAY 36 : (Feb 5,2020)
+
+#### Problems Solved
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/782/p/498)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/XOR%20PROFIT%20PROBLEM.c)
+- [hackerblocks problem](https://hack.codingblocks.com/app/contests/473/p/700)
+:: [my solution](https://github.com/mukulguptamg7/100DaysOfCode/blob/master/mukulguptamg7/DEEPAK%20AND%20PRIMES%20(SIEVE%20OF%20ERASTOTHENES).c)
+
+#### Learning
+- Completed Bitmasking
