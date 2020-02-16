@@ -212,7 +212,10 @@
 - Solved problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
 - Solved problem on InterviewBit - [Sudoku](https://www.interviewbit.com/problems/sudoku/)
 
-**Day 46:(Feb 15, 2020)**
+**Day 46: (Feb 15, 2020)**
 - Solved problem on InterviewBit - [Gray Code](https://www.interviewbit.com/problems/gray-code/)
 - Solved problem on CodeChef - [SNUG_FIT](https://www.codechef.com/FEB20B/problems/SNUG_FIT)
 - Solved problem on CodeChef - [Hard Cash](https://www.codechef.com/FEB20B/problems/CASH)
+
+**Day 47: (Feb 16, 2020)**
+- Solved problem on InterviewBit - [Kth Permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/)
