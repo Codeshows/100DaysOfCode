@@ -219,3 +219,6 @@
 
 **Day 47: (Feb 16, 2020)**
 - Solved problem on InterviewBit - [Kth Permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/)
+
+**Day 48: (Feb 17, 2020)**
+- Read about Hashing Implementation Details on [InterviewBit](https://www.interviewbit.com/tutorial/hashing-implementation-details/)
