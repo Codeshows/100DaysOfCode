@@ -198,3 +198,21 @@
 **Day 42: (Feb 11, 2020)**
 - Solved problem on InterviewBit - [Combination Sum](https://www.interviewbit.com/problems/combination-sum/)
 - Solved problem on InterviewBit - [Combination Sum II](https://www.interviewbit.com/problems/combination-sum-ii/)
+
+**Day 43: (Feb 12, 2020)**
+- Solved problem on InterviewBit - [Subsets II](https://www.interviewbit.com/problems/subsets-ii/)
+- Solved problem on InterviewBit - [Letter Phone](https://www.interviewbit.com/problems/letter-phone/)
+- Solved problem on InterviewBit - [Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)
+- Solved problem on InterviewBit - [Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)
+
+**Day 44: (Feb 13, 2020)**
+- In the middle of solving the problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
+
+**Day 45: (Feb 14, 2020)**
+- Solved problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
+- Solved problem on InterviewBit - [Sudoku](https://www.interviewbit.com/problems/sudoku/)
+
+**Day 46:(Feb 15, 2020)**
+- Solved problem on InterviewBit - [Gray Code](https://www.interviewbit.com/problems/gray-code/)
+- Solved problem on CodeChef - [SNUG_FIT](https://www.codechef.com/FEB20B/problems/SNUG_FIT)
+- Solved problem on CodeChef - [Hard Cash](https://www.codechef.com/FEB20B/problems/CASH)

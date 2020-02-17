@@ -606,4 +606,3 @@ __Codeforces Round #621 Div. 2__
 
 1. COW AND HAYBALES
 2. COW AND FRIEND
-
