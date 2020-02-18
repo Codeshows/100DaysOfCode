@@ -223,3 +223,6 @@
 **Day 48: (Feb 17, 2020)**
 - Read about Hashing Implementation Details on [InterviewBit](https://www.interviewbit.com/tutorial/hashing-implementation-details/)
 - Solved problem with Brute Force approach on InterviewBit - [Equal](https://www.interviewbit.com/problems/equal/)
+
+**Day 49: (Feb 18, 2020)**
+- Solved problem on Interviewbit - [Equal](https://www.interviewbit.com/problems/equal/)
