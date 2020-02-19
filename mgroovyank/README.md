@@ -229,3 +229,4 @@
 
 **Day 50: (Feb 19, 2020)**
 - Solved problem on InterviewBit - [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)
+- Solved problem on InterviewBit - [Copy List](https://www.interviewbit.com/problems/copy-list/)
