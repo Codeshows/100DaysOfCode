@@ -226,3 +226,6 @@
 
 **Day 49: (Feb 18, 2020)**
 - Solved problem on Interviewbit - [Equal](https://www.interviewbit.com/problems/equal/)
+
+**Day 50: (Feb 19, 2020)**
+- Solved problem on InterviewBit - [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)
