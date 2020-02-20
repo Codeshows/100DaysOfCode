@@ -230,3 +230,6 @@
 **Day 50: (Feb 19, 2020)**
 - Solved problem on InterviewBit - [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)
 - Solved problem on InterviewBit - [Copy List](https://www.interviewbit.com/problems/copy-list/)
+
+**Day 51: (Feb 20, 2020)**
+- Solved problem on InterviewBit - [Window String](https://www.interviewbit.com/problems/window-string/)
