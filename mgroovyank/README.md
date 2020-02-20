@@ -212,7 +212,21 @@
 - Solved problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
 - Solved problem on InterviewBit - [Sudoku](https://www.interviewbit.com/problems/sudoku/)
 
-**Day 46:(Feb 15, 2020)**
+**Day 46: (Feb 15, 2020)**
 - Solved problem on InterviewBit - [Gray Code](https://www.interviewbit.com/problems/gray-code/)
 - Solved problem on CodeChef - [SNUG_FIT](https://www.codechef.com/FEB20B/problems/SNUG_FIT)
 - Solved problem on CodeChef - [Hard Cash](https://www.codechef.com/FEB20B/problems/CASH)
+
+**Day 47: (Feb 16, 2020)**
+- Solved problem on InterviewBit - [Kth Permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/)
+
+**Day 48: (Feb 17, 2020)**
+- Read about Hashing Implementation Details on [InterviewBit](https://www.interviewbit.com/tutorial/hashing-implementation-details/)
+- Solved problem with Brute Force approach on InterviewBit - [Equal](https://www.interviewbit.com/problems/equal/)
+
+**Day 49: (Feb 18, 2020)**
+- Solved problem on Interviewbit - [Equal](https://www.interviewbit.com/problems/equal/)
+
+**Day 50: (Feb 19, 2020)**
+- Solved problem on InterviewBit - [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)
+- Solved problem on InterviewBit - [Copy List](https://www.interviewbit.com/problems/copy-list/)
