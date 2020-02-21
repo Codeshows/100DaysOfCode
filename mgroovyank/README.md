@@ -233,3 +233,7 @@
 
 **Day 51: (Feb 20, 2020)**
 - Solved problem on InterviewBit - [Window String](https://www.interviewbit.com/problems/window-string/)
+
+**Day 52: (Feb 21, 2020)**
+- Read about Heaps and Maps on InterviewBit - [Heaps and Maps](https://www.interviewbit.com/tutorial/why-treemaps-heaps/)
+- Practiced implementation of Heap Sort Algorithm
