@@ -237,3 +237,6 @@
 **Day 52: (Feb 21, 2020)**
 - Read about Heaps and Maps on InterviewBit - [Heaps and Maps](https://www.interviewbit.com/tutorial/why-treemaps-heaps/)
 - Practiced implementation of Heap Sort Algorithm
+
+**Day 53: (Feb 22, 2020)**
+- Solved problem on InterviewBit - [N max pair combinations](https://www.interviewbit.com/problems/n-max-pair-combinations/)
