@@ -240,3 +240,6 @@
 
 **Day 53: (Feb 22, 2020)**
 - Solved problem on InterviewBit - [N max pair combinations](https://www.interviewbit.com/problems/n-max-pair-combinations/)
+
+**Day 54: (Feb 23, 2020)**
+- Solved problem on InterviewBit - [Magician and Chocolates](https://www.interviewbit.com/problems/magician-and-chocolates/)
