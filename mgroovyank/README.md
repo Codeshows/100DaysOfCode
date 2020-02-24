@@ -243,3 +243,6 @@
 
 **Day 54: (Feb 23, 2020)**
 - Solved problem on InterviewBit - [Magician and Chocolates](https://www.interviewbit.com/problems/magician-and-chocolates/)
+
+**Day 55: (Feb 24, 2020)**
+- Solved problem on InterviewBit - [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)
