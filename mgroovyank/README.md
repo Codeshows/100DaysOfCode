@@ -246,3 +246,6 @@
 
 **Day 55: (Feb 24, 2020)**
 - Solved problem on InterviewBit - [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)
+
+**Day 56: (Feb 25, 2020)**
+- Unsuccessful attempt to solve problem - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
