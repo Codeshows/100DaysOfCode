@@ -249,3 +249,6 @@
 
 **Day 56: (Feb 25, 2020)**
 - Unsuccessful attempt to solve problem - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+
+**Day 57: (Feb 26, 2020)**
+- Unsuccessful attempt to solve problem - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
