@@ -253,5 +253,8 @@
 **Day 57: (Feb 26, 2020)**
 - Unsuccessful attempt to solve problem - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
 
-**Day 58: (Feb 26, 2020)**
+**Day 58: (Feb 27, 2020)**
 - Solved problem on InterviewBit - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+
+**Day 59: (Feb 28, 2020)**
+- Solved problem on InterviewBit - [Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)
