@@ -258,3 +258,6 @@
 
 **Day 59: (Feb 28, 2020)**
 - Solved problem on InterviewBit - [Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)
+
+**Day 60: (Feb 29, 2020)**
+- Unsuccessful attempt to solve problem - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
