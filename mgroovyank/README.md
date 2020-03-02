@@ -261,3 +261,6 @@
 
 **Day 60: (Feb 29, 2020)**
 - Unsuccessful attempt to solve problem - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
+
+**Day 61: (Mar 1, 2020)**
+- Solved problem on InterviewBit - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
