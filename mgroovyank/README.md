@@ -264,3 +264,6 @@
 
 **Day 61: (Mar 1, 2020)**
 - Solved problem on InterviewBit - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
+
+**Day 62: (Mar 2, 2020)**
+- Read about Dynamic Programming on [InterviewBit](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
