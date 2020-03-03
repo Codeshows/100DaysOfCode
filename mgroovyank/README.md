@@ -249,3 +249,24 @@
 
 **Day 56: (Feb 25, 2020)**
 - Unsuccessful attempt to solve problem - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+
+**Day 57: (Feb 26, 2020)**
+- Unsuccessful attempt to solve problem - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+
+**Day 58: (Feb 27, 2020)**
+- Solved problem on InterviewBit - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+
+**Day 59: (Feb 28, 2020)**
+- Solved problem on InterviewBit - [Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)
+
+**Day 60: (Feb 29, 2020)**
+- Unsuccessful attempt to solve problem - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
+
+**Day 61: (Mar 1, 2020)**
+- Solved problem on InterviewBit - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
+
+**Day 62: (Mar 2, 2020)**
+- Read about Dynamic Programming on [InterviewBit](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
+
+**Day 63: (Mar 3, 2020)**
+- Solved problem on InterviewBit - [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)
