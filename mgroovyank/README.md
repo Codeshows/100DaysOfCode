@@ -267,3 +267,6 @@
 
 **Day 62: (Mar 2, 2020)**
 - Read about Dynamic Programming on [InterviewBit](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
+
+**Day 63: (Mar 3, 2020)**
+- Solved problem on InterviewBit - [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)
