@@ -337,3 +337,11 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Reverse a linked list](https://practice.geeksforgeeks.org/problems/equilibrium-point/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day36/reverse.cpp)|
+
+**Day 37: March 04,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Cow and Friend](https://codeforces.com/problemset/problem/1307/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day37/1307b.cpp)|
