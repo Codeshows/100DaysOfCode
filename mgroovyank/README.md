@@ -270,3 +270,7 @@
 
 **Day 63: (Mar 3, 2020)**
 - Solved problem on InterviewBit - [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)
+
+**Day 64: (Mar 4, 2020)**
+- Read artice on Dynamic Programming on [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+
