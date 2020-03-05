@@ -274,3 +274,6 @@
 **Day 64: (Mar 4, 2020)**
 - Read artice on Dynamic Programming on [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 
+**Day 65: (Mar 5, 2020)**
+- Helped in debugging a problem on InterviewBit - [Copy List](https://www.interviewbit.com/problems/copy-list/)
+- Unsuccessful attempt to solve the problem - [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)
