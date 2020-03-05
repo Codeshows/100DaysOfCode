@@ -345,3 +345,11 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Cow and Friend](https://codeforces.com/problemset/problem/1307/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day37/1307b.cpp)|
+
+**Day 38: March 05,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Policemen and thieves](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/joker-and-thieves-53e59f4a/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day38/Policemen_and_thieves.cpp)|
