@@ -387,3 +387,13 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Rotation by 2 places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day36/rotationstr.cpp)|
+
+
+# 5 March 2020 (Day 37)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [WetClothes](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/wet-clothes-625348cf/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day37/problem01.cpp)|
+| [MonkWalk](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/monk-takes-a-walk/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day37/problem02.cpp)|
