@@ -353,3 +353,12 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Policemen and thieves](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/joker-and-thieves-53e59f4a/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day38/Policemen_and_thieves.cpp)|
+
+**Day 39: March 06,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) (Codechef) | Ongoing Contest |
+| [XOR Engine](https://www.codechef.com/MARCH20B/problems/ENGXOR) (Codechef) | Ongoing Contest |
