@@ -277,3 +277,6 @@
 **Day 65: (Mar 5, 2020)**
 - Helped in debugging a problem on InterviewBit - [Copy List](https://www.interviewbit.com/problems/copy-list/)
 - Unsuccessful attempt to solve the problem - [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)
+
+**Day 66: (Mar 6, 2020)**
+- Solved problem on InterviewBit - [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)
