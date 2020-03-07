@@ -281,3 +281,6 @@
 **Day 66: (Mar 6, 2020)**
 - Solved problem on InterviewBit - [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)
 - Read about Counting Sort [GeeksforGeeks](https://www.geeksforgeeks.org/counting-sort/)
+
+**Day 67: (Mar 7, 2020)**
+- Solved problem on InterviewBit - [Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/)
