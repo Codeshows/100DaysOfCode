@@ -1,6 +1,5 @@
 // https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/
 
-
 int Solution::adjacent(vector<vector<int> > &A) {
     int n = A[0].size();
     vector<int> temp(2, 0);
