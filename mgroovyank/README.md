@@ -284,3 +284,6 @@
 
 **Day 67: (Mar 7, 2020)**
 - Solved problem on InterviewBit - [Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/)
+
+**Day 68:(Mar 8, 2020)**
+- Solved problem on InterviewBit - [Max Sum Without Adjacent Elements](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
