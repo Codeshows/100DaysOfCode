@@ -270,3 +270,20 @@
 
 **Day 63: (Mar 3, 2020)**
 - Solved problem on InterviewBit - [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)
+
+**Day 64: (Mar 4, 2020)**
+- Read artice on Dynamic Programming on [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+
+**Day 65: (Mar 5, 2020)**
+- Helped in debugging a problem on InterviewBit - [Copy List](https://www.interviewbit.com/problems/copy-list/)
+- Unsuccessful attempt to solve the problem - [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)
+
+**Day 66: (Mar 6, 2020)**
+- Solved problem on InterviewBit - [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)
+- Read about Counting Sort [GeeksforGeeks](https://www.geeksforgeeks.org/counting-sort/)
+
+**Day 67: (Mar 7, 2020)**
+- Solved problem on InterviewBit - [Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/)
+
+**Day 68:(Mar 8, 2020)**
+- Solved problem on InterviewBit - [Max Sum Without Adjacent Elements](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
