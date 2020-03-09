@@ -418,3 +418,12 @@
 | [Board Game](https://www.hackerearth.com/problem/algorithm/moving-d6f7a605/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day39/problem01.cpp)|
 | [Rain Sound](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day39/problem02.cpp)|
 
+
+# 8 March 2020 (Day 40)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Even Subset Sum](http://codeforces.com/contest/1323/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day40/problem01.cpp)|
+| [Unusual Competition](http://codeforces.com/contest/1323/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day40/problem02.cpp)|

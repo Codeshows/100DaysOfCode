@@ -371,3 +371,13 @@
 |-----------|----------------|
 | [Ada Bishop 2](https://www.codechef.com/MARCH20B/problems/ADASHOP2) (Codechef) | Ongoing Contest |
 | [Even Subset Sum Problem](https://codeforces.com/problemset/problem/1323/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day40/1323a.cpp)|
+
+**Day 41: March 08,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Unusual Competitions](https://codeforces.com/problemset/problem/1323/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day41/1323c.cpp)|
+| [Holiday Season](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/holiday-season-ab957deb/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day41/Holiday_Season.cpp)|
+
