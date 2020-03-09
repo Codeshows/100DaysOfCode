@@ -212,7 +212,78 @@
 - Solved problem on InterviewBit - [NQueens](https://www.interviewbit.com/problems/nqueens/)
 - Solved problem on InterviewBit - [Sudoku](https://www.interviewbit.com/problems/sudoku/)
 
-**Day 46:(Feb 15, 2020)**
+**Day 46: (Feb 15, 2020)**
 - Solved problem on InterviewBit - [Gray Code](https://www.interviewbit.com/problems/gray-code/)
 - Solved problem on CodeChef - [SNUG_FIT](https://www.codechef.com/FEB20B/problems/SNUG_FIT)
 - Solved problem on CodeChef - [Hard Cash](https://www.codechef.com/FEB20B/problems/CASH)
+
+**Day 47: (Feb 16, 2020)**
+- Solved problem on InterviewBit - [Kth Permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/)
+
+**Day 48: (Feb 17, 2020)**
+- Read about Hashing Implementation Details on [InterviewBit](https://www.interviewbit.com/tutorial/hashing-implementation-details/)
+- Solved problem with Brute Force approach on InterviewBit - [Equal](https://www.interviewbit.com/problems/equal/)
+
+**Day 49: (Feb 18, 2020)**
+- Solved problem on Interviewbit - [Equal](https://www.interviewbit.com/problems/equal/)
+
+**Day 50: (Feb 19, 2020)**
+- Solved problem on InterviewBit - [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)
+- Solved problem on InterviewBit - [Copy List](https://www.interviewbit.com/problems/copy-list/)
+
+**Day 51: (Feb 20, 2020)**
+- Solved problem on InterviewBit - [Window String](https://www.interviewbit.com/problems/window-string/)
+
+**Day 52: (Feb 21, 2020)**
+- Read about Heaps and Maps on InterviewBit - [Heaps and Maps](https://www.interviewbit.com/tutorial/why-treemaps-heaps/)
+- Practiced implementation of Heap Sort Algorithm
+
+**Day 53: (Feb 22, 2020)**
+- Solved problem on InterviewBit - [N max pair combinations](https://www.interviewbit.com/problems/n-max-pair-combinations/)
+
+**Day 54: (Feb 23, 2020)**
+- Solved problem on InterviewBit - [Magician and Chocolates](https://www.interviewbit.com/problems/magician-and-chocolates/)
+
+**Day 55: (Feb 24, 2020)**
+- Solved problem on InterviewBit - [Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)
+
+**Day 56: (Feb 25, 2020)**
+- Unsuccessful attempt to solve problem - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+
+**Day 57: (Feb 26, 2020)**
+- Unsuccessful attempt to solve problem - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+
+**Day 58: (Feb 27, 2020)**
+- Solved problem on InterviewBit - [Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)
+
+**Day 59: (Feb 28, 2020)**
+- Solved problem on InterviewBit - [Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)
+
+**Day 60: (Feb 29, 2020)**
+- Unsuccessful attempt to solve problem - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
+
+**Day 61: (Mar 1, 2020)**
+- Solved problem on InterviewBit - [LRU Cache](https://www.interviewbit.com/problems/lru-cache/)
+
+**Day 62: (Mar 2, 2020)**
+- Read about Dynamic Programming on [InterviewBit](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
+
+**Day 63: (Mar 3, 2020)**
+- Solved problem on InterviewBit - [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)
+
+**Day 64: (Mar 4, 2020)**
+- Read artice on Dynamic Programming on [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+
+**Day 65: (Mar 5, 2020)**
+- Helped in debugging a problem on InterviewBit - [Copy List](https://www.interviewbit.com/problems/copy-list/)
+- Unsuccessful attempt to solve the problem - [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)
+
+**Day 66: (Mar 6, 2020)**
+- Solved problem on InterviewBit - [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)
+- Read about Counting Sort [GeeksforGeeks](https://www.geeksforgeeks.org/counting-sort/)
+
+**Day 67: (Mar 7, 2020)**
+- Solved problem on InterviewBit - [Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/)
+
+**Day 68:(Mar 8, 2020)**
+- Solved problem on InterviewBit - [Max Sum Without Adjacent Elements](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)

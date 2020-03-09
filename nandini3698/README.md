@@ -387,3 +387,43 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Rotation by 2 places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day36/rotationstr.cpp)|
+
+
+# 5 March 2020 (Day 37)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [WetClothes](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/wet-clothes-625348cf/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day37/problem01.cpp)|
+| [MonkWalk](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/monk-takes-a-walk/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day37/problem02.cpp)|
+
+
+# 6 March 2020 (Day 38)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [WetClothes](https://www.codechef.com/MARCH20B/problems/CHPINTU) (Codechef) | [Solution](Ongoing Contest)|
+| [MonkWalk]https://www.codechef.com/MARCH20B/problems/ENGXOR) (Codechef) | [Solution](Ongoing Contest)|
+
+
+# 7 March 2020 (Day 39)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Board Game](https://www.hackerearth.com/problem/algorithm/moving-d6f7a605/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day39/problem01.cpp)|
+| [Rain Sound](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day39/problem02.cpp)|
+
+
+# 8 March 2020 (Day 40)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Even Subset Sum](http://codeforces.com/contest/1323/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day40/problem01.cpp)|
+| [Unusual Competition](http://codeforces.com/contest/1323/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day40/problem02.cpp)|
