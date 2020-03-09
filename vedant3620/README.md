@@ -381,3 +381,14 @@
 | [Unusual Competitions](https://codeforces.com/problemset/problem/1323/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day41/1323c.cpp)|
 | [Holiday Season](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/holiday-season-ab957deb/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day41/Holiday_Season.cpp)|
 
+**Day 42: March 09,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day42/1312a.cpp)|
+| [Bogosort](https://codeforces.com/contest/1312/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day42/1312b.cpp)|
+
+
+
