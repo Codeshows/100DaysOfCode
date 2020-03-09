@@ -405,8 +405,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [WetClothes](https://www.codechef.com/MARCH20B/problems/CHPINTU) (Codechef) | [Solution](Ongoing Contest)|
-| [MonkWalk]https://www.codechef.com/MARCH20B/problems/ENGXOR) (Codechef) | [Solution](Ongoing Contest)|
+| [CHPINTU](https://www.codechef.com/MARCH20B/problems/CHPINTU) (Codechef) | [Solution](Ongoing Contest)|
+| [ENGXOR]https://www.codechef.com/MARCH20B/problems/ENGXOR) (Codechef) | [Solution](Ongoing Contest)|
 
 
 # 7 March 2020 (Day 39)
@@ -427,3 +427,13 @@
 |-----------|----------------|
 | [Even Subset Sum](http://codeforces.com/contest/1323/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day40/problem01.cpp)|
 | [Unusual Competition](http://codeforces.com/contest/1323/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day40/problem02.cpp)|
+
+
+# 9 March 2020 (Day 41)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [ADASHOP2](https://www.codechef.com/MARCH20B/problems/ADASHOP2) (Codechef) | [Solution](Ongoing Contest)|
+| [LAZER](https://www.codechef.com/MARCH20B/problems/LAZER) (Codechef) | [Solution](Ongoing Contest)|
