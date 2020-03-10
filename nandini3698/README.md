@@ -437,3 +437,13 @@
 |-----------|----------------|
 | [ADASHOP2](https://www.codechef.com/MARCH20B/problems/ADASHOP2) (Codechef) | [Solution](Ongoing Contest)|
 | [LAZER](https://www.codechef.com/MARCH20B/problems/LAZER) (Codechef) | [Solution](Ongoing Contest)|
+
+
+# 10 March 2020 (Day 42)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Rest In Peace](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/rest-in-peace-21-1/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day42/problem01.cpp)|
+| [First Name](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day42/problem02.cpp)|
