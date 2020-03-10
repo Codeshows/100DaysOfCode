@@ -290,3 +290,6 @@
 
 **Day 69: (Mar 9, 2020)**
 - Solved problem on InterviewBit - [Repeating Sub-Sequence](https://www.interviewbit.com/problems/repeating-subsequence/)
+
+**Day 70: (Mar 10, 2020)**
+- Solved problem on InterviewBit - [Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)
