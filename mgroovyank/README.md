@@ -293,3 +293,6 @@
 
 **Day 70: (Mar 10, 2020)**
 - Solved problem on InterviewBit - [Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)
+
+**Day 71: (Mar 11, 2020)**
+- Solved problem on InterviewBit - [Interleaving Strings](https://www.interviewbit.com/problems/interleaving-strings/)
