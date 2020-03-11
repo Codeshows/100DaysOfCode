@@ -398,3 +398,11 @@
 |-----------|----------------|
 | [Picu Bank](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/picu-bank-09e29493/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day43/Picu_Bank.cpp)|
 | [Maximum Sum](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/maximum-sum-4-f8d12458/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day43/maximum_sum.cpp)|
+
+**Day 44: March 11,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Break](https://www.codechef.com/MARCH20B/problems/BREAK) (Codechef) | Ongoing Contest |
