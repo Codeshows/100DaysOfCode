@@ -354,3 +354,29 @@ watched videos on dynamic programming by geeksforgeeks
 [A1] (https://codeforces.com/contest/1304/submission/71173048)  
 [Q2] (https://codeforces.com/contest/1304/problem/B)  
 [A2] (https://codeforces.com/contest/1304/submission/71178231)  
+
+
+## Day 46: March 7,2020
+* Solved questions on greedy algorithm, hackerearth
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/motu-and-patlu-1-ab612ad8/)  
+[A1] (https://www.hackerearth.com/submission/37301472/)  
+[Q2] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/subxor-e114a622/)  
+[A2] (https://www.hackerearth.com/submission/37307240/)  
+[Q3] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/pikachu-and-the-game-of-strings-1-8c22a8ce/)  
+[A3] (https://www.hackerearth.com/submission/37308153/)  
+[Q4] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/exploring-ruins/)  
+[A4] (https://www.hackerearth.com/submission/37309306/)  
+
+## Day 47: March 8,2020
+* Solved questions in March Long Challenge
+
+### Links:
+[Q1] (https://www.codechef.com/MARCH20B/problems/CHPINTU)  (ongoing)
+
+## Day 48: March 9,2020
+* Solved questions in March long Challenge
+
+### Links:
+[Q1] (https://www.codechef.com/MARCH20B/problems/ENGXOR)  
+[Q2] (https://www.codechef.com/MARCH20B/problems/ADASHOP2)  (ongoing)
