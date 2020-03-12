@@ -287,3 +287,15 @@
 
 **Day 68:(Mar 8, 2020)**
 - Solved problem on InterviewBit - [Max Sum Without Adjacent Elements](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
+
+**Day 69: (Mar 9, 2020)**
+- Solved problem on InterviewBit - [Repeating Sub-Sequence](https://www.interviewbit.com/problems/repeating-subsequence/)
+
+**Day 70: (Mar 10, 2020)**
+- Solved problem on InterviewBit - [Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)
+
+**Day 71: (Mar 11, 2020)**
+- Solved problem on InterviewBit - [Interleaving Strings](https://www.interviewbit.com/problems/interleaving-strings/)
+
+**Day 72: (Mar 12, 2020)**
+- Solved problem on InterviewBit - [Interleaving Strings](https://www.interviewbit.com/problems/interleaving-strings/)
