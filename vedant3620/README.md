@@ -406,3 +406,12 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Break](https://www.codechef.com/MARCH20B/problems/BREAK) (Codechef) | Ongoing Contest |
+
+**Day 45: March 12,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Special Shop](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day45/Special_Shop.cpp)|
+| [The Normal Type](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/the-normal-type/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day45/The_Normal_Type.cpp)|
