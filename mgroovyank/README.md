@@ -299,3 +299,6 @@
 
 **Day 72: (Mar 12, 2020)**
 - Solved problem on InterviewBit - [Interleaving Strings](https://www.interviewbit.com/problems/interleaving-strings/)
+
+**Day 73: (Mar 13, 2020)**
+- Solved problem on InterviewBit - [Regular Expression Match](https://www.interviewbit.com/problems/regular-expression-match/)
