@@ -381,7 +381,6 @@ watched videos on dynamic programming by geeksforgeeks
 [Q1] (https://www.codechef.com/MARCH20B/problems/ENGXOR)  
 [Q2] (https://www.codechef.com/MARCH20B/problems/ADASHOP2)  (ongoing)
 
-
 ## Day 49: March 10,2020
 * Solved question in March Long challenge (partial)
 
@@ -408,5 +407,5 @@ watched videos on dynamic programming by geeksforgeeks
 [Q1] (https://codeforces.com/contest/1311/problem/A)  
 [A1] (https://codeforces.com/contest/1311/submission/73090069)  
 [Q2] (https://codeforces.com/contest/1311/problem/B)  
-[A2] (https://codeforces.com/contest/1311/submission/73151196)  
+[A2] (https://codeforces.com/contest/1311/submission/73151196)   
 
