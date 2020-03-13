@@ -381,3 +381,28 @@
 | [Unusual Competitions](https://codeforces.com/problemset/problem/1323/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day41/1323c.cpp)|
 | [Holiday Season](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/holiday-season-ab957deb/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day41/Holiday_Season.cpp)|
 
+**Day 42: March 09,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day42/1312a.cpp)|
+| [Bogosort](https://codeforces.com/contest/1312/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day42/1312b.cpp)|
+
+**Day 43: March 10,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Picu Bank](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/picu-bank-09e29493/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day43/Picu_Bank.cpp)|
+| [Maximum Sum](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/maximum-sum-4-f8d12458/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day43/maximum_sum.cpp)|
+
+**Day 44: March 11,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Break](https://www.codechef.com/MARCH20B/problems/BREAK) (Codechef) | Ongoing Contest |

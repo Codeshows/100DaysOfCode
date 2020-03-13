@@ -405,8 +405,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [WetClothes](https://www.codechef.com/MARCH20B/problems/CHPINTU) (Codechef) | [Solution](Ongoing Contest)|
-| [MonkWalk]https://www.codechef.com/MARCH20B/problems/ENGXOR) (Codechef) | [Solution](Ongoing Contest)|
+| [CHPINTU](https://www.codechef.com/MARCH20B/problems/CHPINTU) (Codechef) | [Solution](Ongoing Contest)|
+| [ENGXOR]https://www.codechef.com/MARCH20B/problems/ENGXOR) (Codechef) | [Solution](Ongoing Contest)|
 
 
 # 7 March 2020 (Day 39)
@@ -427,3 +427,33 @@
 |-----------|----------------|
 | [Even Subset Sum](http://codeforces.com/contest/1323/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day40/problem01.cpp)|
 | [Unusual Competition](http://codeforces.com/contest/1323/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day40/problem02.cpp)|
+
+
+# 9 March 2020 (Day 41)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [ADASHOP2](https://www.codechef.com/MARCH20B/problems/ADASHOP2) (Codechef) | [Solution](Ongoing Contest)|
+| [LAZER](https://www.codechef.com/MARCH20B/problems/LAZER) (Codechef) | [Solution](Ongoing Contest)|
+
+
+# 10 March 2020 (Day 42)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Rest In Peace](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/rest-in-peace-21-1/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day42/problem01.cpp)|
+| [First Name](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day42/problem02.cpp)|
+
+
+# 11 March 2020 (Day 43)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Special shop](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day42/problem01.cpp)|
+| [RepeatedKTimes](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day42/problem02.cpp)|
