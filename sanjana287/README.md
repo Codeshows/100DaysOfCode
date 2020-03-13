@@ -380,3 +380,33 @@ watched videos on dynamic programming by geeksforgeeks
 ### Links:
 [Q1] (https://www.codechef.com/MARCH20B/problems/ENGXOR)  
 [Q2] (https://www.codechef.com/MARCH20B/problems/ADASHOP2)  (ongoing)
+
+
+## Day 49: March 10,2020
+* Solved question in March Long challenge (partial)
+
+### Links:
+[Q1] (https://www.codechef.com/MARCH20B/problems/LAZER) (ongoing)
+
+##  Day 50: March 11,2020
+* Solved question in CodeRed
+
+### Links:
+[Q1] (https://www.codechef.com/CORE2020/problems/CORE2002)  
+[A1] (https://www.codechef.com/viewsolution/30320479)  
+
+## Day 51: March 12,2020
+* Solved question in March Long challenge (partial)
+
+### Links:
+[Q1] (https://www.codechef.com/MARCH20B/problems/BREAK)  (ongoing)
+
+## Day 52: March 13,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1311/problem/A)  
+[A1] (https://codeforces.com/contest/1311/submission/73090069)  
+[Q2] (https://codeforces.com/contest/1311/problem/B)  
+[A2] (https://codeforces.com/contest/1311/submission/73151196)  
+
