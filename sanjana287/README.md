@@ -409,3 +409,21 @@ watched videos on dynamic programming by geeksforgeeks
 [Q2] (https://codeforces.com/contest/1311/problem/B)  
 [A2] (https://codeforces.com/contest/1311/submission/73151196)   
 
+## Day 53: March 14,2020
+* Solved greedy algorithm questions on hackerearth
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/coprimed-32042ef1/)    
+[A1] (https://www.hackerearth.com/submission/38330349/)  
+[Q2] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/my-girlfriend-and-her-love-for-cats-1/)  
+[A2] (https://www.hackerearth.com/submission/38325695/)  
+[Q3] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/toy-box-5044b3ed/)    
+[A3] (https://www.hackerearth.com/submission/38331694/)   
+[Q4] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-gcd-d6d86b3b/)  
+[A4] (https://www.hackerearth.com/submission/38343964/)  
+[Q5] (https://codeforces.com/contest/1325/problem/A)  
+[A5] (https://codeforces.com/contest/1325/submission/73233486)  
+[Q6] (https://codeforces.com/contest/1325/problem/B)  
+[A6] (https://codeforces.com/contest/1325/submission/73239158)  
+
