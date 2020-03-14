@@ -302,3 +302,6 @@
 
 **Day 73: (Mar 13, 2020)**
 - Solved problem on InterviewBit - [Regular Expression Match](https://www.interviewbit.com/problems/regular-expression-match/)
+
+**Day 74: (Mar 14, 2020)**
+- Solved problem on InterviewBit - [Regular Expression II](https://www.interviewbit.com/problems/regular-expression-ii/)
