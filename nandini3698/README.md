@@ -478,3 +478,24 @@
 | [BREAK](https://www.codechef.com/MARCH20B/problems/BREAK) (Codechef) | [Solution](Ongoing Contest)|
 | [EhAb AnD gCd](http://codeforces.com/contest/1325/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day45/problem01.cpp)|
 | [Copy Copy](http://codeforces.com/contest/1325/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day45/problem02.cpp)|
+
+
+
+# 14 March 2020 (Day 46)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Square Transaction](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/square-transaction-20/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day46/problem01.cpp)|
+| [Frog Path](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day46/problem02.cpp)|
+
+
+# 15 March 2020 (Day 47)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Normal Type](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/the-normal-type/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day47/problem01.cpp)|
+| [Policemen&Thieves](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/joker-and-thieves-53e59f4a/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day47/problem02.cpp)|
