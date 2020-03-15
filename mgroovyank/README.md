@@ -305,3 +305,6 @@
 
 **Day 74: (Mar 14, 2020)**
 - Solved problem on InterviewBit - [Regular Expression II](https://www.interviewbit.com/problems/regular-expression-ii/)
+
+**Day 75: (Mar 15, 2020)**
+- Unsuccessful attempt to solve the problem - [Scramble String](http://interviewbit.com/problems/scramble-string/)
