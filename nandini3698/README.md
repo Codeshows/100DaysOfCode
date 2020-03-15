@@ -455,5 +455,26 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Special shop](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day42/problem01.cpp)|
-| [RepeatedKTimes](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day42/problem02.cpp)|
+| [Special shop](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day43/problem01.cpp)|
+| [RepeatedKTimes](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day43/problem02.cpp)|
+
+
+# 12 March 2020 (Day 44)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Sum Subset](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/easy-sum-set-problem-7e6841ca/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day44/problem01.cpp)|
+| [Breakup App](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/breakup-app/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day44/problem02.cpp)|
+
+
+# 13 March 2020 (Day 45)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [BREAK](https://www.codechef.com/MARCH20B/problems/BREAK) (Codechef) | [Solution](Ongoing Contest)|
+| [EhAb AnD gCd](http://codeforces.com/contest/1325/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day45/problem01.cpp)|
+| [Copy Copy](http://codeforces.com/contest/1325/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day45/problem02.cpp)|
