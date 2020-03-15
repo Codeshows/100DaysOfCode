@@ -424,3 +424,11 @@
 |-----------|----------------|
 | [Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day46/1324a.cpp)|
 | [Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day46/1324b.cpp)|
+
+**Day 47: March 14,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Repeated K Times](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day47/Repeated_K_Times.cpp)|
