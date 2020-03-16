@@ -440,3 +440,12 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Minimize Cost](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/minimise-cost-89b54cb9/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day48/Minimize_Cost.cpp)|
+
+**Day 49: March 16,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Frog Jumps](https://codeforces.com/contest/1324/problem/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day49/1324c.cpp)|
+| [WOW Factor](https://codeforces.com/contest/1178/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day49/1178b.cpp)|
