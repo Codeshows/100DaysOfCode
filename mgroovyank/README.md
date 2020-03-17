@@ -308,3 +308,9 @@
 
 **Day 75: (Mar 15, 2020)**
 - Unsuccessful attempt to solve the problem - [Scramble String](http://interviewbit.com/problems/scramble-string/)
+
+**Day 76: (Mar 16, 2020)**
+- Solved problem on InterviewBit - [Scramble String](http://interviewbit.com/problems/scramble-string/)
+
+**Day 77: (Mar 17, 2020)**
+- Solved problem on InterviewBit - [Tushar's Birthday Bombs](https://www.interviewbit.com/problems/tushars-birthday-bombs/)
