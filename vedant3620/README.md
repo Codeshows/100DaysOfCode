@@ -449,3 +449,12 @@
 |-----------|----------------|
 | [Frog Jumps](https://codeforces.com/contest/1324/problem/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day49/1324c.cpp)|
 | [WOW Factor](https://codeforces.com/contest/1178/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day49/1178b.cpp)|
+
+**Day 50: March 17,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day50/frogs1(atcoder).cpp)|
+| [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day50/frogs2(atcoder).cpp)|
