@@ -314,3 +314,6 @@
 
 **Day 77: (Mar 17, 2020)**
 - Solved problem on InterviewBit - [Tushar's Birthday Bombs](https://www.interviewbit.com/problems/tushars-birthday-bombs/)
+
+**Day 78: (Mar 18, 2020)**
+- Solved problem on InterviewBit - [Count Permutations of BST](https://www.interviewbit.com/problems/count-permutations-of-bst/)
