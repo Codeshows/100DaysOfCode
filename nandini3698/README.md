@@ -499,3 +499,13 @@
 |-----------|----------------|
 | [Normal Type](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/the-normal-type/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day47/problem01.cpp)|
 | [Policemen&Thieves](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/joker-and-thieves-53e59f4a/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day47/problem02.cpp)|
+
+
+# 18 Feb 2020 (Day 48)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Longest palindrome](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day48/program01.cpp)|
+| [Atoi implementation](https://practice.geeksforgeeks.org/problems/implement-atoi/1) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day48/program02.cpp)|
