@@ -509,3 +509,14 @@
 |-----------|----------------|
 | [Longest palindrome](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day48/program01.cpp)|
 | [Atoi implementation](https://practice.geeksforgeeks.org/problems/implement-atoi/1) (Geeksforgeeks Practice) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day48/program02.cpp)|
+
+
+# 19 March 2020 (Day 49)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Bad Ugly Nos.](http://codeforces.com/contest/1326/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem01.cpp)|
+| [Maximums](http://codeforces.com/contest/1326/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem02.cpp)|
+| [Permutation Partition](http://codeforces.com/contest/1326/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem03.cpp)|
