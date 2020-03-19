@@ -424,3 +424,55 @@
 |-----------|----------------|
 | [Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day46/1324a.cpp)|
 | [Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day46/1324b.cpp)|
+
+**Day 47: March 14,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Repeated K Times](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day47/Repeated_K_Times.cpp)|
+
+**Day 48: March 15,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimize Cost](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/minimise-cost-89b54cb9/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day48/Minimize_Cost.cpp)|
+
+**Day 49: March 16,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Frog Jumps](https://codeforces.com/contest/1324/problem/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day49/1324c.cpp)|
+| [WOW Factor](https://codeforces.com/contest/1178/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day49/1178b.cpp)|
+
+**Day 50: March 17,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day50/frogs1(atcoder).cpp)|
+| [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day50/frogs2(atcoder).cpp)|
+
+**Day 51: March 18,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/knapsack1(atcoder).cpp)|
+| [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/knapsack2(atcoder).cpp)|
+
+**Day 52: March 19,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Display The Number](https://codeforces.com/contest/1295/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day52/1295a.cpp)|
+| [Pair of Topics](https://codeforces.com/problemset/problem/1324/D) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day52/1324d.cpp)|
