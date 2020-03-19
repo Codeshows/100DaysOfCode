@@ -173,6 +173,19 @@
 |*[February Long Challenge ongoing...(Codechef)](https://www.codechef.com/FEB20B)* |
 |-----------|
 
+**Day 41-44: Feb 10-13,2020**
 
+|*[Partially solved Feb long challenge(codechef)](https://www.codechef.com/FEB20B)* |
+|-----------|
+
+**Day 45-46: Feb 26,2020-Feb 28,2020**
+
+|*Read details of open source project -[Cosmos](https://github.com/OpenGenus/cosmos)* |
+|-----------|
+
+**Day 47-50: Mar 05,2020- Mar 08,2020**
+
+|*Continued on Reading [cosmos](https://github.com/OpenGenus/cosmos)* |
+|-----------|
 
 
