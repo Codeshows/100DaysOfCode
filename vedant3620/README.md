@@ -467,3 +467,12 @@
 |-----------|----------------|
 | [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/knapsack1(atcoder).cpp)|
 | [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/knapsack2(atcoder).cpp)|
+
+**Day 52: March 19,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Display The Number](https://codeforces.com/contest/1295/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day52/1295a.cpp)|
+| [Pair of Topics](https://codeforces.com/problemset/problem/1324/D) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day52/1324d.cpp)|
