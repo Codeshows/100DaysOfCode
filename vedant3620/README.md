@@ -458,3 +458,12 @@
 |-----------|----------------|
 | [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day50/frogs1(atcoder).cpp)|
 | [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day50/frogs2(atcoder).cpp)|
+
+**Day 51: March 18,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/knapsack1(atcoder).cpp)|
+| [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/knapsack2(atcoder).cpp)|
