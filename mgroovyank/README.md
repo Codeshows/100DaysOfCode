@@ -317,3 +317,6 @@
 
 **Day 78: (Mar 18, 2020)**
 - Solved problem on InterviewBit - [Count Permutations of BST](https://www.interviewbit.com/problems/count-permutations-of-bst/)
+
+**Day 79: (Mar 19, 2020)**
+- Solved problem on InterviewBit - [Count Permutations of BST](https://www.interviewbit.com/problems/count-permutations-of-bst/)
