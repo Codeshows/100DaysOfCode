@@ -476,3 +476,13 @@
 |-----------|----------------|
 | [Display The Number](https://codeforces.com/contest/1295/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day52/1295a.cpp)|
 | [Pair of Topics](https://codeforces.com/problemset/problem/1324/D) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day52/1324d.cpp)|
+
+**Day 53: March 20,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Bad Ugly Numbers](https://codeforces.com/contest/1326/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day53/1326a.cpp)|
+| [Maximums](https://codeforces.com/problemset/problem/1326/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day53/1326b.cpp)|
+| [Permutation Partitions](https://codeforces.com/problemset/problem/1326/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day53/1326c.cpp)|
