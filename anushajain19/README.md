@@ -173,6 +173,66 @@
 |*[February Long Challenge ongoing...(Codechef)](https://www.codechef.com/FEB20B)* |
 |-----------|
 
+**Day 41-44: Feb 10-13,2020**
 
+|*[Partially solved Feb long challenge(codechef)](https://www.codechef.com/FEB20B)* |
+|-----------|
 
+**Day 45-46: Feb 26,2020-Feb 28,2020**
+
+|*Read details of open source project -[Cosmos](https://github.com/OpenGenus/cosmos)* |
+|-----------|
+
+**Day 47-50: Mar 05,2020- Mar 08,2020**
+
+|*Continued on Reading [cosmos](https://github.com/OpenGenus/cosmos)* |
+|-----------|
+
+ **Day 51 :Mar 09,2020**
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Seating Araangement Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/) | [solution](https://www.hackerearth.com/submission/38579459/) |
+| [Zoos Hackerearth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/) | [solution](https://www.hackerearth.com/submission/38579944/) |
+
+**Day 52:Mar 10,2020**
+
+|*[A course on C++ STL](https://www.linkedin.com/learning/c-plus-plus-standard-template-library?trk=share_android_course_learning)*|
+|---------------|
+|*Completed Introduction and Section 1 : Introduction to Generic programming and Templates,Containers and Iterators*|
+
+**Day 53:Mar 11,2020**
+
+|*[Completed the course on C++ STL](https://www.linkedin.com/learning/c-plus-plus-standard-template-library?trk=share_android_course_learning)*|
+|---------------|
+|*Completed Section 2,3 and 4: Vector,List,Deque,stack,queue,priority-queue,sets and maps*|
+
+ **Day 54 :Mar 12,2020**
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Helpful Maths](http://codeforces.com/contest/339/problem/A)  | [solution](http://codeforces.com/contest/339/submission/73460457) |
+| [Beautiful Matrix](http://codeforces.com/contest/263/problem/A)  | [solution](http://codeforces.com/contest/263/submission/73462755) |
+|[Football](http://codeforces.com/contest/96/problem/A) |[solution](http://codeforces.com/contest/96/submission/73466982) |
+|[Stones on the Table](http://codeforces.com/contest/266/problem/A) |[solution](http://codeforces.com/contest/266/submission/73473116) |
+
+ **Day 55 :Mar 13,2020**
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+|[More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)(Hackerrank-17/30 days of code)| [solution](https://www.hackerrank.com/challenges/30-more-exceptions/submissions/code/148212542) |
+|[queues-stacks](https://www.hackerrank.com/challenges/30-queues-stacks)(Hackerrank-18/30 days of code)| [solution](https://www.hackerrank.com/challenges/30-queues-stacks/submissions/code/148214510) |
+|[Interfaces](https://www.hackerrank.com/challenges/30-interfaces)(Hackerrank-19/30 days of code)| [solution](https://www.hackerrank.com/challenges/30-interfaces/submissions/code/148216058) |
+|[Sorting](https://www.hackerrank.com/challenges/30-sorting)(Hackerrank-20/30 days of code)| [solution](https://www.hackerrank.com/challenges/30-sorting/submissions/code/148218173) |
+|[Generics](https://www.hackerrank.com/challenges/30-generics)(Hackerrank-21/30 days of code)| [solution](https://www.hackerrank.com/challenges/30-generics/submissions/code/148224649) |
+
+**Day 56 :Mar 15,2020**
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+|[Boy or Girl](http://codeforces.com/contest/236/problem/A)(Codeforces)|[Solution](http://codeforces.com/contest/236/submission/73632642) |
+| [Young Physicist](http://codeforces.com/contest/69/problem/A)(Codeforces)|[Solution](http://codeforces.com/contest/69/submission/73636355) |
+| [Chat Room](http://codeforces.com/contest/58/problem/A)(Codeforces)|[Solution](http://codeforces.com/contest/58/submission/73638228) |
+| [Lucky Division](http://codeforces.com/contest/122/problem/A)(Codeforces)|[Solution](http://codeforces.com/contest/122/submission/73638981) |
+| [Soldier and Bananas](http://codeforces.com/contest/546/problem/A)(Codeforces)|[Solution](http://codeforces.com/contest/546/submission/73639893) |
 

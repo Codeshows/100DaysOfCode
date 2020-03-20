@@ -305,3 +305,18 @@
 
 **Day 74: (Mar 14, 2020)**
 - Solved problem on InterviewBit - [Regular Expression II](https://www.interviewbit.com/problems/regular-expression-ii/)
+
+**Day 75: (Mar 15, 2020)**
+- Unsuccessful attempt to solve the problem - [Scramble String](http://interviewbit.com/problems/scramble-string/)
+
+**Day 76: (Mar 16, 2020)**
+- Solved problem on InterviewBit - [Scramble String](http://interviewbit.com/problems/scramble-string/)
+
+**Day 77: (Mar 17, 2020)**
+- Solved problem on InterviewBit - [Tushar's Birthday Bombs](https://www.interviewbit.com/problems/tushars-birthday-bombs/)
+
+**Day 78: (Mar 18, 2020)**
+- Solved problem on InterviewBit - [Count Permutations of BST](https://www.interviewbit.com/problems/count-permutations-of-bst/)
+
+**Day 79: (Mar 19, 2020)**
+- Solved problem on InterviewBit - [Count Permutations of BST](https://www.interviewbit.com/problems/count-permutations-of-bst/)
