@@ -427,3 +427,36 @@ watched videos on dynamic programming by geeksforgeeks
 [Q6] (https://codeforces.com/contest/1325/problem/B)  
 [A6] (https://codeforces.com/contest/1325/submission/73239158)  
 
+
+## Day 54: March 15,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1321/problem/A)  
+[A1] (https://codeforces.com/contest/1321/submission/73337336)  
+[Q2] (https://codeforces.com/contest/1312/problem/A)  
+[A2] (https://codeforces.com/contest/1312/submission/73362329)  
+
+## Day 55: March 16,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1312/problem/B)  
+[A1] (https://codeforces.com/contest/1312/submission/73364536)  
+[Q2] (https://codeforces.com/contest/1269/problem/A)  
+[A2] (https://codeforces.com/contest/1269/submission/73367561)  
+
+## Day 56: March 17,2020
+* Worked on personal website
+
+## Day 57: March 18,2020
+* Contest on hackerrank, solved 3 questions
+
+### Links:
+[Q1] (https://www.hackerrank.com/contests/renaissace-self-evaluation-2/challenges/number-of-toffees)  
+[A1] (https://www.hackerrank.com/contests/renaissace-self-evaluation-2/challenges/number-of-toffees/submissions/code/1321910020)  
+[Q2] (https://www.hackerrank.com/contests/renaissace-self-evaluation-2/challenges/keep-them-silent)  
+[A2] (https://www.hackerrank.com/contests/renaissace-self-evaluation-2/challenges/keep-them-silent/submissions/code/1321911146)  
+[Q3] (https://www.hackerrank.com/contests/renaissace-self-evaluation-2/challenges/siddhant-and-money-1)  
+[A3] (https://www.hackerrank.com/contests/renaissace-self-evaluation-2/challenges/siddhant-and-money-1/submissions/code/1321915305)  
+
