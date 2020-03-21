@@ -486,3 +486,12 @@
 | [Bad Ugly Numbers](https://codeforces.com/contest/1326/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day53/1326a.cpp)|
 | [Maximums](https://codeforces.com/problemset/problem/1326/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day53/1326b.cpp)|
 | [Permutation Partitions](https://codeforces.com/problemset/problem/1326/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day53/1326c.cpp)|
+
+**Day 54: March 21,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day54/Subset_Sum_Problem.cpp)|
+| [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day54/Perfect_Sum_Problem.cpp)|
