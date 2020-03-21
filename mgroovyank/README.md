@@ -323,3 +323,6 @@
 
 **Day 80: (Mar 20, 2020)**
 - Solved problem on InterviewBit - [Longest Arithmetic Progression](https://www.interviewbit.com/problems/longest-arithmetic-progression/)
+
+**Day 81: (Mar 21, 2020)**
+- Solved problem on InterviewBit - [Longest Arithmetic Progression](https://www.interviewbit.com/problems/longest-arithmetic-progression/)
