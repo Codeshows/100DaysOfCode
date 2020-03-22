@@ -532,3 +532,11 @@
 | [Annoying Chemistry](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/annoying-chemistry-f5fb9556/) (Hackerearth) | [Solution](Ongoing Contest)|
 
 
+# 22 March 2020 (Day 51)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimum & xor](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/minimum-and-xor-or-6a05bbd4/) (Hackerearth) | [Solution](Ongoing Contest)|
+| [MYSARA](https://www.codechef.com/COOK116A/problems/MYSARA) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day51/problem01.cpp)|
