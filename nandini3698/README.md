@@ -520,3 +520,15 @@
 | [Bad Ugly Nos.](http://codeforces.com/contest/1326/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem01.cpp)|
 | [Maximums](http://codeforces.com/contest/1326/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem02.cpp)|
 | [Permutation Partition](http://codeforces.com/contest/1326/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem03.cpp)|
+
+
+# 21 March 2020 (Day 50)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Dislikes and Party](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/dislikes-and-party-567b9605/) (Hackerearth) | [Solution](Ongoing Contest)|
+| [Annoying Chemistry](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/annoying-chemistry-f5fb9556/) (Hackerearth) | [Solution](Ongoing Contest)|
+
+
