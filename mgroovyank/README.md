@@ -329,3 +329,6 @@
 
 **Day 82: (Mar 22, 2020)**
 - Solved problem on InterviewBit - [N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)
+
+**Day 83: (Mar 23, 2020)**
+- Solved problem on InterviewBit - [N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)
