@@ -326,3 +326,6 @@
 
 **Day 81: (Mar 21, 2020)**
 - Solved problem on InterviewBit - [Longest Arithmetic Progression](https://www.interviewbit.com/problems/longest-arithmetic-progression/)
+
+**Day 82: (Mar 22, 2020)**
+- Solved problem on InterviewBit - [N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)
