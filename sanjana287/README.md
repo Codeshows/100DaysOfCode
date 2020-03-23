@@ -460,3 +460,36 @@ watched videos on dynamic programming by geeksforgeeks
 [Q3] (https://www.hackerrank.com/contests/renaissace-self-evaluation-2/challenges/siddhant-and-money-1)  
 [A3] (https://www.hackerrank.com/contests/renaissace-self-evaluation-2/challenges/siddhant-and-money-1/submissions/code/1321915305)  
 
+## Day 58: March 19,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1316/problem/A)  
+[A1] (https://codeforces.com/contest/1316/submission/73655719)  
+
+
+## Day 59: March 20,2020
+* Solved questions on codeforces and codechef
+
+### Links:
+[Q1] (https://www.codechef.com/problems/POPGATES)  
+[A1] (https://www.codechef.com/viewsolution/30600354)  
+[Q2] (https://codeforces.com/contest/1326/problem/A)  
+[A2] (https://codeforces.com/contest/1326/submission/73822519)  
+[Q3] (https://codeforces.com/contest/1326/problem/B)  
+[A3] (https://codeforces.com/contest/1326/submission/73836777)  
+
+## Day 60: March 21,2020
+* Studied Concepts of Object Oriented Programming in C++
+
+### Links:
+[source] (https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF)  
+
+## Day 61: March 22,2020
+* Solved 2 Questions in March Cook off- Codechef
+
+### Links:
+[Q1] (https://www.codechef.com/COOK116B/problems/GIFTSRC)  
+[A1] (https://www.codechef.com/viewsolution/30635634)  
+[Q2] (https://www.codechef.com/COOK116B/problems/CHCBOX)  
+[A2] (https://www.codechef.com/viewsolution/30653588)  
