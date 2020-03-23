@@ -1,4 +1,6 @@
 // https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/
+//Time Complexity: O(N * S)
+
 
 long long int MOD = 1e9 + 7; 
 typedef long long int ll;
