@@ -495,3 +495,12 @@
 |-----------|----------------|
 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day54/Subset_Sum_Problem.cpp)|
 | [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day54/Perfect_Sum_Problem.cpp)|
+
+**Day 55: March 22,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Books](https://codeforces.com/problemset/problem/279/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day55/279b.cpp)|
+| [Sleeping Schedule](https://codeforces.com/problemset/problem/1324/E) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day55/1324e.cpp)|
