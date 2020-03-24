@@ -332,3 +332,6 @@
 
 **Day 83: (Mar 23, 2020)**
 - Solved problem on InterviewBit - [N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)
+
+**Day 84: (Mar 24, 2020)**
+- Unsuccessful attempt to solve the problem - [Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)
