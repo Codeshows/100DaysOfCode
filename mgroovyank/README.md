@@ -335,3 +335,6 @@
 
 **Day 84: (Mar 24, 2020)**
 - Unsuccessful attempt to solve the problem - [Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)
+
+**Day 85: (Mar 25, 2020)**
+- Solved problem on InterviewBit - [Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)
