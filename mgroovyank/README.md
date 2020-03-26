@@ -338,3 +338,6 @@
 
 **Day 85: (Mar 25, 2020)**
 - Solved problem on InterviewBit - [Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)
+
+**Day 86: (Mar 26, 2020)**
+- Solved problem on InterviewBit - [Kth Manhattan Distance Neighborhood](https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/)
