@@ -326,3 +326,15 @@
 
 **Day 81: (Mar 21, 2020)**
 - Solved problem on InterviewBit - [Longest Arithmetic Progression](https://www.interviewbit.com/problems/longest-arithmetic-progression/)
+
+**Day 82: (Mar 22, 2020)**
+- Solved problem on InterviewBit - [N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)
+
+**Day 83: (Mar 23, 2020)**
+- Solved problem on InterviewBit - [N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)
+
+**Day 84: (Mar 24, 2020)**
+- Unsuccessful attempt to solve the problem - [Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)
+
+**Day 85: (Mar 25, 2020)**
+- Solved problem on InterviewBit - [Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)
