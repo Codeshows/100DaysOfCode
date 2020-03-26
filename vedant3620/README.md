@@ -504,3 +504,12 @@
 |-----------|----------------|
 | [Books](https://codeforces.com/problemset/problem/279/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day55/279b.cpp)|
 | [Sleeping Schedule](https://codeforces.com/problemset/problem/1324/E) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day55/1324e.cpp)|
+
+**Day 56: March 23,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day56/Matrix_Chain_Multiplication.cpp)|
+| [Monk in the real estate](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-in-the-real-estate/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day56/Monk_in_the_real_estate.cpp)|
