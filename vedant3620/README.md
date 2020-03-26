@@ -524,3 +524,13 @@
 | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/LCS(atcoder).cpp)|
 | [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day57/Knapsack_with_Duplicate_Items.cpp)|
 | [Global Maximum](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/global-maximum/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day57/Global_Maximum.cpp)|
+
+**Day 58: March 25,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Sum of Odd Integers](https://codeforces.com/problemset/problem/1327/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327a.cpp)|
+| [Princesses and Princes](https://codeforces.com/problemset/problem/1327/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327b.cpp)|
+| [Game with Chips](https://codeforces.com/problemset/problem/1327/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327c.cpp)|
