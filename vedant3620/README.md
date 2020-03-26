@@ -513,3 +513,14 @@
 |-----------|----------------|
 | [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day56/Matrix_Chain_Multiplication.cpp)|
 | [Monk in the real estate](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-in-the-real-estate/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day56/Monk_in_the_real_estate.cpp)|
+
+**Day 57: March 24,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day57/vacation(atcoder).cpp)|
+| [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/LCS(atcoder).cpp)|
+| [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day57/Knapsack_with_Duplicate_Items.cpp)|
+| [Global Maximum](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/global-maximum/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day57/Global_Maximum.cpp)|
