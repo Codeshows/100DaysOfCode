@@ -534,3 +534,13 @@
 | [Sum of Odd Integers](https://codeforces.com/problemset/problem/1327/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327a.cpp)|
 | [Princesses and Princes](https://codeforces.com/problemset/problem/1327/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327b.cpp)|
 | [Game with Chips](https://codeforces.com/problemset/problem/1327/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327c.cpp)|
+
+**Day 59: March 26,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328a.cpp)|
+| [K-th Beautiful String](https://codeforces.com/problemset/problem/1328/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328b.cpp)|
+| [Ternary XOR](https://codeforces.com/problemset/problem/1328/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328c.cpp)|
