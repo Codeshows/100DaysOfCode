@@ -341,3 +341,6 @@
 
 **Day 86: (Mar 26, 2020)**
 - Solved problem on InterviewBit - [Kth Manhattan Distance Neighborhood](https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/)
+
+**Day 87: (Mar 27, 2020)**
+ - Solved problem on InterviewBit - [Coins in a Line](https://www.interviewbit.com/problems/coins-in-a-line/)
