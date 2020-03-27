@@ -545,7 +545,7 @@
 | [K-th Beautiful String](https://codeforces.com/problemset/problem/1328/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328b.cpp)|
 | [Ternary XOR](https://codeforces.com/problemset/problem/1328/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328c.cpp)|
 
-**Day 60: March 28,2020**
+**Day 60: March 27,2020**
 
 - Problem Solved:
 
