@@ -544,3 +544,12 @@
 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328a.cpp)|
 | [K-th Beautiful String](https://codeforces.com/problemset/problem/1328/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328b.cpp)|
 | [Ternary XOR](https://codeforces.com/problemset/problem/1328/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328c.cpp)|
+
+**Day 60: March 28,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Count The Blocks](https://codeforces.com/problemset/problem/1327/E) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day60/1327e.cpp)|
+| [Carousel](https://codeforces.com/problemset/problem/1328/D) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day60/1328d.cpp)|
