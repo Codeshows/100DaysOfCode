@@ -344,3 +344,6 @@
 
 **Day 87: (Mar 27, 2020)**
  - Solved problem on InterviewBit - [Coins in a Line](https://www.interviewbit.com/problems/coins-in-a-line/)
+ 
+**Day 88: (Mar 28, 2020)**
+ - Solved problem on InterviewBit - [Evaluate Expression To True](https://www.interviewbit.com/problems/evaluate-expression-to-true/)
