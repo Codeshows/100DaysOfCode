@@ -553,3 +553,13 @@
 |-----------|----------------|
 | [Count The Blocks](https://codeforces.com/problemset/problem/1327/E) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day60/1327e.cpp)|
 | [Carousel](https://codeforces.com/problemset/problem/1328/D) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day60/1328d.cpp)|
+
+**Day 61: March 28,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Coffee](https://atcoder.jp/contests/abc160/tasks/abc160_a) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_a.cpp)|
+| [Golden Coins](https://atcoder.jp/contests/abc160/tasks/abc160_b) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_b.cpp)|
+| [Traveling Salesman around Lake](https://atcoder.jp/contests/abc160/tasks/abc160_c) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_c.cpp)|
