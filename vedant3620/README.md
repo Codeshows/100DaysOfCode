@@ -504,3 +504,71 @@
 |-----------|----------------|
 | [Books](https://codeforces.com/problemset/problem/279/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day55/279b.cpp)|
 | [Sleeping Schedule](https://codeforces.com/problemset/problem/1324/E) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day55/1324e.cpp)|
+
+**Day 56: March 23,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day56/Matrix_Chain_Multiplication.cpp)|
+| [Monk in the real estate](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-in-the-real-estate/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day56/Monk_in_the_real_estate.cpp)|
+
+**Day 57: March 24,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day57/vacation(atcoder).cpp)|
+| [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day51/LCS(atcoder).cpp)|
+| [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day57/Knapsack_with_Duplicate_Items.cpp)|
+| [Global Maximum](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/global-maximum/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day57/Global_Maximum.cpp)|
+
+**Day 58: March 25,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Sum of Odd Integers](https://codeforces.com/problemset/problem/1327/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327a.cpp)|
+| [Princesses and Princes](https://codeforces.com/problemset/problem/1327/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327b.cpp)|
+| [Game with Chips](https://codeforces.com/problemset/problem/1327/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day58/1327c.cpp)|
+
+**Day 59: March 26,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328a.cpp)|
+| [K-th Beautiful String](https://codeforces.com/problemset/problem/1328/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328b.cpp)|
+| [Ternary XOR](https://codeforces.com/problemset/problem/1328/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day59/1328c.cpp)|
+
+**Day 60: March 27,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Count The Blocks](https://codeforces.com/problemset/problem/1327/E) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day60/1327e.cpp)|
+| [Carousel](https://codeforces.com/problemset/problem/1328/D) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day60/1328d.cpp)|
+
+**Day 61: March 28,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Coffee](https://atcoder.jp/contests/abc160/tasks/abc160_a) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_a.cpp)|
+| [Golden Coins](https://atcoder.jp/contests/abc160/tasks/abc160_b) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_b.cpp)|
+| [Traveling Salesman around Lake](https://atcoder.jp/contests/abc160/tasks/abc160_c) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_c.cpp)|
+
+**Day 62: March 29,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [REPROAD - Repair road](https://www.spoj.com/problems/REPROAD/) (SPOJ) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day62/REPROAD.cpp)|
+| [Largest subarray with equal number of 0s and 1s](https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day62/Largest_subarray_with_equal_number_of_0s_and_1s.cpp)|
