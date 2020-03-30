@@ -563,3 +563,12 @@
 | [Coffee](https://atcoder.jp/contests/abc160/tasks/abc160_a) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_a.cpp)|
 | [Golden Coins](https://atcoder.jp/contests/abc160/tasks/abc160_b) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_b.cpp)|
 | [Traveling Salesman around Lake](https://atcoder.jp/contests/abc160/tasks/abc160_c) (AtCoder) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day61/abc160_c.cpp)|
+
+**Day 62: March 29,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [REPROAD - Repair road](https://www.spoj.com/problems/REPROAD/) (SPOJ) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day62/REPROAD.cpp)|
+| [Largest subarray with equal number of 0s and 1s](https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day62/Largest_subarray_with_equal_number_of_0s_and_1s.cpp)|
