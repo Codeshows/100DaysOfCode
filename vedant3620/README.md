@@ -584,3 +584,12 @@
 | [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day63/Subarray_with_0_sum.cpp)|
 | [Two numbers with odd occurrences](https://practice.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day63/Two_numbers_with_odd_occurrences.cpp)|
 
+**Day 64: March 31,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Exercising Walk](https://codeforces.com/contest/1332/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332a.cpp)|
+| [Composite Coloring](https://codeforces.com/contest/1332/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332b.cpp)|
+| [K-Complete Word](https://codeforces.com/contest/1332/problem/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332c.cpp)|
