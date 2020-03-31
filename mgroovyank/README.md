@@ -350,3 +350,9 @@
  
  **Day 89: (Mar 29, 2020)**
  - Solved problem on InterviewBit - [Longest valid Parentheses](https://www.interviewbit.com/problems/longest-valid-parentheses/)
+ 
+ **Day 90: (Mar 30, 2020)**
+ - Solved problem on InterviewBit - [Max Rectangle in Binary Matrix](https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/)
+ 
+ **Day 91: (Mar 31, 2020)**
+ - Solved problem on InterviewBit - [Kingdom War](https://www.interviewbit.com/problems/kingdom-war/)
