@@ -540,3 +540,14 @@
 |-----------|----------------|
 | [Minimum & xor](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/minimum-and-xor-or-6a05bbd4/) (Hackerearth) | [Solution](Ongoing Contest)|
 | [MYSARA](https://www.codechef.com/COOK116A/problems/MYSARA) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day51/problem01.cpp)|
+
+
+# 26 March 2020 (Day 52)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Divisiblity Problem](http://codeforces.com/contest/1328/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem01.cpp)|
+| [Kth Beautiful String](http://codeforces.com/contest/1328/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem02.cpp)|
+| [Ternary XOR](http://codeforces.com/contest/1328/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem03.cpp)|
