@@ -498,12 +498,8 @@ watched videos on dynamic programming by geeksforgeeks
 * March Cook Off - Codechef
 
 ### Links:
-[Q1] (https://www.codechef.com/COOK116B/problems/GIFTSRC)  
-[A1] (https://www.codechef.com/viewsolution/30635634)  
-[Q2] (https://www.codechef.com/COOK116B/problems/CHCBOX)  
-[A2] (https://www.codechef.com/viewsolution/30653588)  
-[Q3] (https://www.codechef.com/COOK116B/problems/MYSARA)  
-[A3] (https://www.codechef.com/problems/MYSARA)  
+[Q1] (https://www.codechef.com/COOK116B/problems/MYSARA)  
+[A1] (https://www.codechef.com/problems/MYSARA)  
 
 ## Day 63: March 24,2020
 * Codeshows Contest
