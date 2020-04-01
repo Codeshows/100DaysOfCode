@@ -350,3 +350,14 @@
  
  **Day 89: (Mar 29, 2020)**
  - Solved problem on InterviewBit - [Longest valid Parentheses](https://www.interviewbit.com/problems/longest-valid-parentheses/)
+ 
+ **Day 90: (Mar 30, 2020)**
+ - Solved problem on InterviewBit - [Max Rectangle in Binary Matrix](https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/)
+ 
+ **Day 91: (Mar 31, 2020)**
+ - Solved problem on InterviewBit - [Kingdom War](https://www.interviewbit.com/problems/kingdom-war/)
+ - Solved problem on InterviewBit - [Dungeon Princess](https://www.interviewbit.com/problems/dungeon-princess/)
+ 
+ **Day 92: (Apr 01, 2020)**
+ - Solved problem on InterviewBit - [Min Sum Path in Triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/)
+ - Solved problem on InterviewBit - [Unique Paths in a Grid](https://www.interviewbit.com/problems/unique-paths-in-a-grid/)
