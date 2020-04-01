@@ -520,3 +520,34 @@
 | [Bad Ugly Nos.](http://codeforces.com/contest/1326/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem01.cpp)|
 | [Maximums](http://codeforces.com/contest/1326/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem02.cpp)|
 | [Permutation Partition](http://codeforces.com/contest/1326/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem03.cpp)|
+
+
+# 21 March 2020 (Day 50)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Dislikes and Party](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/dislikes-and-party-567b9605/) (Hackerearth) | [Solution](Ongoing Contest)|
+| [Annoying Chemistry](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/annoying-chemistry-f5fb9556/) (Hackerearth) | [Solution](Ongoing Contest)|
+
+
+# 22 March 2020 (Day 51)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minimum & xor](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/minimum-and-xor-or-6a05bbd4/) (Hackerearth) | [Solution](Ongoing Contest)|
+| [MYSARA](https://www.codechef.com/COOK116A/problems/MYSARA) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day51/problem01.cpp)|
+
+
+# 26 March 2020 (Day 52)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Divisiblity Problem](http://codeforces.com/contest/1328/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem01.cpp)|
+| [Kth Beautiful String](http://codeforces.com/contest/1328/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem02.cpp)|
+| [Ternary XOR](http://codeforces.com/contest/1328/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem03.cpp)|

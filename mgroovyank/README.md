@@ -326,3 +326,38 @@
 
 **Day 81: (Mar 21, 2020)**
 - Solved problem on InterviewBit - [Longest Arithmetic Progression](https://www.interviewbit.com/problems/longest-arithmetic-progression/)
+
+**Day 82: (Mar 22, 2020)**
+- Solved problem on InterviewBit - [N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)
+
+**Day 83: (Mar 23, 2020)**
+- Solved problem on InterviewBit - [N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)
+
+**Day 84: (Mar 24, 2020)**
+- Unsuccessful attempt to solve the problem - [Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)
+
+**Day 85: (Mar 25, 2020)**
+- Solved problem on InterviewBit - [Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)
+
+**Day 86: (Mar 26, 2020)**
+- Solved problem on InterviewBit - [Kth Manhattan Distance Neighborhood](https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/)
+
+**Day 87: (Mar 27, 2020)**
+ - Solved problem on InterviewBit - [Coins in a Line](https://www.interviewbit.com/problems/coins-in-a-line/)
+ 
+**Day 88: (Mar 28, 2020)**
+ - Solved problem on InterviewBit - [Evaluate Expression To True](https://www.interviewbit.com/problems/evaluate-expression-to-true/)
+ 
+ **Day 89: (Mar 29, 2020)**
+ - Solved problem on InterviewBit - [Longest valid Parentheses](https://www.interviewbit.com/problems/longest-valid-parentheses/)
+ 
+ **Day 90: (Mar 30, 2020)**
+ - Solved problem on InterviewBit - [Max Rectangle in Binary Matrix](https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/)
+ 
+ **Day 91: (Mar 31, 2020)**
+ - Solved problem on InterviewBit - [Kingdom War](https://www.interviewbit.com/problems/kingdom-war/)
+ - Solved problem on InterviewBit - [Dungeon Princess](https://www.interviewbit.com/problems/dungeon-princess/)
+ 
+ **Day 92: (Apr 01, 2020)**
+ - Solved problem on InterviewBit - [Min Sum Path in Triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/)
+ - Solved problem on InterviewBit - [Unique Paths in a Grid](https://www.interviewbit.com/problems/unique-paths-in-a-grid/)
