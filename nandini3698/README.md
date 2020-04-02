@@ -602,3 +602,11 @@
 | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/problem01.cpp)|
 | [Search in a Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/problem02.cpp)|
 
+
+# 02 March 2020 (Day 58)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Count And Say It !](https://www.hackerearth.com/challenges/college/codeshows-intern-1/algorithm/5bb3ee8f0a6240239bee557ae367f198/) (Codeshows) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/problem01.cpp)|
