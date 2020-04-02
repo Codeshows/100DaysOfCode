@@ -571,3 +571,13 @@
 |-----------|----------------|
 | [Carousel](https://codeforces.com/contest/1328/problem/D) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day54/problem01.cpp)|
 | [MOON](https://www.codechef.com/GHC32020/problems/MOON) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day54/problem02.cpp)|
+
+
+# 30 March 2020 (Day 55)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Minelement in sorted-rotated arr](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day55/problem01.cpp)|
+| [Partition Arr In 3 Parts of Eq Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) (leetcode) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day55/problem02.txt)|
