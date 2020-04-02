@@ -571,4 +571,25 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [REPROAD - Repair road](https://www.spoj.com/problems/REPROAD/) (SPOJ) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day62/REPROAD.cpp)|
-| [Largest subarray with equal number of 0s and 1s](https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day62/Largest_subarray_with_equal_number_of_0s_and_1s.cpp)|
+| [Largest subarray with equal number of 0s and 1s](https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day62/Largest_subarray_of_0's_and_1's.cpp)|
+
+**Day 63: March 30,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Largest Number formed from an Array](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day63/Largest_Number_formed_from_an_Array.cpp)|
+| [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day63/Longest_Consecutive_1's.cpp)|
+| [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day63/Subarray_with_0_sum.cpp)|
+| [Two numbers with odd occurrences](https://practice.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day63/Two_numbers_with_odd_occurrences.cpp)|
+
+**Day 64: March 31,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Exercising Walk](https://codeforces.com/contest/1332/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332a.cpp)|
+| [Composite Coloring](https://codeforces.com/contest/1332/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332b.cpp)|
+| [K-Complete Word](https://codeforces.com/contest/1332/problem/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332c.cpp)|
