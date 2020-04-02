@@ -1,5 +1,5 @@
 // https://www.interviewbit.com/problems/rod-cutting/
-// Time Complexity: 
+// Time Complexity: O(N^3)
 
 typedef long long int LL;
 vector<int> ans;
