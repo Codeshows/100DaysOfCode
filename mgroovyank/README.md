@@ -364,3 +364,4 @@
  
  **Day 93: (Apr 02, 2020)**
  - Solved problem on InterviewBit - [Rod Cutting](https://www.interviewbit.com/problems/rod-cutting/)
+ - Solved problem on InterviewBit - [Queen Attack](https://www.interviewbit.com/problems/queen-attack/)
