@@ -561,3 +561,13 @@
 |-----------|----------------|
 | [Toggle bits given range](https://practice.geeksforgeeks.org/problems/toggle-bits-given-range/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day53/problem01.cpp)|
 | [mid element in linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day53/problem02.cpp)|
+
+
+# 29 March 2020 (Day 54)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Carousel](https://codeforces.com/contest/1328/problem/D) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day54/problem01.cpp)|
+| [MOON](https://www.codechef.com/GHC32020/problems/MOON) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day54/problem02.cpp)|
