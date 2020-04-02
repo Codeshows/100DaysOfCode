@@ -551,3 +551,13 @@
 | [Divisiblity Problem](http://codeforces.com/contest/1328/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem01.cpp)|
 | [Kth Beautiful String](http://codeforces.com/contest/1328/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem02.cpp)|
 | [Ternary XOR](http://codeforces.com/contest/1328/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem03.cpp)|
+
+
+# 28 March 2020 (Day 53)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Toggle bits given range](https://practice.geeksforgeeks.org/problems/toggle-bits-given-range/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day53/problem01.cpp)|
+| [mid element in linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day53/problem02.cpp)|
