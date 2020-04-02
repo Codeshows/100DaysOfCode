@@ -591,3 +591,14 @@
 |-----------|----------------|
 | [Exercising Walk](https://codeforces.com/contest/1332/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day56/problem01.cpp)|
 | [Composite Coloring](https://codeforces.com/contest/1332/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day56/problem02.cpp)|
+
+
+# 01 March 2020 (Day 57)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [K-Complete Word](https://codeforces.com/contest/1332/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/problem01.cpp)|
+| [Search in a Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/problem02.cpp)|
+
