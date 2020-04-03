@@ -1,5 +1,5 @@
 // https://www.interviewbit.com/problems/word-break-ii/
-// Time Complexity: O()
+// Time Complexity: O(N^K) (Exponential)
 
 vector<string> ans;
 map<string, int> b;
