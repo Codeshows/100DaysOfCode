@@ -361,3 +361,7 @@
  **Day 92: (Apr 01, 2020)**
  - Solved problem on InterviewBit - [Min Sum Path in Triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/)
  - Solved problem on InterviewBit - [Unique Paths in a Grid](https://www.interviewbit.com/problems/unique-paths-in-a-grid/)
+ 
+ **Day 93: (Apr 02, 2020)**
+ - Solved problem on InterviewBit - [Rod Cutting](https://www.interviewbit.com/problems/rod-cutting/)
+ - Solved problem on InterviewBit - [Queen Attack](https://www.interviewbit.com/problems/queen-attack/)
