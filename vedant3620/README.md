@@ -593,3 +593,13 @@
 | [Exercising Walk](https://codeforces.com/contest/1332/problem/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332a.cpp)|
 | [Composite Coloring](https://codeforces.com/contest/1332/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332b.cpp)|
 | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day64/1332c.cpp)|
+
+**Day 65: April 1,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Limericks](https://codeforces.com/contest/1331/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day65/1331b.cpp)|
+| [Again?](https://codeforces.com/contest/1331/problem/D) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day65/1331d.cpp)|
+| [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day65/Triplet_Sum_in_Array.cpp)|
