@@ -371,3 +371,4 @@
  
  **Day 95: (Apr 04, 2020)**
  - Solved problem on InterviewBit - [Word Break](https://www.interviewbit.com/problems/word-break/)
+ - Solved problem on InterviewBit - [Sub Matrices with sum Zero](https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/)
