@@ -493,3 +493,103 @@ watched videos on dynamic programming by geeksforgeeks
 [A1] (https://www.codechef.com/viewsolution/30635634)  
 [Q2] (https://www.codechef.com/COOK116B/problems/CHCBOX)  
 [A2] (https://www.codechef.com/viewsolution/30653588)  
+
+## Day 62: March 23,2020
+* March Cook Off - Codechef
+
+### Links:
+[Q1] (https://www.codechef.com/COOK116B/problems/MYSARA)  
+[A1] (https://www.codechef.com/problems/MYSARA)  
+
+## Day 63: March 24,2020
+* Codeshows Contest
+
+### Links:
+[Q1] (https://www.hackerearth.com/problem/algorithm/game-of-thrones-7-27840c1c/)  
+[A1] (https://www.hackerearth.com/challenges/college/cgr1/algorithm/game-of-thrones-7-27840c1c/submission/38994679/)  
+[Q2] (https://www.hackerearth.com/problem/algorithm/anmol-surya-ka-bruteforce-efca0eac/)  
+[A2] (https://www.hackerearth.com/challenges/college/cgr1/algorithm/anmol-surya-ka-bruteforce-efca0eac/submission/38982998/)  
+[Q3] (https://www.hackerearth.com/problem/algorithm/078117109098101114115-d7ca7a60/)  
+[A3] (https://www.hackerearth.com/challenges/college/cgr1/algorithm/078117109098101114115-d7ca7a60/submission/38985838/)  
+[Q4] (https://www.hackerearth.com/problem/algorithm/corona-breakdown-ed6032c2/)  
+[Q5] (https://www.hackerearth.com/problem/algorithm/pascal-ka-triangle-92211afb/)  
+[A5] (https://www.hackerearth.com/challenges/college/cgr1/algorithm/pascal-ka-triangle-92211afb/submission/38993895/)  
+
+
+## Day 64: March 25,2020
+* Solved questions on Codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1327/problem/A)  
+[A1] (https://codeforces.com/contest/1327/submission/74114986)    
+[Q2] (https://codeforces.com/contest/1327/problem/B)  
+[A2] (https://codeforces.com/contest/1327/submission/74194419)  
+
+## Day 65: March 26,2020
+* Solved questions on Codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1327/problem/C)  
+[A1] (https://codeforces.com/contest/1327/submission/74391802)  
+[Q2] (https://codeforces.com/contest/1328/problem/A)  
+[A2] (https://codeforces.com/contest/1328/submission/74401393)  
+
+
+## Day 66: March 27,2020
+* Solved problems on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1328/problem/C)  
+[A1] (https://codeforces.com/contest/1328/submission/74503794)  
+[Q2] (https://codeforces.com/contest/1328/problem/B)  
+[A2] (https://codeforces.com/contest/1328/submission/74569410)  
+
+
+## Day 67: March 28,2020
+* March Lunctime- Codechef
+
+### Links:
+[Q1] (https://www.codechef.com/LTIME82B/problems/SWPDGT)  
+[A1] (https://www.codechef.com/viewsolution/30810339)  
+[Q2] (https://www.codechef.com/problems/PRFXGD)  
+[A2] (https://www.codechef.com/viewsolution/30862907)  
+
+
+## Day 68: March 29,2020
+* Solved Questions on codechef and forces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1323/problem/A)  
+[A1] (https://codeforces.com/contest/1323/submission/74640401)  
+[Q2] (https://www.codechef.com/problems/MOON)  
+[A2] (https://www.codechef.com/viewsolution/30803031)  
+
+
+## Day 69: March 30,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1307/problem/A)  
+[A1] (https://codeforces.com/contest/1307/submission/74835927)  
+
+
+## Day 70: March 31,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1313/problem/A)  
+[A1] (https://codeforces.com/contest/1313/submission/74924218)  
+[Q2] (https://codeforces.com/contest/1332/problem/A)  
+[A2] (https://codeforces.com/contest/1332/submission/74949327)  
+
+
+## Day 71: April 1,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1331/problem/A)  
+[A1] (https://codeforces.com/contest/1331/submission/75105052)  
+[Q2] (https://codeforces.com/contest/1331/problem/D)  
+[A2] (https://codeforces.com/contest/1331/submission/75117220)  
+[Q3] (https://codeforces.com/contest/1331/problem/B)  
+[A3] (https://codeforces.com/contest/1331/submission/75127119)  
