@@ -1,5 +1,5 @@
 // https://www.interviewbit.com/problems/word-break/
-// Time Complexity: O(N*6501)
+// Time Complexity: 
 
 int dp[6501];
 int wordBreakHelper(string A, int start, set<string> &b){
