@@ -1,5 +1,5 @@
 // https://www.interviewbit.com/problems/word-break/
-// Time Complexity: 
+// Time Complexity: O(N^N) (Exponential)
 
 int wordBreakHelper(string A, int start, set<string> &b){
     int end = A.length() - 1;
