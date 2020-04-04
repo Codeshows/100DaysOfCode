@@ -368,4 +368,6 @@
  
  **Day 94: (Apr 03, 2020)**
  - Solved problem on InterviewBit - [Word Break II](https://www.interviewbit.com/problems/word-break-ii/)
-
+ 
+ **Day 95: (Apr 04, 2020)**
+ - Solved problem on InterviewBit - [Word Break](https://www.interviewbit.com/problems/word-break/)
