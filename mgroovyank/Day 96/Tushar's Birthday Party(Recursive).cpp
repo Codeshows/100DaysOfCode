@@ -1,4 +1,4 @@
-//
+// https://www.interviewbit.com/problems/tushars-birthday-party/
 // Time Complexity: O(Friends * Dishes * Capacity)
 
 int dp[1001][1001];
