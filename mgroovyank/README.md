@@ -377,3 +377,4 @@
  
  **Day 96: (Apr 05, 2020)**
  - Solved problem on InterviewBit - [Tushar's Birthday Party](https://www.interviewbit.com/problems/tushars-birthday-party/)
+ - Solved problem on InterviewBit - [Flip Array](https://www.interviewbit.com/problems/flip-array/)
