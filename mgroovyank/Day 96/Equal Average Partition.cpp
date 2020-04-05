@@ -1,5 +1,5 @@
 // https://www.interviewbit.com/problems/equal-average-partition/
-// Time Complexity: O(N ^ 4)
+// Time Complexity: O(N ^ 3)
 
 vector<vector<vector<bool> > > dp;
 vector<int> res;
