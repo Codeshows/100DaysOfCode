@@ -1,5 +1,5 @@
 // https://www.interviewbit.com/problems/tushars-birthday-party/
-// Time Complexity: O(Friends * Dishes * Capacity)
+// Time Complexity: Friends * O(Dishes * Capacity)
 
 int dp[1001][1001];
 int knapSack(const vector<int> &A, const vector<int> &B, const vector<int> &C, int i, int cap){
