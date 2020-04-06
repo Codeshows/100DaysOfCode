@@ -455,8 +455,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Special shop](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day43/problem01.cpp)|
-| [RepeatedKTimes](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day43/problem02.cpp)|
+| [Special shop](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day43/program01.cpp)|
+| [RepeatedKTimes](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day43/program02.cpp)|
 
 
 # 12 March 2020 (Day 44)
@@ -465,8 +465,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Sum Subset](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/easy-sum-set-problem-7e6841ca/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day44/problem01.cpp)|
-| [Breakup App](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/breakup-app/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day44/problem02.cpp)|
+| [Sum Subset](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/easy-sum-set-problem-7e6841ca/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day44/program01.cpp)|
+| [Breakup App](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/breakup-app/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day44/program02.cpp)|
 
 
 # 13 March 2020 (Day 45)
@@ -477,7 +477,7 @@
 |-----------|----------------|
 | [BREAK](https://www.codechef.com/MARCH20B/problems/BREAK) (Codechef) | [Solution](Ongoing Contest)|
 | [EhAb AnD gCd](http://codeforces.com/contest/1325/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day45/problem01.cpp)|
-| [Copy Copy](http://codeforces.com/contest/1325/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day45/problem02.cpp)|
+| [Copy Copy](http://codeforces.com/contest/1325/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day45/program02.cpp)|
 
 
 
@@ -487,8 +487,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Square Transaction](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/square-transaction-20/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day46/problem01.cpp)|
-| [Frog Path](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day46/problem02.cpp)|
+| [Square Transaction](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/square-transaction-20/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day46/program01.cpp)|
+| [Frog Path](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day46/program02.cpp)|
 
 
 # 15 March 2020 (Day 47)
@@ -497,8 +497,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Normal Type](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/the-normal-type/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day47/problem01.cpp)|
-| [Policemen&Thieves](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/joker-and-thieves-53e59f4a/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day47/problem02.cpp)|
+| [Normal Type](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/the-normal-type/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day47/program01.cpp)|
+| [Policemen&Thieves](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/joker-and-thieves-53e59f4a/) (Hackerearth) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day47/program02.cpp)|
 
 
 # 18 Feb 2020 (Day 48)
@@ -517,9 +517,9 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Bad Ugly Nos.](http://codeforces.com/contest/1326/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem01.cpp)|
-| [Maximums](http://codeforces.com/contest/1326/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem02.cpp)|
-| [Permutation Partition](http://codeforces.com/contest/1326/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/problem03.cpp)|
+| [Bad Ugly Nos.](http://codeforces.com/contest/1326/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/program01.cpp)|
+| [Maximums](http://codeforces.com/contest/1326/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/program02.cpp)|
+| [Permutation Partition](http://codeforces.com/contest/1326/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day49/program03.cpp)|
 
 
 # 21 March 2020 (Day 50)
@@ -539,7 +539,7 @@
 |**Problem**| **My Solution**|
 |-----------|----------------|
 | [Minimum & xor](https://www.hackerearth.com/challenges/competitive/march-circuits-20/algorithm/minimum-and-xor-or-6a05bbd4/) (Hackerearth) | [Solution](Ongoing Contest)|
-| [MYSARA](https://www.codechef.com/COOK116A/problems/MYSARA) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day51/problem01.cpp)|
+| [MYSARA](https://www.codechef.com/COOK116A/problems/MYSARA) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day51/program01.cpp)|
 
 
 # 26 March 2020 (Day 52)
@@ -548,9 +548,9 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Divisiblity Problem](http://codeforces.com/contest/1328/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem01.cpp)|
-| [Kth Beautiful String](http://codeforces.com/contest/1328/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem02.cpp)|
-| [Ternary XOR](http://codeforces.com/contest/1328/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/problem03.cpp)|
+| [Divisiblity Problem](http://codeforces.com/contest/1328/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/program01.cpp)|
+| [Kth Beautiful String](http://codeforces.com/contest/1328/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/program02.cpp)|
+| [Ternary XOR](http://codeforces.com/contest/1328/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day52/program03.cpp)|
 
 
 # 28 March 2020 (Day 53)
@@ -559,8 +559,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Toggle bits given range](https://practice.geeksforgeeks.org/problems/toggle-bits-given-range/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day53/problem01.cpp)|
-| [mid element in linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day53/problem02.cpp)|
+| [Toggle bits given range](https://practice.geeksforgeeks.org/problems/toggle-bits-given-range/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day53/program01.cpp)|
+| [mid element in linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day53/program02.cpp)|
 
 
 # 29 March 2020 (Day 54)
@@ -569,8 +569,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Carousel](https://codeforces.com/contest/1328/problem/D) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day54/problem01.cpp)|
-| [MOON](https://www.codechef.com/GHC32020/problems/MOON) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day54/problem02.cpp)|
+| [Carousel](https://codeforces.com/contest/1328/problem/D) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day54/program01.cpp)|
+| [MOON](https://www.codechef.com/GHC32020/problems/MOON) (Codechef) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day54/program02.cpp)|
 
 
 # 30 March 2020 (Day 55)
@@ -579,8 +579,8 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Minelement in sorted-rotated arr](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day55/problem01.cpp)|
-| [Partition Arr In 3 Parts of Eq Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) (leetcode) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day55/problem02.txt)|
+| [Minelement in sorted-rotated arr](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day55/program01.cpp)|
+| [Partition Arr In 3 Parts of Eq Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) (leetcode) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day55/program02.txt)|
 
 
 # 31 March 2020 (Day 56)
@@ -589,24 +589,46 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Exercising Walk](https://codeforces.com/contest/1332/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day56/problem01.cpp)|
-| [Composite Coloring](https://codeforces.com/contest/1332/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day56/problem02.cpp)|
+| [Exercising Walk](https://codeforces.com/contest/1332/problem/A) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day56/program01.cpp)|
+| [Composite Coloring](https://codeforces.com/contest/1332/problem/B) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day56/program02.cpp)|
 
 
-# 01 March 2020 (Day 57)
-
-- Problem Solved:
-
-|**Problem**| **My Solution**|
-|-----------|----------------|
-| [K-Complete Word](https://codeforces.com/contest/1332/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/problem01.cpp)|
-| [Search in a Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/problem02.cpp)|
-
-
-# 02 March 2020 (Day 58)
+# 01 April 2020 (Day 57)
 
 - Problem Solved:
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Count And Say It !](https://www.hackerearth.com/challenges/college/codeshows-intern-1/algorithm/5bb3ee8f0a6240239bee557ae367f198/) (Codeshows) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/problem01.cpp)|
+| [K-Complete Word](https://codeforces.com/contest/1332/problem/C) (Codeforces) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/program01.cpp)|
+| [Search in a Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0) (geeksforgeeks) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/program02.cpp)|
+
+
+# 02 April 2020 (Day 58)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Count And Say It !](https://www.hackerearth.com/challenges/college/codeshows-intern-1/algorithm/5bb3ee8f0a6240239bee557ae367f198/) (Codeshows) | [Solution](https://github.com/Codeshows/100DaysOfCode/blob/master/nandini3698/Day57/program01.cpp)|
+
+
+# 03 April 2020 (Day 59)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [COVIDLQ](https://www.codechef.com/APRIL20B/problems/COVIDLQ) (Codechef) | [Solution](Ongoing Contest)|
+| [CARSELL](https://www.codechef.com/APRIL20B/problems/CARSELL) (Codechef) | [Solution](Ongoing Contest)|
+| [STRNOL](https://www.codechef.com/APRIL20B/problems/STRNO) (Codechef) | [Solution](Ongoing Contest)|
+
+
+# 04 April 2020 (Day 60)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) (Google Codejam) | [Solution](Ongoing Contest)|
+| [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) (Google Codejam) | [Solution](Ongoing Contest)|
+| [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) (Google Codejam) | [Solution](Ongoing Contest)|
