@@ -621,3 +621,14 @@
 | [COVIDLQ](https://www.codechef.com/APRIL20B/problems/COVIDLQ) (Codechef) | [Solution](Ongoing Contest)|
 | [CARSELL](https://www.codechef.com/APRIL20B/problems/CARSELL) (Codechef) | [Solution](Ongoing Contest)|
 | [STRNOL](https://www.codechef.com/APRIL20B/problems/STRNO) (Codechef) | [Solution](Ongoing Contest)|
+
+
+# 04 April 2020 (Day 60)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) (Google Codejam) | [Solution](Ongoing Contest)|
+| [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) (Google Codejam) | [Solution](Ongoing Contest)|
+| [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) (Google Codejam) | [Solution](Ongoing Contest)|
