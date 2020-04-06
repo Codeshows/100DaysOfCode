@@ -383,3 +383,4 @@
  **Day 97: (Apr 06, 2020)**
  - Solved problem on InterviewBit - [Highest Product](https://www.interviewbit.com/problems/highest-product/)
  - Solved problem on InterviewBit - [Seats](https://www.interviewbit.com/problems/seats/)
+ - Solved problem on InterviewBit - [Bulbs](https://www.interviewbit.com/problems/bulbs/)
