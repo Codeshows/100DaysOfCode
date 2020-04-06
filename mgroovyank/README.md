@@ -379,3 +379,7 @@
  - Solved problem on InterviewBit - [Tushar's Birthday Party](https://www.interviewbit.com/problems/tushars-birthday-party/)
  - Solved problem on InterviewBit - [Flip Array](https://www.interviewbit.com/problems/flip-array/)
  - Solved problem on InterviewBit - [Equal Average Partition](https://www.interviewbit.com/problems/equal-average-partition/)
+ 
+ **Day 97: (Apr 06, 2020)**
+ - Solved problem on InterviewBit - [Highest Product](https://www.interviewbit.com/problems/highest-product/)
+ - Solved problem on InterviewBit - [Seats](https://www.interviewbit.com/problems/seats/)
