@@ -603,3 +603,57 @@
 | [Limericks](https://codeforces.com/contest/1331/problem/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day65/1331b.cpp)|
 | [Again?](https://codeforces.com/contest/1331/problem/D) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day65/1331d.cpp)|
 | [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day65/Triplet_Sum_in_Array.cpp)|
+
+
+**Day 66: April 2,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Count And Say It !](https://www.hackerearth.com/problem/algorithm/count-and-say-it/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day66/Count_and_say_it.cpp)|
+| [Pascal Ka triangle 2.0](https://www.hackerearth.com/problem/algorithm/pascal-ka-triangle-20/) (Hackerearth) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day66/Pascal_Ka_Triangle.cpp)|
+
+
+**Day 67: April 3,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Search in a Rotated Array](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day67/Search_in_a_Rotated_Array.cpp)|
+| [Count triplets with sum smaller than X](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day67/Count_triplets_with_sum_smaller_than_X.cpp)|
+| [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day67/Number_of_occurrence.cpp)|
+| [Pythagorean Triplet](https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0) (Geeks for Geeks) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day67/Pythagorean_Triplet.cpp)|
+
+
+**Day 68: April 4,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) (Google Code Jam) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day68/Vestigium.cpp)|
+| [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) (Google Code Jam) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day68/Nesting_Depth.cpp)|
+| [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) (Google Code Jam) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day68/Parenting_Partnering_Returns.cpp)|
+
+
+**Day 69: April 5,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Dreamoon and Ranking Collection](https://codeforces.com/problemset/problem/1330/A) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day68/1330a.cpp)|
+| [Dreamoon Likes Permutations](https://codeforces.com/problemset/problem/1330/B) (Codeforces) | [solution](https://github.com/Codeshows/100DaysOfCode/blob/master/vedant3620/day68/1330b.cpp)|
+
+
+**Day 70: April 6,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [COVID Pandemic and Long Queue](https://www.codechef.com/APRIL20B/problems/COVIDLQ) (Codechef) | Ongoing Contest |
+| [Sell All the Cars](https://www.codechef.com/APRIL20B/problems/CARSELL) (Codechef) | Ongoing Contest |
+| [Strange Number](https://www.codechef.com/APRIL20B/problems/STRNO) (Codechef) | Ongoing Contest |
