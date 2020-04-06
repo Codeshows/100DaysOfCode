@@ -374,3 +374,14 @@
  - Solved problem on InterviewBit - [Sub Matrices with sum Zero](https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/)
  - Solved problem on InterviewBit - [Coin Sum Infinite](https://www.interviewbit.com/problems/coin-sum-infinite/)
  - Solved problem on InterviewBit - [Arrange II](https://www.interviewbit.com/problems/arrange-ii/)
+ 
+ **Day 96: (Apr 05, 2020)**
+ - Solved problem on InterviewBit - [Tushar's Birthday Party](https://www.interviewbit.com/problems/tushars-birthday-party/)
+ - Solved problem on InterviewBit - [Flip Array](https://www.interviewbit.com/problems/flip-array/)
+ - Solved problem on InterviewBit - [Equal Average Partition](https://www.interviewbit.com/problems/equal-average-partition/)
+ 
+ **Day 97: (Apr 06, 2020)**
+ - Solved problem on InterviewBit - [Highest Product](https://www.interviewbit.com/problems/highest-product/)
+ - Solved problem on InterviewBit - [Seats](https://www.interviewbit.com/problems/seats/)
+ - Solved problem on InterviewBit - [Bulbs](https://www.interviewbit.com/problems/bulbs/)
+ - Solved problem on InterviewBit - [Assign Mice to Holes](https://www.interviewbit.com/problems/assign-mice-to-holes/)
