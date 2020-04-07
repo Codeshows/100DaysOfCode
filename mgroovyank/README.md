@@ -385,3 +385,6 @@
  - Solved problem on InterviewBit - [Seats](https://www.interviewbit.com/problems/seats/)
  - Solved problem on InterviewBit - [Bulbs](https://www.interviewbit.com/problems/bulbs/)
  - Solved problem on InterviewBit - [Assign Mice to Holes](https://www.interviewbit.com/problems/assign-mice-to-holes/)
+ 
+ **Day 98: (Apr 07, 2020)**
+ - Solved problem on InterviewBit - [Smallest sequence with given Primes](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)
