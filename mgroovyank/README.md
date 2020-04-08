@@ -390,3 +390,6 @@
  - Solved problem on InterviewBit - [Smallest sequence with given Primes](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)
 - Solved problem on InterviewBit - [Valid Path](https://www.interviewbit.com/problems/valid-path/)
 - Solved problem on InterviewBit - [Level Order](https://www.interviewbit.com/problems/level-order/)
+
+**Day 99: (Apr 08, 2020)**
+- Solved problem on InterviewBit - [Smallest Multiple With 0 and 1](https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/)
