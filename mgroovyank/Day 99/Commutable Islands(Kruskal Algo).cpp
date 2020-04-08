@@ -1,5 +1,5 @@
 // https://www.interviewbit.com/problems/commutable-islands/
-// Time Complexity: O(MLogM + MLogA) (sorting + Union - Find)
+// Time Complexity: O(MLogM + M*A) (sorting + Union -Find)
 
 
 vector<int> parent;
