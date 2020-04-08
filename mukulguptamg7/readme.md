@@ -9,13 +9,12 @@
 ## Goals
 
 **Copetitive Programming**
-- [ ] Increase Codechef rating
-- [ ] Increase Codechef rating upto 1800
-- [ ] Solve Codechef Beginner Questions
+- [ ] Practice Competitive Questions
 
 **Learning Goals**
 - [ ] C++
 - [ ] Data Structures
+- [ ] Web Development
 
 ---
 
@@ -372,3 +371,78 @@
 
 #### Learning
 - Completed Bitmasking
+
+### DAY 37 : (Feb 6,2020)
+
+#### Learning and Practice
+- Stack 
+
+### DAY 38 : (Feb 7,2020)
+
+#### Learning and Practice
+- Stack 
+
+### DAY 39 : (Feb 8,2020)
+
+#### Learning and Practice
+- Stack 
+
+### DAY 40 : (Feb 9,2020)
+
+#### Learning and Practice
+- Stack 
+
+### DAY 41 : (Feb 10,2020)
+
+#### Learning and Practice
+- Stack 
+
+### DAY 42 : (Feb 11,2020)
+
+#### Learning and Practice
+- Queue
+
+### DAY 43 : (Feb 12,2020)
+
+#### Learning and Practice
+- Queue
+
+### DAY 44 : (Feb 13,2020)
+
+#### Learning and Practice
+- Queue
+
+### DAY 45 : (Feb 14,2020)
+
+#### Learning and Practice
+- Queue
+
+### DAY 46 : (Feb 15,2020)
+
+#### Learning 
+- HTML
+
+### DAY 47 : (Feb 16,2020)
+
+#### Learning 
+- HTML
+
+### DAY 48 : (Feb 17,2020)
+
+#### Learning 
+- HTML
+
+### DAY 49 : (Feb 18,2020)
+
+#### Learning 
+- CSS
+
+### DAY 50 : (Feb 19,2020)
+
+#### Learning 
+- CSS
+
+### DAY 51 : (Feb 20,2020)
+
+#### Learning 
+- CSS
