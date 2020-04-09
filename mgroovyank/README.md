@@ -395,3 +395,6 @@
 - Solved problem on InterviewBit - [Smallest Multiple With 0 and 1](https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/)
 - Solved problem on InterviewBit - [Commutable Islands](https://www.interviewbit.com/problems/commutable-islands/)
 - Solved problem on InterviewBit - [Possibility of finishing all courses given pre-requisites](https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/)
+
+**Day 100: (Apr 09, 2020)**
+- Solved problem on InterviewBit - [Black Shapes](https://www.interviewbit.com/problems/black-shapes/)
