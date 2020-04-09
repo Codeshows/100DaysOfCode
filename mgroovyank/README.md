@@ -398,3 +398,4 @@
 
 **Day 100: (Apr 09, 2020)**
 - Solved problem on InterviewBit - [Black Shapes](https://www.interviewbit.com/problems/black-shapes/)
+- Solved problem on InterviewBit - [Capture Regions on Board](https://www.interviewbit.com/problems/capture-regions-on-board/)
