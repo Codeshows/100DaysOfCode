@@ -1,0 +1,40 @@
+// https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
+// Partition Array Into Three Parts With Equal Sum
+
+class Solution {
+public:
+    bool canThreePartsEqualSum(vector<int>& A) {
+        int sm=0;
+        for(int i=0;i<A.size();i++)
+            sm+=A[i];
+        if(sm%3==0){
+            sm=sm/3;
+            int c=0;
+            int i=0,j=A.size()-1;
+            for(i=0;i<A.size();i++){
+                c+=A[i];
+                if(c==sm)
+                    break;
+            }
+            c=0;
+            for(j=A.size()-1;j>=0;j--){
+                c+=A[j];
+                if(c==sm)
+                    break;
+            }
+            i++;j--;
+            if(i<=j){
+                c=0;
+                for(int r=i;r<=j;r++)
+                    c+=A[r];
+                if(c==sm)
+                    return true;
+                return false;
+            }
+            else
+                return false;
+        }
+        else
+                return false;
+    }
+};

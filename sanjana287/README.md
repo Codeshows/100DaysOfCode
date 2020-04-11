@@ -675,6 +675,3 @@ watched videos on dynamic programming by geeksforgeeks
 [Q2] (https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/sherlock-and-numbers/)  
 [A2] (https://www.hackerearth.com/submission/40393918/)  
 
-
-
-
