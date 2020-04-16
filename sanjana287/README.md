@@ -593,3 +593,85 @@ watched videos on dynamic programming by geeksforgeeks
 [A2] (https://codeforces.com/contest/1331/submission/75117220)  
 [Q3] (https://codeforces.com/contest/1331/problem/B)  
 [A3] (https://codeforces.com/contest/1331/submission/75127119)  
+
+
+## Day 72: April 2,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1307/problem/B)  
+[A1] (https://codeforces.com/contest/1307/submission/75237858)  
+[Q2] (https://codeforces.com/contest/1332/problem/B)  
+[A2] (https://codeforces.com/contest/1332/submission/75236732)  
+
+## Day 73: April 3,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1323/problem/B)  
+[A1] (https://codeforces.com/contest/1323/submission/75343800)  
+[Q2] (https://codeforces.com/contest/1323/problem/C)  
+[A2] (https://codeforces.com/contest/1323/submission/75345103)  
+[Q3] (https://codeforces.com/contest/1330/problem/A)  
+[A3] (https://codeforces.com/contest/1330/submission/75423700)  
+
+## Day 74: April 4,2020
+* Long challenge- Codechef (ongoing)
+
+### Links:
+[Q1] (https://www.codechef.com/APRIL20B/problems/CARSELL)  
+[Q2] (https://www.codechef.com/APRIL20B/problems/COVIDLQ)  
+
+## Day 75: April 5,2020
+* Long challenge- codechef (ongoing)
+
+### Links:
+[Q1] (https://www.codechef.com/APRIL20B/problems/STRNO)  
+[Q2] (https://www.codechef.com/APRIL20B/problems/UNITGCD)  
+
+## Day 76: April 6,2020
+* Long challenge- codechef (ongoing)
+
+### Links:
+[Q1] (https://www.codechef.com/APRIL20B/problems/SQRDSUB)  
+
+## Day 77: April 7,2020
+* Long challenge- codechef (ongoing)
+
+### Links:
+[Q1] (https://www.codechef.com/APRIL20B/problems/ANSLEAK)  
+
+## Day 78: April 8,2020
+* Long challenge- codechef (ongoing)
+
+### Links:
+[Q1] (https://www.codechef.com/APRIL20B/problems/FCTRE)  
+
+## Day 79: April 9,2020
+* problems solved on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1333/problem/A)  
+[A1] (https://codeforces.com/contest/1333/submission/75956696)  
+[Q2] (https://codeforces.com/contest/1333/problem/B)  
+[A2] (https://codeforces.com/contest/1333/submission/75958109)  
+
+## Day 80: April 10,2020
+* Greedy algorithms- Hackerearth
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-walls/)  
+[A1] (https://www.hackerearth.com/submission/40344589/)  
+[Q2] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/flip-the-world/)  
+[A1] (https://www.hackerearth.com/submission/40346744/)  
+
+
+## Day 81: April 11,2020
+* Hackerearth
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-profit-fd9f0ee3/)  
+[A1] (https://www.hackerearth.com/submission/40385525/)  
+[Q2] (https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/sherlock-and-numbers/)  
+[A2] (https://www.hackerearth.com/submission/40393918/)  
+
