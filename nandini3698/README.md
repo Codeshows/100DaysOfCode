@@ -632,3 +632,71 @@
 | [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) (Google Codejam) | [Solution](Ongoing Contest)|
 | [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) (Google Codejam) | [Solution](Ongoing Contest)|
 | [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) (Google Codejam) | [Solution](Ongoing Contest)|
+
+
+# 05 April 2020 (Day 61)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [UNITGCD](https://www.codechef.com/APRIL20B/problems/UNITGCD) (Codechef) | [Solution](Ongoing Contest)|
+| [SQRDSUB](https://www.codechef.com/APRIL20B/problems/SQRDSUB) (Codechef) | [Solution](Ongoing Contest)|
+
+
+# 06 April 2020 (Day 62)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [ANSLEAK](https://www.codechef.com/APRIL20B/problems/ANSLEAK) (Codechef) | [Solution](Ongoing Contest)|
+| [Single Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/) (LeetCode) | [Solution](Ongoing Contest)|
+
+
+# 07 April 2020 (Day 63)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Happy Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/) (LeetCode) | [Solution](Ongoing Contest)|
+| [Maximum Subarray](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3285/) (LeetCode) | [Solution](Ongoing Contest)|
+
+
+# 08 April 2020 (Day 64)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Move Zeroes](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/) (LeetCode) | [Solution](Ongoing Contest)|
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3287/) (LeetCode) | [Solution](Ongoing Contest)|
+
+
+# 09 April 2020 (Day 65)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Group Anagrams](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/) (LeetCode) | [Solution](Ongoing Contest)|
+| [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/) (LeetCode) | [Solution](Ongoing Contest)|
+
+
+# 10 April 2020 (Day 66)
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Middle of the Linked List](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3290/) (LeetCode) | [Solution](Ongoing Contest)|
+| [Backspace String Compare](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3291/) (LeetCode) | [Solution](Ongoing Contest)|
+
+
+
+
+
+
+
+

@@ -385,3 +385,18 @@
  - Solved problem on InterviewBit - [Seats](https://www.interviewbit.com/problems/seats/)
  - Solved problem on InterviewBit - [Bulbs](https://www.interviewbit.com/problems/bulbs/)
  - Solved problem on InterviewBit - [Assign Mice to Holes](https://www.interviewbit.com/problems/assign-mice-to-holes/)
+ 
+ **Day 98: (Apr 07, 2020)**
+ - Solved problem on InterviewBit - [Smallest sequence with given Primes](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)
+- Solved problem on InterviewBit - [Valid Path](https://www.interviewbit.com/problems/valid-path/)
+- Solved problem on InterviewBit - [Level Order](https://www.interviewbit.com/problems/level-order/)
+
+**Day 99: (Apr 08, 2020)**
+- Solved problem on InterviewBit - [Smallest Multiple With 0 and 1](https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/)
+- Solved problem on InterviewBit - [Commutable Islands](https://www.interviewbit.com/problems/commutable-islands/)
+- Solved problem on InterviewBit - [Possibility of finishing all courses given pre-requisites](https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/)
+
+**Day 100: (Apr 09, 2020)**
+- Solved problem on InterviewBit - [Black Shapes](https://www.interviewbit.com/problems/black-shapes/)
+- Solved problem on InterviewBit - [Capture Regions on Board](https://www.interviewbit.com/problems/capture-regions-on-board/)
+- Solved problem on InterviewBit - [Largest Distance between nodes of a Tree](https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/)

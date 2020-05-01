@@ -675,6 +675,7 @@ watched videos on dynamic programming by geeksforgeeks
 [Q2] (https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/sherlock-and-numbers/)  
 [A2] (https://www.hackerearth.com/submission/40393918/)  
 
+
 ## Day 82: April 12,2020
 * Solved questions on codeforces
 
