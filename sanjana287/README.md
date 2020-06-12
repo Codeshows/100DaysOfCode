@@ -675,3 +675,135 @@ watched videos on dynamic programming by geeksforgeeks
 [Q2] (https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/sherlock-and-numbers/)  
 [A2] (https://www.hackerearth.com/submission/40393918/)  
 
+
+## Day 82: April 12,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1339/problem/A)  
+[A1] (https://codeforces.com/contest/1339/submission/76339871)  
+[Q2] (https://codeforces.com/contest/1339/problem/B)  
+[A2] (https://codeforces.com/contest/1339/submission/76368824)  
+
+## Day 83: April 13,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1335/problem/A)    
+[A1] (https://codeforces.com/contest/1335/submission/76511189)  
+[Q2] (https://codeforces.com/contest/1335/problem/B)  
+[A2] (https://codeforces.com/contest/1335/submission/76541866)  
+[Q3] (https://codeforces.com/contest/1335/problem/C)  
+[A3] (https://codeforces.com/contest/1335/submission/76589826)  
+
+
+## Day 84: April 14,2020
+* Solved questions on codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1337/problem/A)
+[A1] (https://codeforces.com/contest/1337/submission/76822052)  
+[Q2] (https://codeforces.com/contest/1337/problem/B)  
+[A2] (https://codeforces.com/contest/1337/submission/76839149)  
+
+
+## Day 85: April 15,2020
+* Solved questions on hackerearth
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/chandu-and-consecutive-letters/)  
+[A1] (https://www.hackerearth.com/submission/40526681/)  
+[Q2] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/eat-or-not-22/)  
+[A2] (https://www.hackerearth.com/submission/40485648/)  
+
+
+## Day 86: April 16,2020
+* Hackerearth practice
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/easy-sum-set-problem-7e6841ca/)  
+[A1] (https://www.hackerearth.com/submission/40658014/)  
+[Q2] (https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/sort-it-out/)  
+[A2] (https://www.hackerearth.com/submission/40696381/)  
+
+## Day 87: April 17,2020
+* Hackerearth practice
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/pizza-confusion/)  
+[A1] (https://www.hackerearth.com/submission/40698744/)  
+
+
+## Day 88: April 24,2020
+* Codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1343/problem/A)  
+[A1] (https://codeforces.com/contest/1343/submission/77928095)  
+[Q2] (https://codeforces.com/contest/1343/problem/B)  
+[A2] (https://codeforces.com/contest/1343/submission/77946015)  
+
+
+## Day 89: April 25,2020
+* Codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1341/problem/A)  
+[A1] (https://codeforces.com/contest/1341/submission/78028585)  
+[Q2] (https://codeforces.com/contest/1341/problem/B)  
+[A2] (https://codeforces.com/contest/1341/submission/78034567)  
+
+
+## Day 90: April 26,2020
+* Codeforces
+
+### Links:
+[Q1] (https://codeforces.com/contest/1342/problem/A)  
+[A1] (https://codeforces.com/contest/1342/submission/78165738)  
+[Q2] (https://codeforces.com/contest/1342/problem/B)  
+[A2] (https://codeforces.com/contest/1342/submission/78180423)  
+
+## Day 91: April 27,2020
+* Hackerearth
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lets-shift-2-36d90caa/)  
+[A1] (https://www.hackerearth.com/submission/40971944/)  
+
+
+## Day 92: April 28,2020
+* Hackerearth
+
+### Links:
+[Q1] (https://www.hackerearth.com/problem/algorithm/happy-segments-e290faa6/)  
+[A1] (https://www.hackerearth.com/submission/41005738/)  
+
+
+## Day 93: April 29,2020
+* Hackerearth
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/monk-takes-a-walk/)  
+[A1] (https://www.hackerearth.com/submission/41136594/)  
+[Q2] (https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/)  
+[A2] (https://www.hackerearth.com/submission/41136943/)  
+
+## Day 94: April 30,2020
+* Hackerearth
+
+### Links:
+[Q1] (https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/)  
+[A1] (https://www.hackerearth.com/submission/41179871/)  
+[Q2] (https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/maximum-sum-4-f8d12458/)  
+[A2] (https://www.hackerearth.com/submission/41297948/)  
+[Q3] (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/dorsplen/)  
+[A3] (https://www.hackerearth.com/submission/41299597/)  
+
+
+## Day 95: May 1,2020
+* May long challenge- Codechef (ongoing)
+
+### Links:
+[Q1] (https://www.codechef.com/MAY20B/problems/COVID19)  
+[Q2] (https://www.codechef.com/MAY20B/problems/CORUS)  
+
