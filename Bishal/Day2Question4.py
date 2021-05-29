@@ -27,3 +27,4 @@ print("Item path and name: " + str(path.split(path.realpath("Text.txt"))))
 t = time.ctime(path.getmtime("Text.txt"))
 print(t)
 print(datetime.datetime.fromtimestamp(path.getctime("Text.txt")))
+
